@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xiaomi MIUI / HyperOS ROM Feed</title>
-    <link>https://username.github.io/xiaomi-rom-rss/</link>
+    <link>https://xmifrmx.github.io/mifrm/</link>
     <description>Latest official Xiaomi MIUI and HyperOS Fastboot ROM downloads</description>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Aug 2026 14:19:28 +0000</lastBuildDate>
-    <atom:link href="https://username.github.io/xiaomi-rom-rss/rss.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sun, 02 Aug 2026 14:25:43 +0000</lastBuildDate>
+    <atom:link href="https://xmifrmx.github.io/mifrm/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>agate_global - V816.0.17.0.UKWMIXM</title>
       <description>Device: Xiaomi 11T (agate_global)
@@ -19,7 +19,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V816.0.17.0.UKWMIXM/agate_global_images_OS1.0.17.0.UKWMIXM_20250730.0000.00_14.0_global_19866f833e.tgz</description>
       <link>https://superota.d.miui.com/V816.0.17.0.UKWMIXM/agate_global_images_OS1.0.17.0.UKWMIXM_20250730.0000.00_14.0_global_19866f833e.tgz</link>
       <guid isPermaLink="false">agate_global_V816.0.17.0.UKWMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -34,7 +34,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS2.0.207.0.VGQMIXM/air_global_images_OS2.0.207.0.VGQMIXM_20260520.0000.00_15.0_global_5b3340d7d4.tgz</description>
       <link>https://superota.d.miui.com/OS2.0.207.0.VGQMIXM/air_global_images_OS2.0.207.0.VGQMIXM_20260520.0000.00_15.0_global_5b3340d7d4.tgz</link>
       <guid isPermaLink="false">air_global_OS2.0.207.0.VGQMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -49,7 +49,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V816.0.5.0.TKHMIXM/alioth_global_images_OS1.0.5.0.TKHMIXM_20260112.0000.00_13.0_global_476e4b975e.tgz</description>
       <link>https://superota.d.miui.com/V816.0.5.0.TKHMIXM/alioth_global_images_OS1.0.5.0.TKHMIXM_20260112.0000.00_13.0_global_476e4b975e.tgz</link>
       <guid isPermaLink="false">alioth_global_V816.0.5.0.TKHMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -64,7 +64,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.304.0.WOPMIXM/amethyst_global_images_OS3.0.304.0.WOPMIXM_20260609.0000.00_16.0_global_693431a001.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.304.0.WOPMIXM/amethyst_global_images_OS3.0.304.0.WOPMIXM_20260609.0000.00_16.0_global_693431a001.tgz</link>
       <guid isPermaLink="false">amethyst_global_OS3.0.304.0.WOPMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -79,7 +79,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V12.0.4.0.PEMMIXM/andromeda_global_images_V12.0.4.0.PEMMIXM_20210324.0000.00_9.0_global_fef9f84dc6.tgz</description>
       <link>https://superota.d.miui.com/V12.0.4.0.PEMMIXM/andromeda_global_images_V12.0.4.0.PEMMIXM_20210324.0000.00_9.0_global_fef9f84dc6.tgz</link>
       <guid isPermaLink="false">andromeda_global_V12.0.4.0.PEMMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -94,7 +94,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V12.0.23.0.QCRMIXM/angelica_global_images_V12.0.23.0.QCRMIXM_20230323.0000.00_10.0_global_e388f9344e.tgz</description>
       <link>https://superota.d.miui.com/V12.0.23.0.QCRMIXM/angelica_global_images_V12.0.23.0.QCRMIXM_20230323.0000.00_10.0_global_e388f9344e.tgz</link>
       <guid isPermaLink="false">angelica_global_V12.0.23.0.QCRMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -109,7 +109,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V12.0.19.0.QCRINXM/angelicain_in_global_images_V12.0.19.0.QCRINXM_20220826.0000.00_10.0_in_9b2476337d.tgz</description>
       <link>https://superota.d.miui.com/V12.0.19.0.QCRINXM/angelicain_in_global_images_V12.0.19.0.QCRINXM_20220826.0000.00_10.0_in_9b2476337d.tgz</link>
       <guid isPermaLink="false">angelicain_in_global_V12.0.19.0.QCRINXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>India</category>
     </item>
     <item>
@@ -124,7 +124,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V12.0.16.0.QCSMIXM/angelican_global_images_V12.0.16.0.QCSMIXM_20221008.0000.00_10.0_global_09074d4d99.tgz</description>
       <link>https://superota.d.miui.com/V12.0.16.0.QCSMIXM/angelican_global_images_V12.0.16.0.QCSMIXM_20221008.0000.00_10.0_global_09074d4d99.tgz</link>
       <guid isPermaLink="false">angelican_global_V12.0.16.0.QCSMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -139,7 +139,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.8.0.WPKMIXM/annibale_global_images_OS3.0.8.0.WPKMIXM_20251224.0000.00_16.0_global_7a16d2eedf.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.8.0.WPKMIXM/annibale_global_images_OS3.0.8.0.WPKMIXM_20251224.0000.00_16.0_global_7a16d2eedf.tgz</link>
       <guid isPermaLink="false">annibale_global_OS3.0.8.0.WPKMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -154,7 +154,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V14.0.4.0.SJDMIXM/apollo_global_images_V14.0.4.0.SJDMIXM_20230705.0000.00_12.0_global_8bd90035e5.tgz</description>
       <link>https://superota.d.miui.com/V14.0.4.0.SJDMIXM/apollo_global_images_V14.0.4.0.SJDMIXM_20230705.0000.00_12.0_global_8bd90035e5.tgz</link>
       <guid isPermaLink="false">apollo_global_V14.0.4.0.SJDMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -169,7 +169,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.8.0.WBVMIXM/arctic_global-images-OS3.0.8.0.WBVMIXM-user-20260518.0000.00-16.0-global-6670002810.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.8.0.WBVMIXM/arctic_global-images-OS3.0.8.0.WBVMIXM-user-20260518.0000.00-16.0-global-6670002810.tgz</link>
       <guid isPermaLink="false">arctic_global_OS3.0.8.0.WBVMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -184,7 +184,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V816.0.2.0.TKJINXM/ares_in_global_images_OS1.0.2.0.TKJINXM_20240325.0000.00_13.0_in_a4206a31eb.tgz</description>
       <link>https://superota.d.miui.com/V816.0.2.0.TKJINXM/ares_in_global_images_OS1.0.2.0.TKJINXM_20240325.0000.00_13.0_in_a4206a31eb.tgz</link>
       <guid isPermaLink="false">ares_in_global_V816.0.2.0.TKJINXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>India</category>
     </item>
     <item>
@@ -199,7 +199,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V9.2.2.0.LXAMIEK/aries_global_images_V9.2.2.0.LXAMIEK_20180117.0000.00_5.0_global_2b5d73471b.tgz</description>
       <link>https://superota.d.miui.com/V9.2.2.0.LXAMIEK/aries_global_images_V9.2.2.0.LXAMIEK_20180117.0000.00_5.0_global_2b5d73471b.tgz</link>
       <guid isPermaLink="false">aries_global_V9.2.2.0.LXAMIEK</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -214,7 +214,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS2.0.214.0.VMFMIXM/aristotle_global_images_OS2.0.214.0.VMFMIXM_20260202.0000.00_15.0_global_c5b5fe03af.tgz</description>
       <link>https://superota.d.miui.com/OS2.0.214.0.VMFMIXM/aristotle_global_images_OS2.0.214.0.VMFMIXM_20260202.0000.00_15.0_global_c5b5fe03af.tgz</link>
       <guid isPermaLink="false">aristotle_global_OS2.0.214.0.VMFMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -229,7 +229,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V9.2.3.0.KHCMIEK/armani_global_images_V9.2.3.0.KHCMIEK_20180406.0000.00_4.4_global_1757bfb6f6.tgz</description>
       <link>https://superota.d.miui.com/V9.2.3.0.KHCMIEK/armani_global_images_V9.2.3.0.KHCMIEK_20180406.0000.00_4.4_global_1757bfb6f6.tgz</link>
       <guid isPermaLink="false">armani_global_V9.2.3.0.KHCMIEK</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -244,7 +244,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.303.0.WNAMIXM/aurora_global_images_OS3.0.303.0.WNAMIXM_20260630.0000.00_16.0_global_aa900ddb0c.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.303.0.WNAMIXM/aurora_global_images_OS3.0.303.0.WNAMIXM_20260630.0000.00_16.0_global_aa900ddb0c.tgz</link>
       <guid isPermaLink="false">aurora_global_OS3.0.303.0.WNAMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -259,7 +259,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V12.5.1.0.RGGMIXM/begonia_global_images_V12.5.1.0.RGGMIXM_20210629.0000.00_11.0_global_73e7592b66.tgz</description>
       <link>https://superota.d.miui.com/V12.5.1.0.RGGMIXM/begonia_global_images_V12.5.1.0.RGGMIXM_20210629.0000.00_11.0_global_73e7592b66.tgz</link>
       <guid isPermaLink="false">begonia_global_V12.5.1.0.RGGMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -274,7 +274,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.301.0.WOQMIXM/beryl_global_images_OS3.0.301.0.WOQMIXM_20260521.0000.00_16.0_global_c91236826c.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.301.0.WOQMIXM/beryl_global_images_OS3.0.301.0.WOQMIXM_20260521.0000.00_16.0_global_c91236826c.tgz</link>
       <guid isPermaLink="false">beryl_global_OS3.0.301.0.WOQMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -289,7 +289,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V12.0.3.0.QEJMIXM/beryllium_global_images_V12.0.3.0.QEJMIXM_20201227.0000.00_10.0_global_f4a9dbd1d3.tgz</description>
       <link>https://superota.d.miui.com/V12.0.3.0.QEJMIXM/beryllium_global_images_V12.0.3.0.QEJMIXM_20201227.0000.00_10.0_global_f4a9dbd1d3.tgz</link>
       <guid isPermaLink="false">beryllium_global_V12.0.3.0.QEJMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -304,7 +304,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V14.0.6.0.TCUMIXM/biloba_global_images_V14.0.6.0.TCUMIXM_20230918.0000.00_13.0_global_7a1a32c8fa.tgz</description>
       <link>https://superota.d.miui.com/V14.0.6.0.TCUMIXM/biloba_global_images_V14.0.6.0.TCUMIXM_20230918.0000.00_13.0_global_7a1a32c8fa.tgz</link>
       <guid isPermaLink="false">biloba_global_V14.0.6.0.TCUMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -319,7 +319,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.302.0.WNUINXM/breeze_in_global_images_OS3.0.302.0.WNUINXM_20260625.0000.00_16.0_in_85a2ef7d87.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.302.0.WNUINXM/breeze_in_global_images_OS3.0.302.0.WNUINXM_20260625.0000.00_16.0_in_85a2ef7d87.tgz</link>
       <guid isPermaLink="false">breeze_in_global_OS3.0.302.0.WNUINXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>India</category>
     </item>
     <item>
@@ -334,7 +334,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V11.0.9.0.PCBMIXM/cactus_global_images_V11.0.9.0.PCBMIXM_20200916.0000.00_9.0_global_c0a9fb7059.tgz</description>
       <link>https://superota.d.miui.com/V11.0.9.0.PCBMIXM/cactus_global_images_V11.0.9.0.PCBMIXM_20200916.0000.00_9.0_global_c0a9fb7059.tgz</link>
       <guid isPermaLink="false">cactus_global_V11.0.9.0.PCBMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -349,7 +349,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V14.0.6.0.TKSINXM/camellia_in_global_images_V14.0.6.0.TKSINXM_20230922.0000.00_13.0_in_940393ef3c.tgz</description>
       <link>https://superota.d.miui.com/V14.0.6.0.TKSINXM/camellia_in_global_images_V14.0.6.0.TKSINXM_20230922.0000.00_13.0_in_940393ef3c.tgz</link>
       <guid isPermaLink="false">camellia_in_global_V14.0.6.0.TKSINXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>India</category>
     </item>
     <item>
@@ -364,7 +364,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V14.0.6.0.TKSMIXM/camellian_global_images_V14.0.6.0.TKSMIXM_20230919.0000.00_13.0_global_f43e2310b3.tgz</description>
       <link>https://superota.d.miui.com/V14.0.6.0.TKSMIXM/camellian_global_images_V14.0.6.0.TKSMIXM_20230919.0000.00_13.0_global_f43e2310b3.tgz</link>
       <guid isPermaLink="false">camellian_global_V14.0.6.0.TKSMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -379,7 +379,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V9.5.7.0.MXDMIFA/cancro_global_images_V9.5.7.0.MXDMIFA_20180815.0000.00_6.0_global_bbfc0f3951.tgz</description>
       <link>https://superota.d.miui.com/V9.5.7.0.MXDMIFA/cancro_global_images_V9.5.7.0.MXDMIFA_20180815.0000.00_6.0_global_bbfc0f3951.tgz</link>
       <guid isPermaLink="false">cancro_global_V9.5.7.0.MXDMIFA</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -394,7 +394,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V14.0.4.0.SJEMIXM/cannong_global_images_V14.0.4.0.SJEMIXM_20231020.0000.00_12.0_global_63651f0021.tgz</description>
       <link>https://superota.d.miui.com/V14.0.4.0.SJEMIXM/cannong_global_images_V14.0.4.0.SJEMIXM_20231020.0000.00_12.0_global_63651f0021.tgz</link>
       <guid isPermaLink="false">cannong_global_V14.0.4.0.SJEMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -409,7 +409,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V10.2.3.0.OAGMIXM/capricorn_global_images_V10.2.3.0.OAGMIXM_20190426.0000.00_8.0_global_1d88b180f1.tgz</description>
       <link>https://superota.d.miui.com/V10.2.3.0.OAGMIXM/capricorn_global_images_V10.2.3.0.OAGMIXM_20190426.0000.00_8.0_global_1d88b180f1.tgz</link>
       <guid isPermaLink="false">capricorn_global_V10.2.3.0.OAGMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -424,7 +424,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V12.0.18.0.QCTINXM/cattail_in_global_images_V12.0.18.0.QCTINXM_20220826.0000.00_10.0_in_b1c7409a05.tgz</description>
       <link>https://superota.d.miui.com/V12.0.18.0.QCTINXM/cattail_in_global_images_V12.0.18.0.QCTINXM_20220826.0000.00_10.0_in_b1c7409a05.tgz</link>
       <guid isPermaLink="false">cattail_in_global_V12.0.18.0.QCTINXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>India</category>
     </item>
     <item>
@@ -439,7 +439,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V12.5.1.0.RFAMIXM/cepheus_global_images_V12.5.1.0.RFAMIXM_20210611.0000.00_11.0_global_13a7fa1fb4.tgz</description>
       <link>https://superota.d.miui.com/V12.5.1.0.RFAMIXM/cepheus_global_images_V12.5.1.0.RFAMIXM_20210611.0000.00_11.0_global_13a7fa1fb4.tgz</link>
       <guid isPermaLink="false">cepheus_global_V12.5.1.0.RFAMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -454,7 +454,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V11.0.5.0.PCGMIXM/cereus_global_images_V11.0.5.0.PCGMIXM_20200916.0000.00_9.0_global_41e1db1e83.tgz</description>
       <link>https://superota.d.miui.com/V11.0.5.0.PCGMIXM/cereus_global_images_V11.0.5.0.PCGMIXM_20200916.0000.00_9.0_global_41e1db1e83.tgz</link>
       <guid isPermaLink="false">cereus_global_V11.0.5.0.PCGMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -469,7 +469,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.306.0.WPTMIXM/chagall_global_images_OS3.0.306.0.WPTMIXM_20260703.0000.00_16.0_global_d60a55717a.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.306.0.WPTMIXM/chagall_global_images_OS3.0.306.0.WPTMIXM_20260703.0000.00_16.0_global_d60a55717a.tgz</link>
       <guid isPermaLink="false">chagall_global_OS3.0.306.0.WPTMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -484,7 +484,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.303.0.WPFMIXM/charoite_global_images_OS3.0.303.0.WPFMIXM_20260708.0000.00_16.0_global_082430e12d.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.303.0.WPFMIXM/charoite_global_images_OS3.0.303.0.WPFMIXM_20260708.0000.00_16.0_global_082430e12d.tgz</link>
       <guid isPermaLink="false">charoite_global_OS3.0.303.0.WPFMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -499,7 +499,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.302.0.WNJINXM/chenfeng_in_global_images_OS3.0.302.0.WNJINXM_20260707.0000.00_16.0_in_2e917c0c4a.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.302.0.WNJINXM/chenfeng_in_global_images_OS3.0.302.0.WNJINXM_20260707.0000.00_16.0_in_2e917c0c4a.tgz</link>
       <guid isPermaLink="false">chenfeng_in_global_OS3.0.302.0.WNJINXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>India</category>
     </item>
     <item>
@@ -514,7 +514,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V12.0.1.0.PDEMIXM/chiron_global_images_V12.0.1.0.PDEMIXM_20200925.0000.00_9.0_global_7108ed52f4.tgz</description>
       <link>https://superota.d.miui.com/V12.0.1.0.PDEMIXM/chiron_global_images_V12.0.1.0.PDEMIXM_20200925.0000.00_9.0_global_7108ed52f4.tgz</link>
       <guid isPermaLink="false">chiron_global_V12.0.1.0.PDEMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -529,7 +529,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V14.0.6.0.TKPMIXM/chopin_global_images_V14.0.6.0.TKPMIXM_20240528.0000.00_13.0_global_253b98dc56.tgz</description>
       <link>https://superota.d.miui.com/V14.0.6.0.TKPMIXM/chopin_global_images_V14.0.6.0.TKPMIXM_20240528.0000.00_13.0_global_253b98dc56.tgz</link>
       <guid isPermaLink="false">chopin_global_V14.0.6.0.TKPMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -544,7 +544,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V14.0.2.0.SJFMIXM/citrus_global_images_V14.0.2.0.SJFMIXM_20230330.0000.00_12.0_global_f12c1c51fe.tgz</description>
       <link>https://superota.d.miui.com/V14.0.2.0.SJFMIXM/citrus_global_images_V14.0.2.0.SJFMIXM_20230330.0000.00_12.0_global_f12c1c51fe.tgz</link>
       <guid isPermaLink="false">citrus_global_V14.0.2.0.SJFMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -559,7 +559,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V816.0.3.0.TJAMIXM/cmi_global_images_OS1.0.3.0.TJAMIXM_20251217.0000.00_13.0_global_9cc791c3ad.tgz</description>
       <link>https://superota.d.miui.com/V816.0.3.0.TJAMIXM/cmi_global_images_OS1.0.3.0.TJAMIXM_20251217.0000.00_13.0_global_9cc791c3ad.tgz</link>
       <guid isPermaLink="false">cmi_global_V816.0.3.0.TJAMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -574,7 +574,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.3.0.WMLMIXM/corot_global_images_OS3.0.3.0.WMLMIXM_20260604.0000.00_16.0_global_b5df884821.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.3.0.WMLMIXM/corot_global_images_OS3.0.3.0.WMLMIXM_20260604.0000.00_16.0_global_b5df884821.tgz</link>
       <guid isPermaLink="false">corot_global_OS3.0.3.0.WMLMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -589,7 +589,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V14.0.4.0.TKQMIXM/courbet_global_images_V14.0.4.0.TKQMIXM_20231016.0000.00_13.0_global_f2bf2136b3.tgz</description>
       <link>https://superota.d.miui.com/V14.0.4.0.TKQMIXM/courbet_global_images_V14.0.4.0.TKQMIXM_20231016.0000.00_13.0_global_f2bf2136b3.tgz</link>
       <guid isPermaLink="false">courbet_global_V14.0.4.0.TKQMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -604,7 +604,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.304.0.WBOMIXM/creek_global_images_OS3.0.304.0.WBOMIXM_20260707.0000.00_16.0_global_f9686eb596.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.304.0.WBOMIXM/creek_global_images_OS3.0.304.0.WBOMIXM_20260707.0000.00_16.0_global_f9686eb596.tgz</link>
       <guid isPermaLink="false">creek_global_OS3.0.304.0.WBOMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -619,7 +619,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.4.0.VLCMIXM/cupid_global_images_OS3.0.4.0.VLCMIXM_20260506.0000.00_15.0_global_d56d6da8ee.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.4.0.VLCMIXM/cupid_global_images_OS3.0.4.0.VLCMIXM_20260506.0000.00_15.0_global_d56d6da8ee.tgz</link>
       <guid isPermaLink="false">cupid_global_OS3.0.4.0.VLCMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -634,7 +634,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V14.0.4.0.SJWMIXM/curtana_global_images_V14.0.4.0.SJWMIXM_20230516.0000.00_12.0_global_72c4e6fac8.tgz</description>
       <link>https://superota.d.miui.com/V14.0.4.0.SJWMIXM/curtana_global_images_V14.0.4.0.SJWMIXM_20230516.0000.00_12.0_global_72c4e6fac8.tgz</link>
       <guid isPermaLink="false">curtana_global_V14.0.4.0.SJWMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -649,7 +649,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.302.0.WOCMIXM/dada_global_images_OS3.0.302.0.WOCMIXM_20260615.0000.00_16.0_global_076d3ce703.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.302.0.WOCMIXM/dada_global_images_OS3.0.302.0.WOCMIXM_20260615.0000.00_16.0_global_076d3ce703.tgz</link>
       <guid isPermaLink="false">dada_global_OS3.0.302.0.WOCMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -664,7 +664,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V12.5.16.0.RCZMIXM/dandelion_c3l2_global_images_V12.5.16.0.RCZMIXM_20240307.0000.00_11.0_global_f90c3c88a3.tgz</description>
       <link>https://superota.d.miui.com/V12.5.16.0.RCZMIXM/dandelion_c3l2_global_images_V12.5.16.0.RCZMIXM_20240307.0000.00_11.0_global_f90c3c88a3.tgz</link>
       <guid isPermaLink="false">dandelion_c3l2_global_V12.5.16.0.RCZMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -679,7 +679,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V12.0.22.0.QCDMIXM/dandelion_global_images_V12.0.22.0.QCDMIXM_20230315.0000.00_10.0_global_4f38e7c555.tgz</description>
       <link>https://superota.d.miui.com/V12.0.22.0.QCDMIXM/dandelion_global_images_V12.0.22.0.QCDMIXM_20230315.0000.00_10.0_global_4f38e7c555.tgz</link>
       <guid isPermaLink="false">dandelion_global_V12.0.22.0.QCDMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -694,7 +694,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.302.0.WPLMIXM/dash_global_images_OS3.0.302.0.WPLMIXM_20260610.0000.00_16.0_global_6a7fe2295f.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.302.0.WPLMIXM/dash_global_images_OS3.0.302.0.WPLMIXM_20260610.0000.00_16.0_global_6a7fe2295f.tgz</link>
       <guid isPermaLink="false">dash_global_OS3.0.302.0.WPLMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -709,7 +709,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V12.1.4.0.RFJMIXM/davinci_global_images_V12.1.4.0.RFJMIXM_20210727.0000.00_11.0_global_9ce20c36aa.tgz</description>
       <link>https://superota.d.miui.com/V12.1.4.0.RFJMIXM/davinci_global_images_V12.1.4.0.RFJMIXM_20210727.0000.00_11.0_global_9ce20c36aa.tgz</link>
       <guid isPermaLink="false">davinci_global_V12.1.4.0.RFJMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -724,7 +724,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.302.0.WNEMIXM/degas_global_images_OS3.0.302.0.WNEMIXM_20260608.0000.00_16.0_global_2c86759df3.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.302.0.WNEMIXM/degas_global_images_OS3.0.302.0.WNEMIXM_20260608.0000.00_16.0_global_2c86759df3.tgz</link>
       <guid isPermaLink="false">degas_global_OS3.0.302.0.WNEMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -739,7 +739,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.302.0.WBNMIXM/dew_global_images_OS3.0.302.0.WBNMIXM_20260518.0000.00_16.0_global_bd3dbbb09e.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.302.0.WBNMIXM/dew_global_images_OS3.0.302.0.WBNMIXM_20260518.0000.00_16.0_global_bd3dbbb09e.tgz</link>
       <guid isPermaLink="false">dew_global_OS3.0.302.0.WBNMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -754,7 +754,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V9.2.3.0.KHIMIEK/dior_global_images_V9.2.3.0.KHIMIEK_20180406.0000.00_4.4_global_5168e928f9.tgz</description>
       <link>https://superota.d.miui.com/V9.2.3.0.KHIMIEK/dior_global_images_V9.2.3.0.KHIMIEK_20180406.0000.00_4.4_global_5168e928f9.tgz</link>
       <guid isPermaLink="false">dior_global_V9.2.3.0.KHIMIEK</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -769,7 +769,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V12.0.3.0.QEAMIXM/dipper_global_images_V12.0.3.0.QEAMIXM_20211213.0000.00_10.0_global_911d49e79e.tgz</description>
       <link>https://superota.d.miui.com/V12.0.3.0.QEAMIXM/dipper_global_images_V12.0.3.0.QEAMIXM_20211213.0000.00_10.0_global_911d49e79e.tgz</link>
       <guid isPermaLink="false">dipper_global_V12.0.3.0.QEAMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -784,7 +784,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.5.0.VLFMIXM/diting_global_images_OS3.0.5.0.VLFMIXM_20260716.0000.00_15.0_global_8d83a37e1a.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.5.0.VLFMIXM/diting_global_images_OS3.0.5.0.VLFMIXM_20260716.0000.00_15.0_global_8d83a37e1a.tgz</link>
       <guid isPermaLink="false">diting_global_OS3.0.5.0.VLFMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -799,7 +799,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.302.0.WNSMIXM/dizi_global_images_OS3.0.302.0.WNSMIXM_20260709.0000.00_16.0_global_f826710eab.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.302.0.WNSMIXM/dizi_global_images_OS3.0.302.0.WNSMIXM_20260709.0000.00_16.0_global_f826710eab.tgz</link>
       <guid isPermaLink="false">dizi_global_OS3.0.302.0.WNSMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -814,7 +814,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.6.0.WNLMIXM/duchamp_global_images_OS3.0.6.0.WNLMIXM_20260415.0000.00_16.0_global_f41fae11f3.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.6.0.WNLMIXM/duchamp_global_images_OS3.0.6.0.WNLMIXM_20260415.0000.00_16.0_global_f41fae11f3.tgz</link>
       <guid isPermaLink="false">duchamp_global_OS3.0.6.0.WNLMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -829,7 +829,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V816.0.16.0.UCVMIXM/earth_global_images_OS1.0.16.0.UCVMIXM_20260227.0000.00_14.0_global_b2ab987cbf.tgz</description>
       <link>https://superota.d.miui.com/V816.0.16.0.UCVMIXM/earth_global_images_OS1.0.16.0.UCVMIXM_20260227.0000.00_14.0_global_b2ab987cbf.tgz</link>
       <guid isPermaLink="false">earth_global_V816.0.16.0.UCVMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -844,7 +844,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.304.0.WNFMIXM/emerald_global_images_OS3.0.304.0.WNFMIXM_20260630.0000.00_16.0_global_3e95f810ab.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.304.0.WNFMIXM/emerald_global_images_OS3.0.304.0.WNFMIXM_20260630.0000.00_16.0_global_3e95f810ab.tgz</link>
       <guid isPermaLink="false">emerald_global_OS3.0.304.0.WNFMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -859,7 +859,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.304.0.WFOMIXM/emerald_r_global_images_OS3.0.304.0.WFOMIXM_20260630.0000.00_16.0_global_1998e8a049.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.304.0.WFOMIXM/emerald_r_global_images_OS3.0.304.0.WFOMIXM_20260630.0000.00_16.0_global_1998e8a049.tgz</link>
       <guid isPermaLink="false">emerald_r_global_OS3.0.304.0.WFOMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -874,7 +874,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V12.0.2.0.QECMIXM/equuleus_global_images_V12.0.2.0.QECMIXM_20211230.0000.00_10.0_global_ead4b63bb6.tgz</description>
       <link>https://superota.d.miui.com/V12.0.2.0.QECMIXM/equuleus_global_images_V12.0.2.0.QECMIXM_20211230.0000.00_10.0_global_ead4b63bb6.tgz</link>
       <guid isPermaLink="false">equuleus_global_V12.0.2.0.QECMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -889,7 +889,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.303.0.WDOMIXM/erhu_global_images_OS3.0.303.0.WDOMIXM_20260509.0000.00_16.0_global_757782fd7d.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.303.0.WDOMIXM/erhu_global_images_OS3.0.303.0.WDOMIXM_20260509.0000.00_16.0_global_757782fd7d.tgz</link>
       <guid isPermaLink="false">erhu_global_OS3.0.303.0.WDOMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -904,7 +904,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V816.0.1.0.TGBINXM/evergo_in_global_images_OS1.0.1.0.TGBINXM_20240307.0000.00_13.0_in_bab47e0b8a.tgz</description>
       <link>https://superota.d.miui.com/V816.0.1.0.TGBINXM/evergo_in_global_images_OS1.0.1.0.TGBINXM_20240307.0000.00_13.0_in_bab47e0b8a.tgz</link>
       <guid isPermaLink="false">evergo_in_global_V816.0.1.0.TGBINXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>India</category>
     </item>
     <item>
@@ -919,7 +919,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V816.0.1.0.TGBMIXM/evergreen_global_images_OS1.0.1.0.TGBMIXM_20240226.0000.00_13.0_global_e1e9e4ff66.tgz</description>
       <link>https://superota.d.miui.com/V816.0.1.0.TGBMIXM/evergreen_global_images_OS1.0.1.0.TGBMIXM_20240226.0000.00_13.0_global_e1e9e4ff66.tgz</link>
       <guid isPermaLink="false">evergreen_global_V816.0.1.0.TGBMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -934,7 +934,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V14.0.2.0.SJXINXM/excalibur_in_global_images_V14.0.2.0.SJXINXM_20230410.0000.00_12.0_in_b0c86ab0b5.tgz</description>
       <link>https://superota.d.miui.com/V14.0.2.0.SJXINXM/excalibur_in_global_images_V14.0.2.0.SJXINXM_20230410.0000.00_12.0_in_b0c86ab0b5.tgz</link>
       <guid isPermaLink="false">excalibur_in_global_V14.0.2.0.SJXINXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>India</category>
     </item>
     <item>
@@ -949,7 +949,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V9.2.3.0.LXIMIEK/ferrari_global_images_V9.2.3.0.LXIMIEK_20180414.0000.00_5.0_global_680c582f20.tgz</description>
       <link>https://superota.d.miui.com/V9.2.3.0.LXIMIEK/ferrari_global_images_V9.2.3.0.LXIMIEK_20180414.0000.00_5.0_global_680c582f20.tgz</link>
       <guid isPermaLink="false">ferrari_global_V9.2.3.0.LXIMIEK</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -964,7 +964,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS2.0.208.0.VMXMIXM/fire_global_images_OS2.0.208.0.VMXMIXM_20260520.0000.00_15.0_global_178fa798ab.tgz</description>
       <link>https://superota.d.miui.com/OS2.0.208.0.VMXMIXM/fire_global_images_OS2.0.208.0.VMXMIXM_20260520.0000.00_15.0_global_178fa798ab.tgz</link>
       <guid isPermaLink="false">fire_global_OS2.0.208.0.VMXMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -979,7 +979,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.301.0.WGUINXM/flame_in_global_images_OS3.0.301.0.WGUINXM_20260518.0000.00_16.0_in_6d787fc622.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.301.0.WGUINXM/flame_in_global_images_OS3.0.301.0.WGUINXM_20260518.0000.00_16.0_in_6d787fc622.tgz</link>
       <guid isPermaLink="false">flame_in_global_OS3.0.301.0.WGUINXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>India</category>
     </item>
     <item>
@@ -994,7 +994,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.301.0.WHXMIXM/flare_global_images_OS3.0.301.0.WHXMIXM_20260514.0000.00_16.0_global_4f095a610e.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.301.0.WHXMIXM/flare_global_images_OS3.0.301.0.WHXMIXM_20260514.0000.00_16.0_global_4f095a610e.tgz</link>
       <guid isPermaLink="false">flare_global_OS3.0.301.0.WHXMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1009,7 +1009,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V816.0.9.0.TKEMIXM/fleur_global_images_OS1.0.9.0.TKEMIXM_20241206.0000.00_13.0_global_3030fec09a.tgz</description>
       <link>https://superota.d.miui.com/V816.0.9.0.TKEMIXM/fleur_global_images_OS1.0.9.0.TKEMIXM_20241206.0000.00_13.0_global_3030fec09a.tgz</link>
       <guid isPermaLink="false">fleur_global_V816.0.9.0.TKEMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1024,7 +1024,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.4.0.WPRMIXM/flourite_global_images_OS3.0.4.0.WPRMIXM_20260415.0000.00_16.0_global_ded40ec068.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.4.0.WPRMIXM/flourite_global_images_OS3.0.4.0.WPRMIXM_20260415.0000.00_16.0_global_ded40ec068.tgz</link>
       <guid isPermaLink="false">flourite_global_OS3.0.4.0.WPRMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1039,7 +1039,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.301.0.WPWMIXM/flute_global_images_OS3.0.301.0.WPWMIXM_20260616.0000.00_16.0_global_45c3165dcd.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.301.0.WPWMIXM/flute_global_images_OS3.0.301.0.WPWMIXM_20260616.0000.00_16.0_global_45c3165dcd.tgz</link>
       <guid isPermaLink="false">flute_global_OS3.0.301.0.WPWMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1054,23 +1054,23 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V14.0.9.0.TGEMIXM/fog_global_images_V14.0.9.0.TGEMIXM_20250206.0000.00_13.0_global_56c1669749.tgz</description>
       <link>https://superota.d.miui.com/V14.0.9.0.TGEMIXM/fog_global_images_V14.0.9.0.TGEMIXM_20250206.0000.00_13.0_global_56c1669749.tgz</link>
       <guid isPermaLink="false">fog_global_V14.0.9.0.TGEMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
-      <title>frost_global - V13.0.26.0.RGFMIXM</title>
-      <description>Device: POCO C40 (frost_global)
-Region: Global
-Version: V13.0.26.0.RGFMIXM
+      <title>frost_eea_global - V13.0.12.0.RGFEUXM</title>
+      <description>Device: POCO C40 (frost_eea_global)
+Region: EEA
+Version: V13.0.12.0.RGFEUXM
 Android: 11.0
-Size: 4.9G
-MD5: 35e94a69c898912b622efcfd4736092e
+Size: 4.6G
+MD5: 1fd2efcccf3688c7d2a3b8aec5e7ef0f
 Method: Fastboot (Full ROM)
-Download: https://superota.d.miui.com/V13.0.26.0.RGFMIXM/frost_global_images_V13.0.26.0.RGFMIXM_20240305.0000.00_11.0_global_35e94a69c8.tgz</description>
-      <link>https://superota.d.miui.com/V13.0.26.0.RGFMIXM/frost_global_images_V13.0.26.0.RGFMIXM_20240305.0000.00_11.0_global_35e94a69c8.tgz</link>
-      <guid isPermaLink="false">frost_global_V13.0.26.0.RGFMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
-      <category>Global</category>
+Download: https://superota.d.miui.com/V13.0.12.0.RGFEUXM/frost_eea_global_images_V13.0.12.0.RGFEUXM_20240305.0000.00_11.0_eea_1fd2efcccf.tgz</description>
+      <link>https://superota.d.miui.com/V13.0.12.0.RGFEUXM/frost_eea_global_images_V13.0.12.0.RGFEUXM_20240305.0000.00_11.0_eea_1fd2efcccf.tgz</link>
+      <guid isPermaLink="false">frost_eea_global_V13.0.12.0.RGFEUXM</guid>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
+      <category>EEA</category>
     </item>
     <item>
       <title>fuxi_global - OS3.0.304.0.WMCMIXM</title>
@@ -1084,7 +1084,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.304.0.WMCMIXM/fuxi_global_images_OS3.0.304.0.WMCMIXM_20260624.0000.00_16.0_global_93431d10d7.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.304.0.WMCMIXM/fuxi_global_images_OS3.0.304.0.WMCMIXM_20260624.0000.00_16.0_global_93431d10d7.tgz</link>
       <guid isPermaLink="false">fuxi_global_OS3.0.304.0.WMCMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1099,7 +1099,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS2.0.207.0.VGPMIXM/gale_global_images_OS2.0.207.0.VGPMIXM_20260519.0000.00_15.0_global_6ed6d6fe08.tgz</description>
       <link>https://superota.d.miui.com/OS2.0.207.0.VGPMIXM/gale_global_images_OS2.0.207.0.VGPMIXM_20260519.0000.00_15.0_global_6ed6d6fe08.tgz</link>
       <guid isPermaLink="false">gale_global_OS2.0.207.0.VGPMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1114,7 +1114,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.301.0.WNRMIXM/garnet_global_images_OS3.0.301.0.WNRMIXM_20260507.0000.00_16.0_global_591c63df16.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.301.0.WNRMIXM/garnet_global_images_OS3.0.301.0.WNRMIXM_20260507.0000.00_16.0_global_591c63df16.tgz</link>
       <guid isPermaLink="false">garnet_global_OS3.0.301.0.WNRMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1129,7 +1129,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V14.0.2.0.SJSMIXM/gauguin_global_images_V14.0.2.0.SJSMIXM_20230421.0000.00_12.0_global_2bcdb88abf.tgz</description>
       <link>https://superota.d.miui.com/V14.0.2.0.SJSMIXM/gauguin_global_images_V14.0.2.0.SJSMIXM_20230421.0000.00_12.0_global_2bcdb88abf.tgz</link>
       <guid isPermaLink="false">gauguin_global_V14.0.2.0.SJSMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1144,7 +1144,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V10.2.2.0.OAAMIXM/gemini_global_images_V10.2.2.0.OAAMIXM_20190115.0000.00_8.0_global_d05f4a2bfd.tgz</description>
       <link>https://superota.d.miui.com/V10.2.2.0.OAAMIXM/gemini_global_images_V10.2.2.0.OAAMIXM_20190115.0000.00_8.0_global_d05f4a2bfd.tgz</link>
       <guid isPermaLink="false">gemini_global_V10.2.2.0.OAAMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1159,7 +1159,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V12.5.2.0.RCOMIXM/ginkgo_global_images_V12.5.2.0.RCOMIXM_20220216.0000.00_11.0_global_da0a599e0c.tgz</description>
       <link>https://superota.d.miui.com/V12.5.2.0.RCOMIXM/ginkgo_global_images_V12.5.2.0.RCOMIXM_20220216.0000.00_11.0_global_da0a599e0c.tgz</link>
       <guid isPermaLink="false">ginkgo_global_V12.5.2.0.RCOMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1174,7 +1174,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.4.0.VNQMIXM/gold_global_images_OS3.0.4.0.VNQMIXM_20260629.0000.00_15.0_global_a0949cd520.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.4.0.VNQMIXM/gold_global_images_OS3.0.4.0.VNQMIXM_20260629.0000.00_15.0_global_a0949cd520.tgz</link>
       <guid isPermaLink="false">gold_global_OS3.0.4.0.VNQMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1189,7 +1189,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.301.0.WOEMIXM/goya_global_images_OS3.0.301.0.WOEMIXM_20260623.0000.00_16.0_global_d795e0a52a.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.301.0.WOEMIXM/goya_global_images_OS3.0.301.0.WOEMIXM_20260623.0000.00_16.0_global_d795e0a52a.tgz</link>
       <guid isPermaLink="false">goya_global_OS3.0.301.0.WOEMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1204,7 +1204,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V14.0.5.0.SJPINXM/gram_in_global_images_V14.0.5.0.SJPINXM_20230619.0000.00_12.0_in_186c9fa257.tgz</description>
       <link>https://superota.d.miui.com/V14.0.5.0.SJPINXM/gram_in_global_images_V14.0.5.0.SJPINXM_20230619.0000.00_12.0_in_186c9fa257.tgz</link>
       <guid isPermaLink="false">gram_in_global_V14.0.5.0.SJPINXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>India</category>
     </item>
     <item>
@@ -1219,7 +1219,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V12.5.1.0.RFBMIXM/grus_global_images_V12.5.1.0.RFBMIXM_20210516.0000.00_11.0_global_a86a2a426e.tgz</description>
       <link>https://superota.d.miui.com/V12.5.1.0.RFBMIXM/grus_global_images_V12.5.1.0.RFBMIXM_20210516.0000.00_11.0_global_a86a2a426e.tgz</link>
       <guid isPermaLink="false">grus_global_V12.5.1.0.RFBMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1234,7 +1234,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.305.0.WDNMIXM/guitar_global_images_OS3.0.305.0.WDNMIXM_20260615.0000.00_16.0_global_bdedff715d.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.305.0.WDNMIXM/guitar_global_images_OS3.0.305.0.WDNMIXM_20260615.0000.00_16.0_global_bdedff715d.tgz</link>
       <guid isPermaLink="false">guitar_global_OS3.0.305.0.WDNMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1249,7 +1249,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V816.0.19.0.UKKMIXM/haydn_global_images_OS1.0.19.0.UKKMIXM_20251124.0000.00_14.0_global_6ac441e984.tgz</description>
       <link>https://superota.d.miui.com/V816.0.19.0.UKKMIXM/haydn_global_images_OS1.0.19.0.UKKMIXM_20251124.0000.00_14.0_global_6ac441e984.tgz</link>
       <guid isPermaLink="false">haydn_global_V816.0.19.0.UKKMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1264,7 +1264,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V10.2.2.0.NBDMIXM/helium_global_images_V10.2.2.0.NBDMIXM_20190424.0000.00_7.0_global_13b27e64bc.tgz</description>
       <link>https://superota.d.miui.com/V10.2.2.0.NBDMIXM/helium_global_images_V10.2.2.0.NBDMIXM_20190424.0000.00_7.0_global_13b27e64bc.tgz</link>
       <guid isPermaLink="false">helium_global_V10.2.2.0.NBDMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1279,7 +1279,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V9.6.3.0.LHMMIFD/hermes_global_images_V9.6.3.0.LHMMIFD_20180801.0000.00_5.0_global_0dc0ffff2c.tgz</description>
       <link>https://superota.d.miui.com/V9.6.3.0.LHMMIFD/hermes_global_images_V9.6.3.0.LHMMIFD_20180801.0000.00_5.0_global_0dc0ffff2c.tgz</link>
       <guid isPermaLink="false">hermes_global_V9.6.3.0.LHMMIFD</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1294,7 +1294,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.302.0.WNCMIXM/houji_global_images_OS3.0.302.0.WNCMIXM_20260525.0000.00_16.0_global_94f8b0ed66.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.302.0.WNCMIXM/houji_global_images_OS3.0.302.0.WNCMIXM_20260525.0000.00_16.0_global_94f8b0ed66.tgz</link>
       <guid isPermaLink="false">houji_global_OS3.0.302.0.WNCMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1309,7 +1309,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V10.2.2.0.NBCMIXM/hydrogen_global_images_V10.2.2.0.NBCMIXM_20190426.0000.00_7.0_global_3dab3a213d.tgz</description>
       <link>https://superota.d.miui.com/V10.2.2.0.NBCMIXM/hydrogen_global_images_V10.2.2.0.NBCMIXM_20190426.0000.00_7.0_global_3dab3a213d.tgz</link>
       <guid isPermaLink="false">hydrogen_global_V10.2.2.0.NBCMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1324,7 +1324,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS2.0.3.0.ULJMIXM/ingres_global_images_OS2.0.3.0.ULJMIXM_20251225.0000.00_14.0_global_f194b72f63.tgz</description>
       <link>https://superota.d.miui.com/OS2.0.3.0.ULJMIXM/ingres_global_images_OS2.0.3.0.ULJMIXM_20251225.0000.00_14.0_global_f194b72f63.tgz</link>
       <guid isPermaLink="false">ingres_global_OS2.0.3.0.ULJMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1339,7 +1339,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.302.0.WMAMIXM/ishtar_global_images_OS3.0.302.0.WMAMIXM_20260615.0000.00_16.0_global_6e7e715460.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.302.0.WMAMIXM/ishtar_global_images_OS3.0.302.0.WMAMIXM_20260615.0000.00_16.0_global_6e7e715460.tgz</link>
       <guid isPermaLink="false">ishtar_global_OS3.0.302.0.WMAMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1354,7 +1354,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V12.0.1.0.PCHMIXM/jason_global_images_V12.0.1.0.PCHMIXM_20200913.0000.00_9.0_global_b7800ab3ce.tgz</description>
       <link>https://superota.d.miui.com/V12.0.1.0.PCHMIXM/jason_global_images_V12.0.1.0.PCHMIXM_20200913.0000.00_9.0_global_b7800ab3ce.tgz</link>
       <guid isPermaLink="false">jason_global_V12.0.1.0.PCHMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1369,7 +1369,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V14.0.3.0.SJZMIXM/joyeuse_global_images_V14.0.3.0.SJZMIXM_20230307.0000.00_12.0_global_4ee0ad4d2d.tgz</description>
       <link>https://superota.d.miui.com/V14.0.3.0.SJZMIXM/joyeuse_global_images_V14.0.3.0.SJZMIXM_20230307.0000.00_12.0_global_4ee0ad4d2d.tgz</link>
       <guid isPermaLink="false">joyeuse_global_V14.0.3.0.SJZMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1384,7 +1384,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V10.2.1.0.MHRMIXM/kate_global_images_V10.2.1.0.MHRMIXM_20190114.0000.00_6.0_global_52f71e4360.tgz</description>
       <link>https://superota.d.miui.com/V10.2.1.0.MHRMIXM/kate_global_images_V10.2.1.0.MHRMIXM_20190114.0000.00_6.0_global_52f71e4360.tgz</link>
       <guid isPermaLink="false">kate_global_V10.2.1.0.MHRMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1399,7 +1399,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V10.2.1.0.MHOMIXM/kenzo_global_images_V10.2.1.0.MHOMIXM_20190114.0000.00_6.0_global_8a48e54fe3.tgz</description>
       <link>https://superota.d.miui.com/V10.2.1.0.MHOMIXM/kenzo_global_images_V10.2.1.0.MHOMIXM_20190114.0000.00_6.0_global_8a48e54fe3.tgz</link>
       <guid isPermaLink="false">kenzo_global_V10.2.1.0.MHOMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1414,7 +1414,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.306.0.WPJMIXM/klee_global_images_OS3.0.306.0.WPJMIXM_20260630.0000.00_16.0_global_8435f165ff.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.306.0.WPJMIXM/klee_global_images_OS3.0.306.0.WPJMIXM_20260630.0000.00_16.0_global_8435f165ff.tgz</link>
       <guid isPermaLink="false">klee_global_OS3.0.306.0.WPJMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1429,7 +1429,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V816.0.4.0.WGSMIXM/klein_global_images_V816.0.4.0.WGSMIXM_20260714.0000.00_16.0_global_e172de0ec6.tgz</description>
       <link>https://superota.d.miui.com/V816.0.4.0.WGSMIXM/klein_global_images_V816.0.4.0.WGSMIXM_20260714.0000.00_16.0_global_e172de0ec6.tgz</link>
       <guid isPermaLink="false">klein_global_V816.0.4.0.WGSMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1444,7 +1444,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.302.0.WOSMIXM/klimt_global_images_OS3.0.302.0.WOSMIXM_20260612.0000.00_16.0_global_390f94ab0a.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.302.0.WOSMIXM/klimt_global_images_OS3.0.302.0.WOSMIXM_20260612.0000.00_16.0_global_390f94ab0a.tgz</link>
       <guid isPermaLink="false">klimt_global_OS3.0.302.0.WOSMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1459,7 +1459,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.302.0.WOWMIXM/koto_global_images_OS3.0.302.0.WOWMIXM_20260706.0000.00_16.0_global_5c5b6e37ed.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.302.0.WOWMIXM/koto_global_images_OS3.0.302.0.WOWMIXM_20260706.0000.00_16.0_global_5c5b6e37ed.tgz</link>
       <guid isPermaLink="false">koto_global_OS3.0.302.0.WOWMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1474,7 +1474,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.302.0.WPQMIXM/kunzite_global_images_OS3.0.302.0.WPQMIXM_20260612.0000.00_16.0_global_4a3b3c152e.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.302.0.WPQMIXM/kunzite_global_images_OS3.0.302.0.WPQMIXM_20260612.0000.00_16.0_global_4a3b3c152e.tgz</link>
       <guid isPermaLink="false">kunzite_global_OS3.0.302.0.WPQMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1489,7 +1489,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.20.0.WGTMIXM/lake_global_images_OS3.0.20.0.WGTMIXM_20260430.0000.00_16.0_global_6f6fb32cbe.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.20.0.WGTMIXM/lake_global_images_OS3.0.20.0.WGTMIXM_20260430.0000.00_16.0_global_6f6fb32cbe.tgz</link>
       <guid isPermaLink="false">lake_global_OS3.0.20.0.WGTMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1504,7 +1504,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V13.0.4.0.SJCMIXM/lancelot_global_images_V13.0.4.0.SJCMIXM_20230111.0000.00_12.0_global_06d1b1156a.tgz</description>
       <link>https://superota.d.miui.com/V13.0.4.0.SJCMIXM/lancelot_global_images_V13.0.4.0.SJCMIXM_20230111.0000.00_12.0_global_06d1b1156a.tgz</link>
       <guid isPermaLink="false">lancelot_global_V13.0.4.0.SJCMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1519,7 +1519,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V10.2.2.0.MALMIXM/land_global_images_V10.2.2.0.MALMIXM_20190423.0000.00_6.0_global_68faa236bb.tgz</description>
       <link>https://superota.d.miui.com/V10.2.2.0.MALMIXM/land_global_images_V10.2.2.0.MALMIXM_20190423.0000.00_6.0_global_68faa236bb.tgz</link>
       <guid isPermaLink="false">land_global_V10.2.2.0.MALMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1534,7 +1534,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.307.0.WPPMIXM/lapis_global_images_OS3.0.307.0.WPPMIXM_20260624.0000.00_16.0_global_03d72813f0.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.307.0.WPPMIXM/lapis_global_images_OS3.0.307.0.WPPMIXM_20260624.0000.00_16.0_global_03d72813f0.tgz</link>
       <guid isPermaLink="false">lapis_global_OS3.0.307.0.WPPMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1549,7 +1549,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V12.5.3.0.QFGMIXM/lavender_global_images_V12.5.3.0.QFGMIXM_20211210.0000.00_10.0_global_8dd551a637.tgz</description>
       <link>https://superota.d.miui.com/V12.5.3.0.QFGMIXM/lavender_global_images_V12.5.3.0.QFGMIXM_20211210.0000.00_10.0_global_8dd551a637.tgz</link>
       <guid isPermaLink="false">lavender_global_V12.5.3.0.QFGMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1564,7 +1564,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V816.0.7.0.ULSMIXM/light_global_images_OS1.0.7.0.ULSMIXM_20241024.0000.00_14.0_global_ef04002385.tgz</description>
       <link>https://superota.d.miui.com/V816.0.7.0.ULSMIXM/light_global_images_OS1.0.7.0.ULSMIXM_20241024.0000.00_14.0_global_ef04002385.tgz</link>
       <guid isPermaLink="false">light_global_V816.0.7.0.ULSMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1579,7 +1579,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V14.0.34.0.TKNJPXM/lilac_jp_global_images_V14.0.34.0.TKNJPXM_20250225.0000.00_13.0_jp_3c554078c9.tgz</description>
       <link>https://superota.d.miui.com/V14.0.34.0.TKNJPXM/lilac_jp_global_images_V14.0.34.0.TKNJPXM_20250225.0000.00_13.0_jp_3c554078c9.tgz</link>
       <guid isPermaLink="false">lilac_jp_global_V14.0.34.0.TKNJPXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Japan</category>
     </item>
     <item>
@@ -1594,7 +1594,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V13.0.6.0.SJQMIXM/lime_global_images_V13.0.6.0.SJQMIXM_20230712.0000.00_12.0_global_586b8928bc.tgz</description>
       <link>https://superota.d.miui.com/V13.0.6.0.SJQMIXM/lime_global_images_V13.0.6.0.SJQMIXM_20230712.0000.00_12.0_global_586b8928bc.tgz</link>
       <guid isPermaLink="false">lime_global_V13.0.6.0.SJQMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1609,7 +1609,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS2.0.8.0.UKOMIXM/lisa_global_images_OS2.0.8.0.UKOMIXM_20250819.0000.00_14.0_global_4b5ed299cf.tgz</description>
       <link>https://superota.d.miui.com/OS2.0.8.0.UKOMIXM/lisa_global_images_OS2.0.8.0.UKOMIXM_20250819.0000.00_14.0_global_4b5ed299cf.tgz</link>
       <guid isPermaLink="false">lisa_global_OS2.0.8.0.UKOMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1624,7 +1624,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V11.0.2.0.OAHMIXM/lithium_global_images_V11.0.2.0.OAHMIXM_20191023.0000.00_8.0_global_3454b31c75.tgz</description>
       <link>https://superota.d.miui.com/V11.0.2.0.OAHMIXM/lithium_global_images_V11.0.2.0.OAHMIXM_20191023.0000.00_8.0_global_3454b31c75.tgz</link>
       <guid isPermaLink="false">lithium_global_V11.0.2.0.OAHMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1639,7 +1639,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V14.0.1.0.SJKMIXM/lmi_global_images_V14.0.1.0.SJKMIXM_20230317.0000.00_12.0_global_15e376c371.tgz</description>
       <link>https://superota.d.miui.com/V14.0.1.0.SJKMIXM/lmi_global_images_V14.0.1.0.SJKMIXM_20230317.0000.00_12.0_global_15e376c371.tgz</link>
       <guid isPermaLink="false">lmi_global_V14.0.1.0.SJKMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1654,7 +1654,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V11.0.10.0.OFIMIXM/lotus_global_images_V11.0.10.0.OFIMIXM_20210108.0000.00_8.1_global_4abc0cf1e1.tgz</description>
       <link>https://superota.d.miui.com/V11.0.10.0.OFIMIXM/lotus_global_images_V11.0.10.0.OFIMIXM_20210108.0000.00_8.1_global_4abc0cf1e1.tgz</link>
       <guid isPermaLink="false">lotus_global_V11.0.10.0.OFIMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1669,7 +1669,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.304.0.WOOMIXM/malachite_global_images_OS3.0.304.0.WOOMIXM_20260625.0000.00_16.0_global_863339143d.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.304.0.WOOMIXM/malachite_global_images_OS3.0.304.0.WOOMIXM_20260625.0000.00_16.0_global_863339143d.tgz</link>
       <guid isPermaLink="false">malachite_global_OS3.0.304.0.WOOMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1684,7 +1684,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.4.0.VMRMIXM/marble_global_images_OS3.0.4.0.VMRMIXM_20260519.0000.00_15.0_global_3ceb0b9a37.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.4.0.VMRMIXM/marble_global_images_OS3.0.4.0.VMRMIXM_20260519.0000.00_15.0_global_3ceb0b9a37.tgz</link>
       <guid isPermaLink="false">marble_global_OS3.0.4.0.VMRMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1699,7 +1699,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V10.2.2.0.MBEMIXM/markw_global_images_V10.2.2.0.MBEMIXM_20190422.0000.00_6.0_global_7e9366b564.tgz</description>
       <link>https://superota.d.miui.com/V10.2.2.0.MBEMIXM/markw_global_images_V10.2.2.0.MBEMIXM_20190422.0000.00_6.0_global_7e9366b564.tgz</link>
       <guid isPermaLink="false">markw_global_V10.2.2.0.MBEMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1714,7 +1714,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V13.0.2.0.SJOMIXM/merlin_global_images_V13.0.2.0.SJOMIXM_20221013.0000.00_12.0_global_b4e7f89ff6.tgz</description>
       <link>https://superota.d.miui.com/V13.0.2.0.SJOMIXM/merlin_global_images_V13.0.2.0.SJOMIXM_20221013.0000.00_12.0_global_b4e7f89ff6.tgz</link>
       <guid isPermaLink="false">merlin_global_V13.0.2.0.SJOMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1729,7 +1729,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V11.0.2.0.NCFMIXM/mido_global_images_V11.0.2.0.NCFMIXM_20191107.0000.00_7.0_global_91ed4d2a3f.tgz</description>
       <link>https://superota.d.miui.com/V11.0.2.0.NCFMIXM/mido_global_images_V11.0.2.0.NCFMIXM_20191107.0000.00_7.0_global_91ed4d2a3f.tgz</link>
       <guid isPermaLink="false">mido_global_V11.0.2.0.NCFMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1744,7 +1744,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V7.5.2.0.KXFMIDE/mocha_global_images_V7.5.2.0.KXFMIDE_20160712.0000.26_4.4_global_da3d0b8d81.tgz</description>
       <link>https://superota.d.miui.com/V7.5.2.0.KXFMIDE/mocha_global_images_V7.5.2.0.KXFMIDE_20160712.0000.26_4.4_global_da3d0b8d81.tgz</link>
       <guid isPermaLink="false">mocha_global_V7.5.2.0.KXFMIDE</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1759,7 +1759,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V14.0.9.0.SKGMIXM/mojito_global_images_V14.0.9.0.SKGMIXM_20240616.0000.00_12.0_global_eb0446ec87.tgz</description>
       <link>https://superota.d.miui.com/V14.0.9.0.SKGMIXM/mojito_global_images_V14.0.9.0.SKGMIXM_20240616.0000.00_12.0_global_eb0446ec87.tgz</link>
       <guid isPermaLink="false">mojito_global_V14.0.9.0.SKGMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1774,7 +1774,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.5.0.VMNMIXM/mondrian_global_images_OS3.0.5.0.VMNMIXM_20260311.0000.00_15.0_global_9288af0258.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.5.0.VMNMIXM/mondrian_global_images_OS3.0.5.0.VMNMIXM_20260311.0000.00_15.0_global_9288af0258.tgz</link>
       <guid isPermaLink="false">mondrian_global_OS3.0.5.0.VMNMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1789,7 +1789,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V13.0.4.0.SJIMIXM/monet_global_images_V13.0.4.0.SJIMIXM_20221106.0000.00_12.0_global_10957bb652.tgz</description>
       <link>https://superota.d.miui.com/V13.0.4.0.SJIMIXM/monet_global_images_V13.0.4.0.SJIMIXM_20221106.0000.00_12.0_global_10957bb652.tgz</link>
       <guid isPermaLink="false">monet_global_V13.0.4.0.SJIMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1804,7 +1804,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.303.0.WNTMIXM/moon_global_images_OS3.0.303.0.WNTMIXM_20260625.0000.00_16.0_global_62b91f8396.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.303.0.WNTMIXM/moon_global_images_OS3.0.303.0.WNTMIXM_20260625.0000.00_16.0_global_62b91f8396.tgz</link>
       <guid isPermaLink="false">moon_global_OS3.0.303.0.WNTMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1819,7 +1819,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V816.0.26.0.UMPMIXM/moonstone_global_images_OS1.0.26.0.UMPMIXM_20251224.0000.00_14.0_global_15a869d2d2.tgz</description>
       <link>https://superota.d.miui.com/V816.0.26.0.UMPMIXM/moonstone_global_images_OS1.0.26.0.UMPMIXM_20251224.0000.00_14.0_global_15a869d2d2.tgz</link>
       <guid isPermaLink="false">moonstone_global_V816.0.26.0.UMPMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1834,7 +1834,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V816.0.12.0.ULMMIXM/munch_global_images_OS1.0.12.0.ULMMIXM_20260417.0000.00_14.0_global_a238bf55b5.tgz</description>
       <link>https://superota.d.miui.com/V816.0.12.0.ULMMIXM/munch_global_images_OS1.0.12.0.ULMMIXM_20260417.0000.00_14.0_global_a238bf55b5.tgz</link>
       <guid isPermaLink="false">munch_global_V816.0.12.0.ULMMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1849,7 +1849,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.303.0.WOYMIXM/muyu_global_images_OS3.0.303.0.WOYMIXM_20260625.0000.00_16.0_global_59ef5e03ea.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.303.0.WOYMIXM/muyu_global_images_OS3.0.303.0.WOYMIXM_20260625.0000.00_16.0_global_59ef5e03ea.tgz</link>
       <guid isPermaLink="false">muyu_global_OS3.0.303.0.WOYMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1864,7 +1864,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.301.0.WPMMIXM/myron_global_images_OS3.0.301.0.WPMMIXM_20260529.0000.00_16.0_global_831a5eebb2.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.301.0.WPMMIXM/myron_global_images_OS3.0.301.0.WPMMIXM_20260529.0000.00_16.0_global_831a5eebb2.tgz</link>
       <guid isPermaLink="false">myron_global_OS3.0.301.0.WPMMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1879,7 +1879,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V816.0.6.0.TKXMIXM/nabu_global_images_OS1.0.6.0.TKXMIXM_20240914.0000.00_13.0_global_3693ddb728.tgz</description>
       <link>https://superota.d.miui.com/V816.0.6.0.TKXMIXM/nabu_global_images_OS1.0.6.0.TKXMIXM_20240914.0000.00_13.0_global_3693ddb728.tgz</link>
       <guid isPermaLink="false">nabu_global_V816.0.6.0.TKXMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1894,7 +1894,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V10.2.4.0.OBGMIXM/natrium_global_images_V10.2.4.0.OBGMIXM_20190424.0000.00_8.0_global_07f157530a.tgz</description>
       <link>https://superota.d.miui.com/V10.2.4.0.OBGMIXM/natrium_global_images_V10.2.4.0.OBGMIXM_20190424.0000.00_8.0_global_07f157530a.tgz</link>
       <guid isPermaLink="false">natrium_global_V10.2.4.0.OBGMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1909,7 +1909,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.303.0.WPAMIXM/nezha_global_images_OS3.0.303.0.WPAMIXM_20260513.0000.00_16.0_global_f7b6891471.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.303.0.WPAMIXM/nezha_global_images_OS3.0.303.0.WPAMIXM_20260513.0000.00_16.0_global_f7b6891471.tgz</link>
       <guid isPermaLink="false">nezha_global_OS3.0.303.0.WPAMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1924,7 +1924,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V10.2.1.0.MBFMIXM/nikel_global_images_V10.2.1.0.MBFMIXM_20190123.0000.00_6.0_global_d9955053f2.tgz</description>
       <link>https://superota.d.miui.com/V10.2.1.0.MBFMIXM/nikel_global_images_V10.2.1.0.MBFMIXM_20190123.0000.00_6.0_global_d9955053f2.tgz</link>
       <guid isPermaLink="false">nikel_global_V10.2.1.0.MBFMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1939,7 +1939,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V12.0.1.0.QEDMIXM/nitrogen_global_images_V12.0.1.0.QEDMIXM_20201013.0000.00_10.0_global_7165e85aee.tgz</description>
       <link>https://superota.d.miui.com/V12.0.1.0.QEDMIXM/nitrogen_global_images_V12.0.1.0.QEDMIXM_20201013.0000.00_10.0_global_7165e85aee.tgz</link>
       <guid isPermaLink="false">nitrogen_global_V12.0.1.0.QEDMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1954,7 +1954,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.301.0.WMBMIXM/nuwa_global_images_OS3.0.301.0.WMBMIXM_20260520.0000.00_16.0_global_e9dd21ac05.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.301.0.WMBMIXM/nuwa_global_images_OS3.0.301.0.WMBMIXM_20260520.0000.00_16.0_global_e9dd21ac05.tgz</link>
       <guid isPermaLink="false">nuwa_global_OS3.0.301.0.WMBMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1969,7 +1969,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.304.0.WOFMIXM/obsidian_global_images_OS3.0.304.0.WOFMIXM_20260630.0000.00_16.0_global_ce5206c1a9.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.304.0.WOFMIXM/obsidian_global_images_OS3.0.304.0.WOFMIXM_20260630.0000.00_16.0_global_ce5206c1a9.tgz</link>
       <guid isPermaLink="false">obsidian_global_OS3.0.304.0.WOFMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1984,7 +1984,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V12.5.3.0.QCNMIXM/olive_global_images_V12.5.3.0.QCNMIXM_20211025.0000.00_10.0_global_6a997c5b52.tgz</description>
       <link>https://superota.d.miui.com/V12.5.3.0.QCNMIXM/olive_global_images_V12.5.3.0.QCNMIXM_20211025.0000.00_10.0_global_6a997c5b52.tgz</link>
       <guid isPermaLink="false">olive_global_V12.5.3.0.QCNMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -1999,7 +1999,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V12.5.2.0.QCPMIXM/olivelite_global_images_V12.5.2.0.QCPMIXM_20211025.0000.00_10.0_global_213ef1784d.tgz</description>
       <link>https://superota.d.miui.com/V12.5.2.0.QCPMIXM/olivelite_global_images_V12.5.2.0.QCPMIXM_20211025.0000.00_10.0_global_213ef1784d.tgz</link>
       <guid isPermaLink="false">olivelite_global_V12.5.2.0.QCPMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2014,7 +2014,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V12.5.6.0.QCQINXM/olivewood_in_global_images_V12.5.6.0.QCQINXM_20211228.0000.00_10.0_in_b895f6bfc1.tgz</description>
       <link>https://superota.d.miui.com/V12.5.6.0.QCQINXM/olivewood_in_global_images_V12.5.6.0.QCQINXM_20211228.0000.00_10.0_in_b895f6bfc1.tgz</link>
       <guid isPermaLink="false">olivewood_in_global_V12.5.6.0.QCQINXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>India</category>
     </item>
     <item>
@@ -2029,7 +2029,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V11.0.6.0.QFFINXM/onc_in_global_images_V11.0.6.0.QFFINXM_20210408.0000.00_10.0_in_f97b051544.tgz</description>
       <link>https://superota.d.miui.com/V11.0.6.0.QFFINXM/onc_in_global_images_V11.0.6.0.QFFINXM_20210408.0000.00_10.0_in_f97b051544.tgz</link>
       <guid isPermaLink="false">onc_in_global_V11.0.6.0.QFFINXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>India</category>
     </item>
     <item>
@@ -2044,7 +2044,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V11.0.2.0.QFLMIXM/onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global_e8cdde9aeb.tgz</description>
       <link>https://superota.d.miui.com/V11.0.2.0.QFLMIXM/onclite_global_images_V11.0.2.0.QFLMIXM_20210310.0000.00_10.0_global_e8cdde9aeb.tgz</link>
       <guid isPermaLink="false">onclite_global_V11.0.2.0.QFLMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2059,7 +2059,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.302.0.WOLMIXM/onyx_global_images_OS3.0.302.0.WOLMIXM_20260526.0000.00_16.0_global_fc8056a10e.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.302.0.WOLMIXM/onyx_global_images_OS3.0.302.0.WOLMIXM_20260526.0000.00_16.0_global_fc8056a10e.tgz</link>
       <guid isPermaLink="false">onyx_global_OS3.0.302.0.WOLMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2074,7 +2074,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V816.0.1.0.TGLMIXM/opal_global_images_OS1.0.1.0.TGLMIXM_20240226.0000.00_13.0_global_1d9ff93729.tgz</description>
       <link>https://superota.d.miui.com/V816.0.1.0.TGLMIXM/opal_global_images_OS1.0.1.0.TGLMIXM_20240226.0000.00_13.0_global_1d9ff93729.tgz</link>
       <guid isPermaLink="false">opal_global_V816.0.1.0.TGLMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2089,7 +2089,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.301.0.WPXMIXM/organ_global_images_OS3.0.301.0.WPXMIXM_20260616.0000.00_16.0_global_230bd8dd70.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.301.0.WPXMIXM/organ_global_images_OS3.0.301.0.WPXMIXM_20260616.0000.00_16.0_global_230bd8dd70.tgz</link>
       <guid isPermaLink="false">organ_global_OS3.0.301.0.WPXMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2104,7 +2104,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V11.0.2.0.NDDMIXM/oxygen_global_images_V11.0.2.0.NDDMIXM_20191023.0000.00_7.1_global_c98be7c892.tgz</description>
       <link>https://superota.d.miui.com/V11.0.2.0.NDDMIXM/oxygen_global_images_V11.0.2.0.NDDMIXM_20191023.0000.00_7.1_global_c98be7c892.tgz</link>
       <guid isPermaLink="false">oxygen_global_V11.0.2.0.NDDMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2119,7 +2119,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.302.0.WNPMIXM/peridot_global_images_OS3.0.302.0.WNPMIXM_20260527.0000.00_16.0_global_a36d19114e.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.302.0.WNPMIXM/peridot_global_images_OS3.0.302.0.WNPMIXM_20260527.0000.00_16.0_global_a36d19114e.tgz</link>
       <guid isPermaLink="false">peridot_global_OS3.0.302.0.WNPMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2134,7 +2134,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V12.0.2.0.QEEMIXM/perseus_global_images_V12.0.2.0.QEEMIXM_20201116.0000.00_10.0_global_bc07f81c47.tgz</description>
       <link>https://superota.d.miui.com/V12.0.2.0.QEEMIXM/perseus_global_images_V12.0.2.0.QEEMIXM_20201116.0000.00_10.0_global_bc07f81c47.tgz</link>
       <guid isPermaLink="false">perseus_global_V12.0.2.0.QEEMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2149,7 +2149,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.303.0.WPYMIXM/piano_global_images_OS3.0.303.0.WPYMIXM_20260626.0000.00_16.0_global_12f8990337.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.303.0.WPYMIXM/piano_global_images_OS3.0.303.0.WPYMIXM_20260626.0000.00_16.0_global_12f8990337.tgz</link>
       <guid isPermaLink="false">piano_global_OS3.0.303.0.WPYMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2164,7 +2164,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V12.5.2.0.QCMMIXM/pine_global_images_V12.5.2.0.QCMMIXM_20211220.0000.00_10.0_global_f96ebd6110.tgz</description>
       <link>https://superota.d.miui.com/V12.5.2.0.QCMMIXM/pine_global_images_V12.5.2.0.QCMMIXM_20211220.0000.00_10.0_global_f96ebd6110.tgz</link>
       <guid isPermaLink="false">pine_global_V12.5.2.0.QCMMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2179,7 +2179,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS2.0.16.0.UMZMIXM/pipa_global_images_OS2.0.16.0.UMZMIXM_20260414.0000.00_14.0_global_5f1e2b108a.tgz</description>
       <link>https://superota.d.miui.com/OS2.0.16.0.UMZMIXM/pipa_global_images_OS2.0.16.0.UMZMIXM_20260414.0000.00_14.0_global_5f1e2b108a.tgz</link>
       <guid isPermaLink="false">pipa_global_OS2.0.16.0.UMZMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2194,7 +2194,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V816.0.18.0.TKTMIXM/pissarro_global_images_OS1.0.18.0.TKTMIXM_20260409.0000.00_13.0_global_15179eb125.tgz</description>
       <link>https://superota.d.miui.com/V816.0.18.0.TKTMIXM/pissarro_global_images_OS1.0.18.0.TKTMIXM_20260409.0000.00_13.0_global_15179eb125.tgz</link>
       <guid isPermaLink="false">pissarro_global_V816.0.18.0.TKTMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2209,7 +2209,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V12.0.3.0.QDTMIXM/platina_global_images_V12.0.3.0.QDTMIXM_20200914.0000.00_10.0_global_5f4bd74ec8.tgz</description>
       <link>https://superota.d.miui.com/V12.0.3.0.QDTMIXM/platina_global_images_V12.0.3.0.QDTMIXM_20200914.0000.00_10.0_global_5f4bd74ec8.tgz</link>
       <guid isPermaLink="false">platina_global_V12.0.3.0.QDTMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2224,7 +2224,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS2.0.215.0.VLQMIXM/plato_global_images_OS2.0.215.0.VLQMIXM_20260615.0000.00_15.0_global_5176828870.tgz</description>
       <link>https://superota.d.miui.com/OS2.0.215.0.VLQMIXM/plato_global_images_OS2.0.215.0.VLQMIXM_20260615.0000.00_15.0_global_5176828870.tgz</link>
       <guid isPermaLink="false">plato_global_OS2.0.215.0.VLQMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2239,7 +2239,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V12.0.3.0.QDGMIXM/polaris_global_images_V12.0.3.0.QDGMIXM_20201228.0000.00_10.0_global_e3e52bf565.tgz</description>
       <link>https://superota.d.miui.com/V12.0.3.0.QDGMIXM/polaris_global_images_V12.0.3.0.QDGMIXM_20201228.0000.00_10.0_global_e3e52bf565.tgz</link>
       <guid isPermaLink="false">polaris_global_V12.0.3.0.QDGMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2254,7 +2254,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V10.2.2.0.MCEMIXM/prada_global_images_V10.2.2.0.MCEMIXM_20190508.0000.00_6.0_global_299e7070e4.tgz</description>
       <link>https://superota.d.miui.com/V10.2.2.0.MCEMIXM/prada_global_images_V10.2.2.0.MCEMIXM_20190508.0000.00_6.0_global_299e7070e4.tgz</link>
       <guid isPermaLink="false">prada_global_V10.2.2.0.MCEMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2269,7 +2269,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V816.0.9.0.TLDMIXM/psyche_global_images_OS1.0.9.0.TLDMIXM_20260407.0000.00_13.0_global_f029ab1839.tgz</description>
       <link>https://superota.d.miui.com/V816.0.9.0.TLDMIXM/psyche_global_images_OS1.0.9.0.TLDMIXM_20260407.0000.00_13.0_global_f029ab1839.tgz</link>
       <guid isPermaLink="false">psyche_global_V816.0.9.0.TLDMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2284,7 +2284,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.303.0.WPCMIXM/pudding_global_images_OS3.0.303.0.WPCMIXM_20260630.0000.00_16.0_global_0c293afd1b.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.303.0.WPCMIXM/pudding_global_images_OS3.0.303.0.WPCMIXM_20260630.0000.00_16.0_global_0c293afd1b.tgz</link>
       <guid isPermaLink="false">pudding_global_OS3.0.303.0.WPCMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2299,7 +2299,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V12.5.2.0.RFCMIXM/pyxis_global_images_V12.5.2.0.RFCMIXM_20210713.0000.00_11.0_global_4a76dc08d2.tgz</description>
       <link>https://superota.d.miui.com/V12.5.2.0.RFCMIXM/pyxis_global_images_V12.5.2.0.RFCMIXM_20210713.0000.00_11.0_global_4a76dc08d2.tgz</link>
       <guid isPermaLink="false">pyxis_global_V12.5.2.0.RFCMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2314,7 +2314,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V12.5.2.0.RFKMIXM/raphael_global_images_V12.5.2.0.RFKMIXM_20210809.0000.00_11.0_global_71aaa1f8dd.tgz</description>
       <link>https://superota.d.miui.com/V12.5.2.0.RFKMIXM/raphael_global_images_V12.5.2.0.RFKMIXM_20210809.0000.00_11.0_global_71aaa1f8dd.tgz</link>
       <guid isPermaLink="false">raphael_global_V12.5.2.0.RFKMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2329,7 +2329,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS2.0.17.0.UMSMIXM/redwood_global_images_OS2.0.17.0.UMSMIXM_20251229.0000.00_14.0_global_3f92650720.tgz</description>
       <link>https://superota.d.miui.com/OS2.0.17.0.UMSMIXM/redwood_global_images_OS2.0.17.0.UMSMIXM_20251229.0000.00_14.0_global_3f92650720.tgz</link>
       <guid isPermaLink="false">redwood_global_OS2.0.17.0.UMSMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2344,7 +2344,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V14.0.7.0.TKIMIXM/renoir_global_images_V14.0.7.0.TKIMIXM_20231222.0000.00_13.0_global_e21e2a7d85.tgz</description>
       <link>https://superota.d.miui.com/V14.0.7.0.TKIMIXM/renoir_global_images_V14.0.7.0.TKIMIXM_20231222.0000.00_13.0_global_e21e2a7d85.tgz</link>
       <guid isPermaLink="false">renoir_global_V14.0.7.0.TKIMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2359,7 +2359,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V11.0.2.0.OCKMIXM/riva_global_images_V11.0.2.0.OCKMIXM_20191106.0000.00_8.1_global_605da3d46d.tgz</description>
       <link>https://superota.d.miui.com/V11.0.2.0.OCKMIXM/riva_global_images_V11.0.2.0.OCKMIXM_20191106.0000.00_8.1_global_605da3d46d.tgz</link>
       <guid isPermaLink="false">riva_global_V11.0.2.0.OCKMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2374,7 +2374,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V816.0.12.0.ULUMIXM/rock_global_images_OS1.0.12.0.ULUMIXM_20241012.0000.00_14.0_global_b5a4c2b376.tgz</description>
       <link>https://superota.d.miui.com/V816.0.12.0.ULUMIXM/rock_global_images_OS1.0.12.0.ULUMIXM_20241012.0000.00_14.0_global_b5a4c2b376.tgz</link>
       <guid isPermaLink="false">rock_global_V816.0.12.0.ULUMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2389,7 +2389,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.301.0.WOJMIXM/rodin_global_images_OS3.0.301.0.WOJMIXM_20260702.0000.00_16.0_global_fc0e5fe138.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.301.0.WOJMIXM/rodin_global_images_OS3.0.301.0.WOJMIXM_20260702.0000.00_16.0_global_fc0e5fe138.tgz</link>
       <guid isPermaLink="false">rodin_global_OS3.0.301.0.WOJMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2404,7 +2404,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V10.2.3.0.NCCMIXM/rolex_global_images_V10.2.3.0.NCCMIXM_20190605.0000.00_7.1_global_dc1454fa9b.tgz</description>
       <link>https://superota.d.miui.com/V10.2.3.0.NCCMIXM/rolex_global_images_V10.2.3.0.NCCMIXM_20190605.0000.00_7.1_global_dc1454fa9b.tgz</link>
       <guid isPermaLink="false">rolex_global_V10.2.3.0.NCCMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2419,7 +2419,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V14.0.11.0.TKLMIXM/rosemary_global_images_V14.0.11.0.TKLMIXM_20240709.0000.00_13.0_global_2315289be4.tgz</description>
       <link>https://superota.d.miui.com/V14.0.11.0.TKLMIXM/rosemary_global_images_V14.0.11.0.TKLMIXM_20240709.0000.00_13.0_global_2315289be4.tgz</link>
       <guid isPermaLink="false">rosemary_global_V14.0.11.0.TKLMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2434,7 +2434,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V14.0.17.0.TFFMIXM/rosemary_p_global_images_V14.0.17.0.TFFMIXM_20241217.0000.00_13.0_global_e6f691d94a.tgz</description>
       <link>https://superota.d.miui.com/V14.0.17.0.TFFMIXM/rosemary_p_global_images_V14.0.17.0.TFFMIXM_20241217.0000.00_13.0_global_e6f691d94a.tgz</link>
       <guid isPermaLink="false">rosemary_p_global_V14.0.17.0.TFFMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2449,7 +2449,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V11.0.2.0.ODAMIXM/rosy_global_images_V11.0.2.0.ODAMIXM_20200103.0000.00_8.1_global_2ee99e9ab6.tgz</description>
       <link>https://superota.d.miui.com/V11.0.2.0.ODAMIXM/rosy_global_images_V11.0.2.0.ODAMIXM_20200103.0000.00_8.1_global_2ee99e9ab6.tgz</link>
       <guid isPermaLink="false">rosy_global_V11.0.2.0.ODAMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2464,7 +2464,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.301.0.WNNMIXM/rothko_global_images_OS3.0.301.0.WNNMIXM_20260611.0000.00_16.0_global_b126fb9347.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.301.0.WNNMIXM/rothko_global_images_OS3.0.301.0.WNNMIXM_20260611.0000.00_16.0_global_b126fb9347.tgz</link>
       <guid isPermaLink="false">rothko_global_OS3.0.301.0.WNNMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2479,7 +2479,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.302.0.WFSMIXM/ruan_global_images_OS3.0.302.0.WFSMIXM_20260709.0000.00_16.0_global_772b74fd81.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.302.0.WFSMIXM/ruan_global_images_OS3.0.302.0.WFSMIXM_20260709.0000.00_16.0_global_772b74fd81.tgz</link>
       <guid isPermaLink="false">ruan_global_OS3.0.302.0.WFSMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2494,7 +2494,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS2.0.14.0.UMOMIXM/ruby_global_images_OS2.0.14.0.UMOMIXM_20260616.0000.00_14.0_global_d7f22c84d9.tgz</description>
       <link>https://superota.d.miui.com/OS2.0.14.0.UMOMIXM/ruby_global_images_OS2.0.14.0.UMOMIXM_20260616.0000.00_14.0_global_d7f22c84d9.tgz</link>
       <guid isPermaLink="false">ruby_global_OS2.0.14.0.UMOMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2509,7 +2509,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.302.0.WNIMIXM/ruyi_global_images_OS3.0.302.0.WNIMIXM_20260529.0000.00_16.0_global_b06a22f16d.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.302.0.WNIMIXM/ruyi_global_images_OS3.0.302.0.WNIMIXM_20260529.0000.00_16.0_global_b06a22f16d.tgz</link>
       <guid isPermaLink="false">ruyi_global_OS3.0.302.0.WNIMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2524,7 +2524,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V11.0.6.0.PCAMIXM/sagit_global_images_V11.0.6.0.PCAMIXM_20200308.0000.00_9.0_global_4e37806e9f.tgz</description>
       <link>https://superota.d.miui.com/V11.0.6.0.PCAMIXM/sagit_global_images_V11.0.6.0.PCAMIXM_20200308.0000.00_9.0_global_4e37806e9f.tgz</link>
       <guid isPermaLink="false">sagit_global_V11.0.6.0.PCAMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2539,7 +2539,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V11.0.2.0.NAMMIXM/santoni_global_images_V11.0.2.0.NAMMIXM_20191107.0000.00_7.1_global_99c087db02.tgz</description>
       <link>https://superota.d.miui.com/V11.0.2.0.NAMMIXM/santoni_global_images_V11.0.2.0.NAMMIXM_20191107.0000.00_7.1_global_99c087db02.tgz</link>
       <guid isPermaLink="false">santoni_global_V11.0.2.0.NAMMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2554,7 +2554,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS2.0.211.0.VNGMIXM/sapphire_global_images_OS2.0.211.0.VNGMIXM_20260527.0000.00_15.0_global_c1fc37f370.tgz</description>
       <link>https://superota.d.miui.com/OS2.0.211.0.VNGMIXM/sapphire_global_images_OS2.0.211.0.VNGMIXM_20260527.0000.00_15.0_global_c1fc37f370.tgz</link>
       <guid isPermaLink="false">sapphire_global_OS2.0.211.0.VNGMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2569,7 +2569,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS2.0.210.0.VNHMIXM/sapphiren_global_images_OS2.0.210.0.VNHMIXM_20260527.0000.00_15.0_global_cc9e4f62d5.tgz</description>
       <link>https://superota.d.miui.com/OS2.0.210.0.VNHMIXM/sapphiren_global_images_OS2.0.210.0.VNHMIXM_20260527.0000.00_15.0_global_cc9e4f62d5.tgz</link>
       <guid isPermaLink="false">sapphiren_global_OS2.0.210.0.VNHMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2584,7 +2584,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V11.0.2.0.OADMIXM/scorpio_global_images_V11.0.2.0.OADMIXM_20191023.0000.00_8.0_global_c8b7caa59d.tgz</description>
       <link>https://superota.d.miui.com/V11.0.2.0.OADMIXM/scorpio_global_images_V11.0.2.0.OADMIXM_20191023.0000.00_8.0_global_c8b7caa59d.tgz</link>
       <guid isPermaLink="false">scorpio_global_V11.0.2.0.OADMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2599,7 +2599,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS2.0.212.0.VHZMIXM/sea_global_images_OS2.0.212.0.VHZMIXM_20260331.0000.00_15.0_global_c9cd4baea4.tgz</description>
       <link>https://superota.d.miui.com/OS2.0.212.0.VHZMIXM/sea_global_images_OS2.0.212.0.VHZMIXM_20260331.0000.00_15.0_global_c9cd4baea4.tgz</link>
       <guid isPermaLink="false">sea_global_OS2.0.212.0.VHZMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2614,7 +2614,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V14.0.7.0.TKUMIXM/selene_global_images_V14.0.7.0.TKUMIXM_20240424.0000.00_13.0_global_c12670bd1a.tgz</description>
       <link>https://superota.d.miui.com/V14.0.7.0.TKUMIXM/selene_global_images_V14.0.7.0.TKUMIXM_20240424.0000.00_13.0_global_c12670bd1a.tgz</link>
       <guid isPermaLink="false">selene_global_V14.0.7.0.TKUMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2629,7 +2629,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/A15.0.30.0.VGWMIXM/serenity_global-images-A15.0.30.0.VGWMIXM-user-20260722.0000.00-15.0-global-13007a59fc.tgz</description>
       <link>https://superota.d.miui.com/A15.0.30.0.VGWMIXM/serenity_global-images-A15.0.30.0.VGWMIXM-user-20260722.0000.00-15.0-global-13007a59fc.tgz</link>
       <guid isPermaLink="false">serenity_global_A15.0.30.0.VGWMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2644,7 +2644,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.303.0.WNXMIXM/sheng_global_images_OS3.0.303.0.WNXMIXM_20260625.0000.00_16.0_global_4bd9ccec6f.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.303.0.WNXMIXM/sheng_global_images_OS3.0.303.0.WNXMIXM_20260625.0000.00_16.0_global_4bd9ccec6f.tgz</link>
       <guid isPermaLink="false">sheng_global_OS3.0.303.0.WNXMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2659,7 +2659,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V12.5.7.0.RJRINXM/shiva_in_global_images_V12.5.7.0.RJRINXM_20220727.0000.00_11.0_in_ea3f195178.tgz</description>
       <link>https://superota.d.miui.com/V12.5.7.0.RJRINXM/shiva_in_global_images_V12.5.7.0.RJRINXM_20220727.0000.00_11.0_in_ea3f195178.tgz</link>
       <guid isPermaLink="false">shiva_in_global_V12.5.7.0.RJRINXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>India</category>
     </item>
     <item>
@@ -2674,7 +2674,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS2.0.209.0.VMWMIXM/sky_global_images_OS2.0.209.0.VMWMIXM_20260616.0000.00_15.0_global_5c27e2e7cd.tgz</description>
       <link>https://superota.d.miui.com/OS2.0.209.0.VMWMIXM/sky_global_images_OS2.0.209.0.VMWMIXM_20260616.0000.00_15.0_global_5c27e2e7cd.tgz</link>
       <guid isPermaLink="false">sky_global_OS2.0.209.0.VMWMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2689,7 +2689,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.11.0.WBWINXM/somalia_in_global-images-OS3.0.11.0.WBWINXM-user-20260616.0000.00-16.0-in-6eb66f6f6f.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.11.0.WBWINXM/somalia_in_global-images-OS3.0.11.0.WBWINXM-user-20260616.0000.00-16.0-in-6eb66f6f6f.tgz</link>
       <guid isPermaLink="false">somalia_in_global_OS3.0.11.0.WBWINXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>India</category>
     </item>
     <item>
@@ -2704,7 +2704,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.302.0.WHYMIXM/spark_global_images_OS3.0.302.0.WHYMIXM_20260514.0000.00_16.0_global_cd3fb5bfcc.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.302.0.WHYMIXM/spark_global_images_OS3.0.302.0.WHYMIXM_20260514.0000.00_16.0_global_cd3fb5bfcc.tgz</link>
       <guid isPermaLink="false">spark_global_OS3.0.302.0.WHYMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2719,7 +2719,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V816.0.8.0.TGCMIXM/spes_global_images_OS1.0.8.0.TGCMIXM_20240929.0000.00_13.0_global_2ba81a8074.tgz</description>
       <link>https://superota.d.miui.com/V816.0.8.0.TGCMIXM/spes_global_images_OS1.0.8.0.TGCMIXM_20240929.0000.00_13.0_global_2ba81a8074.tgz</link>
       <guid isPermaLink="false">spes_global_V816.0.8.0.TGCMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2734,7 +2734,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V816.0.11.0.TGKMIXM/spesn_global_images_OS1.0.11.0.TGKMIXM_20250417.0000.00_13.0_global_3a948ed413.tgz</description>
       <link>https://superota.d.miui.com/V816.0.11.0.TGKMIXM/spesn_global_images_OS1.0.11.0.TGKMIXM_20250417.0000.00_13.0_global_3a948ed413.tgz</link>
       <guid isPermaLink="false">spesn_global_V816.0.11.0.TGKMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2749,7 +2749,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.301.0.WPGMIXM/spinel_global_images_OS3.0.301.0.WPGMIXM_20260509.0000.00_16.0_global_77d160a6fe.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.301.0.WPGMIXM/spinel_global_images_OS3.0.301.0.WPGMIXM_20260509.0000.00_16.0_global_77d160a6fe.tgz</link>
       <guid isPermaLink="false">spinel_global_OS3.0.301.0.WPGMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2764,7 +2764,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.302.0.WOUMIXM/spring_global_images_OS3.0.302.0.WOUMIXM_20260523.0000.00_16.0_global_9ced7f9186.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.302.0.WOUMIXM/spring_global_images_OS3.0.302.0.WOUMIXM_20260523.0000.00_16.0_global_9ced7f9186.tgz</link>
       <guid isPermaLink="false">spring_global_OS3.0.302.0.WOUMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2779,7 +2779,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS2.0.7.0.UKAMIXM/star_global_images_OS2.0.7.0.UKAMIXM_20251126.0000.00_14.0_global_da3f7f5a9e.tgz</description>
       <link>https://superota.d.miui.com/OS2.0.7.0.UKAMIXM/star_global_images_OS2.0.7.0.UKAMIXM_20251126.0000.00_14.0_global_da3f7f5a9e.tgz</link>
       <guid isPermaLink="false">star_global_OS2.0.7.0.UKAMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2794,7 +2794,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS2.0.5.0.UMQMIXM/sunstone_global_images_OS2.0.5.0.UMQMIXM_20251020.0000.00_14.0_global_f4ad534bf4.tgz</description>
       <link>https://superota.d.miui.com/OS2.0.5.0.UMQMIXM/sunstone_global_images_OS2.0.5.0.UMQMIXM_20251020.0000.00_14.0_global_f4ad534bf4.tgz</link>
       <guid isPermaLink="false">sunstone_global_OS2.0.5.0.UMQMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2809,7 +2809,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V14.0.2.0.SJGMIXM/surya_global_images_V14.0.2.0.SJGMIXM_20230612.0000.00_12.0_global_5c97f3fb79.tgz</description>
       <link>https://superota.d.miui.com/V14.0.2.0.SJGMIXM/surya_global_images_V14.0.2.0.SJGMIXM_20230612.0000.00_12.0_global_5c97f3fb79.tgz</link>
       <guid isPermaLink="false">surya_global_V14.0.2.0.SJGMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2824,7 +2824,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V14.0.8.0.TKFMIXM/sweet_global_images_V14.0.8.0.TKFMIXM_20231016.0000.00_13.0_global_86d031c692.tgz</description>
       <link>https://superota.d.miui.com/V14.0.8.0.TKFMIXM/sweet_global_images_V14.0.8.0.TKFMIXM_20231016.0000.00_13.0_global_86d031c692.tgz</link>
       <guid isPermaLink="false">sweet_global_V14.0.8.0.TKFMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2839,7 +2839,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V816.0.34.0.THGMIXM/sweet_k6a_global_images_OS1.0.34.0.THGMIXM_20260513.0000.00_13.0_global_db576dd8ef.tgz</description>
       <link>https://superota.d.miui.com/V816.0.34.0.THGMIXM/sweet_k6a_global_images_OS1.0.34.0.THGMIXM_20260513.0000.00_13.0_global_db576dd8ef.tgz</link>
       <guid isPermaLink="false">sweet_k6a_global_V816.0.34.0.THGMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2854,7 +2854,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V13.0.10.0.SKFINXM/sweetin_in_global_images_V13.0.10.0.SKFINXM_20230220.0000.00_12.0_in_d1e14fab7e.tgz</description>
       <link>https://superota.d.miui.com/V13.0.10.0.SKFINXM/sweetin_in_global_images_V13.0.10.0.SKFINXM_20230220.0000.00_12.0_in_d1e14fab7e.tgz</link>
       <guid isPermaLink="false">sweetin_in_global_V13.0.10.0.SKFINXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>India</category>
     </item>
     <item>
@@ -2869,7 +2869,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.302.0.WOVMIXM/taiko_global_images_OS3.0.302.0.WOVMIXM_20260706.0000.00_16.0_global_c403413d9a.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.302.0.WOVMIXM/taiko_global_images_OS3.0.302.0.WOVMIXM_20260706.0000.00_16.0_global_c403413d9a.tgz</link>
       <guid isPermaLink="false">taiko_global_OS3.0.302.0.WOVMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2884,7 +2884,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.302.0.WOGMIXM/tanzanite_global_images_OS3.0.302.0.WOGMIXM_20260608.0000.00_16.0_global_3fbe6cb934.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.302.0.WOGMIXM/tanzanite_global_images_OS3.0.302.0.WOGMIXM_20260608.0000.00_16.0_global_3fbe6cb934.tgz</link>
       <guid isPermaLink="false">tanzanite_global_OS3.0.302.0.WOGMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2899,7 +2899,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V816.0.34.0.ULIMIXM/taoyao_global_images_OS1.0.34.0.ULIMIXM_20260525.0000.00_14.0_global_e8602e568a.tgz</description>
       <link>https://superota.d.miui.com/V816.0.34.0.ULIMIXM/taoyao_global_images_OS1.0.34.0.ULIMIXM_20260525.0000.00_14.0_global_e8602e568a.tgz</link>
       <guid isPermaLink="false">taoyao_global_V816.0.34.0.ULIMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2914,7 +2914,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS2.0.207.0.VMTMIXM/tapas_global_images_OS2.0.207.0.VMTMIXM_20260412.0000.00_15.0_global_09488c21cc.tgz</description>
       <link>https://superota.d.miui.com/OS2.0.207.0.VMTMIXM/tapas_global_images_OS2.0.207.0.VMTMIXM_20260412.0000.00_15.0_global_09488c21cc.tgz</link>
       <guid isPermaLink="false">tapas_global_OS2.0.207.0.VMTMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2929,7 +2929,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V13.0.4.0.SFNMIXM/toco_global_images_V13.0.4.0.SFNMIXM_20221026.0000.00_12.0_global_3da65774e7.tgz</description>
       <link>https://superota.d.miui.com/V13.0.4.0.SFNMIXM/toco_global_images_V13.0.4.0.SFNMIXM_20221026.0000.00_12.0_global_3da65774e7.tgz</link>
       <guid isPermaLink="false">toco_global_V13.0.4.0.SFNMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2944,7 +2944,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS2.0.205.0.VMGMIXM/topaz_global_images_OS2.0.205.0.VMGMIXM_20260509.0000.00_15.0_global_e0171fd44e.tgz</description>
       <link>https://superota.d.miui.com/OS2.0.205.0.VMGMIXM/topaz_global_images_OS2.0.205.0.VMGMIXM_20260509.0000.00_15.0_global_e0171fd44e.tgz</link>
       <guid isPermaLink="false">topaz_global_OS2.0.205.0.VMGMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2959,7 +2959,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.301.0.WPOMIXM/tornado_global_images_OS3.0.301.0.WPOMIXM_20260513.0000.00_16.0_global_c94e8f7506.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.301.0.WPOMIXM/tornado_global_images_OS3.0.301.0.WPOMIXM_20260513.0000.00_16.0_global_c94e8f7506.tgz</link>
       <guid isPermaLink="false">tornado_global_OS3.0.301.0.WPOMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2974,7 +2974,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V13.0.2.0.RFDMIXM/tucana_global_images_V13.0.2.0.RFDMIXM_20220908.0000.00_11.0_global_feef0e8faf.tgz</description>
       <link>https://superota.d.miui.com/V13.0.2.0.RFDMIXM/tucana_global_images_V13.0.2.0.RFDMIXM_20220908.0000.00_11.0_global_feef0e8faf.tgz</link>
       <guid isPermaLink="false">tucana_global_V13.0.2.0.RFDMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -2989,7 +2989,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V12.0.1.0.PEKMIXM/tulip_global_images_V12.0.1.0.PEKMIXM_20201229.0000.00_9.0_global_ac26982758.tgz</description>
       <link>https://superota.d.miui.com/V12.0.1.0.PEKMIXM/tulip_global_images_V12.0.1.0.PEKMIXM_20201229.0000.00_9.0_global_ac26982758.tgz</link>
       <guid isPermaLink="false">tulip_global_V12.0.1.0.PEKMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -3004,7 +3004,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.303.0.WAOMIXM/turner_global_images_OS3.0.303.0.WAOMIXM_20260623.0000.00_16.0_global_6ca4403e0c.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.303.0.WAOMIXM/turner_global_images_OS3.0.303.0.WAOMIXM_20260623.0000.00_16.0_global_6ca4403e0c.tgz</link>
       <guid isPermaLink="false">turner_global_OS3.0.303.0.WAOMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -3019,7 +3019,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V11.0.2.0.NDKMIXM/ugg_global_images_V11.0.2.0.NDKMIXM_20191022.0000.00_7.1_global_554b873d3d.tgz</description>
       <link>https://superota.d.miui.com/V11.0.2.0.NDKMIXM/ugg_global_images_V11.0.2.0.NDKMIXM_20191022.0000.00_7.1_global_554b873d3d.tgz</link>
       <guid isPermaLink="false">ugg_global_V11.0.2.0.NDKMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -3034,7 +3034,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V11.0.3.0.NDFMIXM/ugglite_global_images_V11.0.3.0.NDFMIXM_20191022.0000.00_7.1_global_9e48e63f94.tgz</description>
       <link>https://superota.d.miui.com/V11.0.3.0.NDFMIXM/ugglite_global_images_V11.0.3.0.NDFMIXM_20191022.0000.00_7.1_global_9e48e63f94.tgz</link>
       <guid isPermaLink="false">ugglite_global_V11.0.3.0.NDFMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -3049,7 +3049,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.303.0.WOZMIXM/uke_global_images_OS3.0.303.0.WOZMIXM_20260625.0000.00_16.0_global_0a5b1b6851.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.303.0.WOZMIXM/uke_global_images_OS3.0.303.0.WOZMIXM_20260625.0000.00_16.0_global_0a5b1b6851.tgz</link>
       <guid isPermaLink="false">uke_global_OS3.0.303.0.WOZMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -3064,7 +3064,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V816.0.4.0.TJBMIXM/umi_global_images_OS1.0.4.0.TJBMIXM_20251228.0000.00_13.0_global_58579d06ce.tgz</description>
       <link>https://superota.d.miui.com/V816.0.4.0.TJBMIXM/umi_global_images_OS1.0.4.0.TJBMIXM_20251228.0000.00_13.0_global_58579d06ce.tgz</link>
       <guid isPermaLink="false">umi_global_V816.0.4.0.TJBMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -3079,7 +3079,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V13.0.3.0.SJUMIXM/vayu_global_images_V13.0.3.0.SJUMIXM_20220226.0000.00_12.0_global_04cf9ad225.tgz</description>
       <link>https://superota.d.miui.com/V13.0.3.0.SJUMIXM/vayu_global_images_V13.0.3.0.SJUMIXM_20220226.0000.00_12.0_global_04cf9ad225.tgz</link>
       <guid isPermaLink="false">vayu_global_V13.0.3.0.SJUMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -3094,7 +3094,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS2.0.3.0.UKBMIXM/venus_global_images_OS2.0.3.0.UKBMIXM_20251227.0000.00_14.0_global_32d5e16e93.tgz</description>
       <link>https://superota.d.miui.com/OS2.0.3.0.UKBMIXM/venus_global_images_OS2.0.3.0.UKBMIXM_20251227.0000.00_14.0_global_32d5e16e93.tgz</link>
       <guid isPermaLink="false">venus_global_OS2.0.3.0.UKBMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -3109,7 +3109,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.303.0.WNKMIXM/vermeer_global_images_OS3.0.303.0.WNKMIXM_20260622.0000.00_16.0_global_de856600c0.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.303.0.WNKMIXM/vermeer_global_images_OS3.0.303.0.WNKMIXM_20260622.0000.00_16.0_global_de856600c0.tgz</link>
       <guid isPermaLink="false">vermeer_global_OS3.0.303.0.WNKMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -3124,7 +3124,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V816.0.12.0.TKCMIXM/veux_global_images_OS1.0.12.0.TKCMIXM_20241205.0000.00_13.0_global_cda1240a45.tgz</description>
       <link>https://superota.d.miui.com/V816.0.12.0.TKCMIXM/veux_global_images_OS1.0.12.0.TKCMIXM_20241205.0000.00_13.0_global_cda1240a45.tgz</link>
       <guid isPermaLink="false">veux_global_V816.0.12.0.TKCMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -3139,7 +3139,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V816.0.4.0.TGDINXM/vida_in_global_images_OS1.0.4.0.TGDINXM_20240822.0000.00_13.0_in_f85ede6682.tgz</description>
       <link>https://superota.d.miui.com/V816.0.4.0.TGDINXM/vida_in_global_images_OS1.0.4.0.TGDINXM_20240822.0000.00_13.0_in_f85ede6682.tgz</link>
       <guid isPermaLink="false">vida_in_global_V816.0.4.0.TGDINXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>India</category>
     </item>
     <item>
@@ -3154,7 +3154,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V816.0.22.0.UKDMIXM/vili_global_images_OS1.0.22.0.UKDMIXM_20250829.0000.00_14.0_global_d86945d660.tgz</description>
       <link>https://superota.d.miui.com/V816.0.22.0.UKDMIXM/vili_global_images_OS1.0.22.0.UKDMIXM_20250829.0000.00_14.0_global_d86945d660.tgz</link>
       <guid isPermaLink="false">vili_global_V816.0.22.0.UKDMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -3169,7 +3169,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V11.0.2.0.OEGMIXM/vince_global_images_V11.0.2.0.OEGMIXM_20191108.0000.00_8.1_global_90dd70aa99.tgz</description>
       <link>https://superota.d.miui.com/V11.0.2.0.OEGMIXM/vince_global_images_V11.0.2.0.OEGMIXM_20191108.0000.00_8.1_global_90dd70aa99.tgz</link>
       <guid isPermaLink="false">vince_global_V11.0.2.0.OEGMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -3184,7 +3184,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V12.5.1.0.QFHINXM/violet_in_global_images_V12.5.1.0.QFHINXM_20210908.0000.00_10.0_in_107a215f5e.tgz</description>
       <link>https://superota.d.miui.com/V12.5.1.0.QFHINXM/violet_in_global_images_V12.5.1.0.QFHINXM_20210908.0000.00_10.0_in_107a215f5e.tgz</link>
       <guid isPermaLink="false">violet_in_global_V12.5.1.0.QFHINXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>India</category>
     </item>
     <item>
@@ -3199,7 +3199,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V9.5.1.0.MXEMIFA/virgo_global_images_V9.5.1.0.MXEMIFA_20180406.0000.00_6.0_global_4d653339a5.tgz</description>
       <link>https://superota.d.miui.com/V9.5.1.0.MXEMIFA/virgo_global_images_V9.5.1.0.MXEMIFA_20180406.0000.00_6.0_global_4d653339a5.tgz</link>
       <guid isPermaLink="false">virgo_global_V9.5.1.0.MXEMIFA</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -3214,7 +3214,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V816.0.4.0.TGDMIXM/viva_global_images_OS1.0.4.0.TGDMIXM_20240805.0000.00_13.0_global_edef5baf9d.tgz</description>
       <link>https://superota.d.miui.com/V816.0.4.0.TGDMIXM/viva_global_images_OS1.0.4.0.TGDMIXM_20240805.0000.00_13.0_global_edef5baf9d.tgz</link>
       <guid isPermaLink="false">viva_global_V816.0.4.0.TGDMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -3229,7 +3229,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.309.0.WPSMIXM/warhol_global_images_OS3.0.309.0.WPSMIXM_20260708.0000.00_16.0_global_b05ed82735.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.309.0.WPSMIXM/warhol_global_images_OS3.0.309.0.WPSMIXM_20260708.0000.00_16.0_global_b05ed82735.tgz</link>
       <guid isPermaLink="false">warhol_global_OS3.0.309.0.WPSMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -3244,7 +3244,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.302.0.WGVINXM/warm_in_global_images_OS3.0.302.0.WGVINXM_20260424.0000.00_16.0_in_7d4d130e40.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.302.0.WGVINXM/warm_in_global_images_OS3.0.302.0.WGVINXM_20260424.0000.00_16.0_in_7d4d130e40.tgz</link>
       <guid isPermaLink="false">warm_in_global_OS3.0.302.0.WGVINXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>India</category>
     </item>
     <item>
@@ -3259,7 +3259,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V11.0.5.0.PEIMIXM/whyred_global_images_V11.0.5.0.PEIMIXM_20200917.0000.00_9.0_global_46113830ee.tgz</description>
       <link>https://superota.d.miui.com/V11.0.5.0.PEIMIXM/whyred_global_images_V11.0.5.0.PEIMIXM_20200917.0000.00_9.0_global_46113830ee.tgz</link>
       <guid isPermaLink="false">whyred_global_V11.0.5.0.PEIMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -3274,7 +3274,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V12.5.6.0.RCXMIXM/willow_global_images_V12.5.6.0.RCXMIXM_20220623.0000.00_11.0_global_f58e9a4cc8.tgz</description>
       <link>https://superota.d.miui.com/V12.5.6.0.RCXMIXM/willow_global_images_V12.5.6.0.RCXMIXM_20220623.0000.00_11.0_global_f58e9a4cc8.tgz</link>
       <guid isPermaLink="false">willow_global_V12.5.6.0.RCXMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -3289,7 +3289,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V8.2.1.0.KHJMIDL/wt88047_global_images_V8.2.1.0.KHJMIDL_20170214.0000.00_4.4_global_c5fecbbd3a.tgz</description>
       <link>https://superota.d.miui.com/V8.2.1.0.KHJMIDL/wt88047_global_images_V8.2.1.0.KHJMIDL_20170214.0000.00_4.4_global_c5fecbbd3a.tgz</link>
       <guid isPermaLink="false">wt88047_global_V8.2.1.0.KHJMIDL</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -3304,7 +3304,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS2.0.3.0.ULOMIXM/xaga_global_images_OS2.0.3.0.ULOMIXM_20250618.0000.00_14.0_global_8140a7f767.tgz</description>
       <link>https://superota.d.miui.com/OS2.0.3.0.ULOMIXM/xaga_global_images_OS2.0.3.0.ULOMIXM_20250618.0000.00_14.0_global_8140a7f767.tgz</link>
       <guid isPermaLink="false">xaga_global_OS2.0.3.0.ULOMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -3319,7 +3319,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.301.0.WOAMIXM/xuanyuan_global_images_OS3.0.301.0.WOAMIXM_20260428.0000.00_16.0_global_d98a2e098d.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.301.0.WOAMIXM/xuanyuan_global_images_OS3.0.301.0.WOAMIXM_20260428.0000.00_16.0_global_d98a2e098d.tgz</link>
       <guid isPermaLink="false">xuanyuan_global_OS3.0.301.0.WOAMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -3334,7 +3334,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS2.0.209.0.VMUMIXM/xun_global_images_OS2.0.209.0.VMUMIXM_20260622.0000.00_15.0_global_0dee6f46cf.tgz</description>
       <link>https://superota.d.miui.com/OS2.0.209.0.VMUMIXM/xun_global_images_OS2.0.209.0.VMUMIXM_20260622.0000.00_15.0_global_0dee6f46cf.tgz</link>
       <guid isPermaLink="false">xun_global_OS2.0.209.0.VMUMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -3349,7 +3349,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V12.0.2.0.PEFMIXM/ysl_global_images_V12.0.2.0.PEFMIXM_20200924.0000.00_9.0_global_e800582a81.tgz</description>
       <link>https://superota.d.miui.com/V12.0.2.0.PEFMIXM/ysl_global_images_V12.0.2.0.PEFMIXM_20200924.0000.00_9.0_global_e800582a81.tgz</link>
       <guid isPermaLink="false">ysl_global_V12.0.2.0.PEFMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -3364,7 +3364,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/V816.0.9.0.ULYMIXM/yunluo_global_images_OS1.0.9.0.ULYMIXM_20250416.0000.00_14.0_global_f8dbb84a10.tgz</description>
       <link>https://superota.d.miui.com/V816.0.9.0.ULYMIXM/yunluo_global_images_OS1.0.9.0.ULYMIXM_20250416.0000.00_14.0_global_f8dbb84a10.tgz</link>
       <guid isPermaLink="false">yunluo_global_V816.0.9.0.ULYMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -3379,7 +3379,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.303.0.WPZMIXM/yupei_global_images_OS3.0.303.0.WPZMIXM_20260702.0000.00_16.0_global_01a14dd01a.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.303.0.WPZMIXM/yupei_global_images_OS3.0.303.0.WPZMIXM_20260702.0000.00_16.0_global_01a14dd01a.tgz</link>
       <guid isPermaLink="false">yupei_global_OS3.0.303.0.WPZMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -3394,7 +3394,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.4.0.VLBMIXM/zeus_global_images_OS3.0.4.0.VLBMIXM_20260601.0000.00_15.0_global_70c95a776f.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.4.0.VLBMIXM/zeus_global_images_OS3.0.4.0.VLBMIXM_20260601.0000.00_15.0_global_70c95a776f.tgz</link>
       <guid isPermaLink="false">zeus_global_OS3.0.4.0.VLBMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -3409,7 +3409,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.301.0.WNOMIXM/zircon_global_images_OS3.0.301.0.WNOMIXM_20260506.0000.00_16.0_global_2e726c6870.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.301.0.WNOMIXM/zircon_global_images_OS3.0.301.0.WNOMIXM_20260506.0000.00_16.0_global_2e726c6870.tgz</link>
       <guid isPermaLink="false">zircon_global_OS3.0.301.0.WNOMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
     <item>
@@ -3424,7 +3424,7 @@ Method: Fastboot (Full ROM)
 Download: https://superota.d.miui.com/OS3.0.4.0.VLLMIXM/ziyi_global_images_OS3.0.4.0.VLLMIXM_20260708.0000.00_15.0_global_1e963d26e6.tgz</description>
       <link>https://superota.d.miui.com/OS3.0.4.0.VLLMIXM/ziyi_global_images_OS3.0.4.0.VLLMIXM_20260708.0000.00_15.0_global_1e963d26e6.tgz</link>
       <guid isPermaLink="false">ziyi_global_OS3.0.4.0.VLLMIXM</guid>
-      <pubDate>Sun, 02 Aug 2026 14:19:28 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:25:43 +0000</pubDate>
       <category>Global</category>
     </item>
   </channel>
