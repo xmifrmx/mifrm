@@ -10,6 +10,7 @@ Codename list: https://github.com/chebishev/AllXiaomiDeviceCodes
 """
 
 import json
+import re
 import urllib.request
 import urllib.parse
 import sys
@@ -21,7 +22,8 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 API_URL = "https://update.intl.miui.com/updates/miota-fullrom.php"
 CODENAME_LIST_URL = "https://raw.githubusercontent.com/chebishev/AllXiaomiDeviceCodes/master/codenames_as_keys.json"
-DOWNLOAD_MIRROR = "https://superota.d.miui.com"
+# superota.d.miui.com her istege 403 donuyor; bigota calisan mirror.
+DOWNLOAD_MIRROR = "https://bigota.d.miui.com"
 TIMEOUT = 12
 MAX_WORKERS = 30
 
@@ -68,23 +70,47 @@ def query_rom(device, region):
     return rom
 
 
+def path_version(filename, fallback):
+    """
+    Indirme klasoru adini DOSYA ADINDAN cikarir.
+    API'nin 'version' alani bazen klasor adiyla uyusmuyor, orn:
+      version  -> V816.0.4.0.TJBMIXM   (404 verir)
+      filename -> umi_global_images_OS1.0.4.0.TJBMIXM_...  (dogru klasor)
+    """
+    match = re.search(r"_images_([^_]+)_", filename or "")
+    return match.group(1) if match else fallback
+
+
+def display_name(market_names, base_codename):
+    """ROM adi olarak kod adi degil, pazar adini kullan (orn. 'Xiaomi 17 Ultra')."""
+    if isinstance(market_names, list) and market_names:
+        return market_names[0]
+    if isinstance(market_names, str) and market_names.strip():
+        return market_names.strip()
+    return base_codename
+
+
 def try_all_regions(base_codename, market_names):
     roms = []
     for suffix, region, region_name in REGION_VARIANTS:
         device = f"{base_codename}{suffix}"
         rom = query_rom(device, region)
         if rom:
+            filename = rom.get("filename", "")
+            version = rom.get("version", "Unknown")
+            folder = path_version(filename, version)
             roms.append({
                 "device": device,
                 "base_codename": base_codename,
                 "market_names": market_names,
+                "name": display_name(market_names, base_codename),
                 "region": region_name,
-                "version": rom.get("version", "Unknown"),
-                "filename": rom.get("filename", "Unknown"),
+                "version": version,
+                "filename": filename or "Unknown",
                 "filesize": rom.get("filesize", "Unknown"),
                 "codebase": rom.get("codebase", "Unknown"),
                 "md5": rom.get("md5", "Unknown"),
-                "download_url": f"{DOWNLOAD_MIRROR}/{rom.get('version', '')}/{rom.get('filename', '')}",
+                "download_url": f"{DOWNLOAD_MIRROR}/{folder}/{filename}",
             })
             break
     return roms
@@ -122,7 +148,8 @@ def generate_rss(roms):
 
     items = []
     for rom in sorted(roms, key=lambda r: r["device"]):
-        title = f"{rom['device']} - {rom['version']}"
+        # Baslik: kod adi degil pazar adi -> "Xiaomi 17 Ultra - OS3.0.303.0.WPAMIXM"
+        title = f"{rom['name']} - {rom['version']}"
         name_display = ", ".join(rom["market_names"]) if rom["market_names"] else rom["base_codename"]
         description = (
             f"Device: {name_display} ({rom['device']})\n"
@@ -139,6 +166,7 @@ def generate_rss(roms):
       <title>{escape(title)}</title>
       <description>{escape(description)}</description>
       <link>{escape(rom['download_url'])}</link>
+      <enclosure url="{escape(rom['download_url'])}" type="application/octet-stream"/>
       <guid isPermaLink="false">{escape(guid)}</guid>
       <pubDate>{now}</pubDate>
       <category>{escape(rom['region'])}</category>
