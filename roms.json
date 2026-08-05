@@ -1,81 +1,50 @@
 [
   {
-    "device": "alioth_global",
-    "base_codename": "alioth",
+    "device": "apollo_global",
+    "base_codename": "apollo",
     "market_names": [
-      "Redmi K40",
-      "POCO F3",
-      "Mi 11X"
+      "Mi 10T",
+      "Mi 10T Pro",
+      "Redmi K30S"
     ],
-    "name": "Redmi K40",
+    "name": "Mi 10T",
     "region": "Global",
-    "version": "V816.0.5.0.TKHMIXM",
-    "filename": "alioth_global_images_OS1.0.5.0.TKHMIXM_20260112.0000.00_13.0_global_476e4b975e.tgz",
-    "filesize": "5.1G",
-    "codebase": "13.0",
-    "md5": "476e4b975ebcaba6c62a5bf8b5cd7265",
-    "download_url": "https://bigota.d.miui.com/OS1.0.5.0.TKHMIXM/alioth_global_images_OS1.0.5.0.TKHMIXM_20260112.0000.00_13.0_global_476e4b975e.tgz"
+    "version": "V14.0.4.0.SJDMIXM",
+    "filename": "apollo_global_images_V14.0.4.0.SJDMIXM_20230705.0000.00_12.0_global_8bd90035e5.tgz",
+    "filesize": "4.6G",
+    "codebase": "12.0",
+    "md5": "8bd90035e5d27196855b7821413244d4",
+    "download_url": "https://bigota.d.miui.com/V14.0.4.0.SJDMIXM/apollo_global_images_V14.0.4.0.SJDMIXM_20230705.0000.00_12.0_global_8bd90035e5.tgz"
   },
   {
-    "device": "begonia_global",
-    "base_codename": "begonia",
+    "device": "amethyst_global",
+    "base_codename": "amethyst",
     "market_names": [
-      "Redmi Note 8 Pro"
+      "Redmi Note 14 Pro+ 5G"
     ],
-    "name": "Redmi Note 8 Pro",
+    "name": "Redmi Note 14 Pro+ 5G",
     "region": "Global",
-    "version": "V12.5.1.0.RGGMIXM",
-    "filename": "begonia_global_images_V12.5.1.0.RGGMIXM_20210629.0000.00_11.0_global_73e7592b66.tgz",
-    "filesize": "4.1G",
-    "codebase": "11.0",
-    "md5": "73e7592b66b42f743e6cf9513c5b8d8b",
-    "download_url": "https://bigota.d.miui.com/V12.5.1.0.RGGMIXM/begonia_global_images_V12.5.1.0.RGGMIXM_20210629.0000.00_11.0_global_73e7592b66.tgz"
-  },
-  {
-    "device": "biloba_global",
-    "base_codename": "biloba",
-    "market_names": [
-      "Redmi Note 8 (2021)"
-    ],
-    "name": "Redmi Note 8 (2021)",
-    "region": "Global",
-    "version": "V14.0.6.0.TCUMIXM",
-    "filename": "biloba_global_images_V14.0.6.0.TCUMIXM_20230918.0000.00_13.0_global_7a1a32c8fa.tgz",
-    "filesize": "5.0G",
-    "codebase": "13.0",
-    "md5": "7a1a32c8fa28cfc95eb8405496948a19",
-    "download_url": "https://bigota.d.miui.com/V14.0.6.0.TCUMIXM/biloba_global_images_V14.0.6.0.TCUMIXM_20230918.0000.00_13.0_global_7a1a32c8fa.tgz"
-  },
-  {
-    "device": "arctic_global",
-    "base_codename": "arctic",
-    "market_names": [
-      "Redmi A7 Pro",
-      "POCO C81 Pro"
-    ],
-    "name": "Redmi A7 Pro",
-    "region": "Global",
-    "version": "OS3.0.11.0.WBVMIXM",
-    "filename": "arctic_global-images-OS3.0.11.0.WBVMIXM-user-20260716.0000.00-16.0-global-79893d86e9.tgz",
-    "filesize": "8.0G",
+    "version": "OS3.0.304.0.WOPMIXM",
+    "filename": "amethyst_global_images_OS3.0.304.0.WOPMIXM_20260609.0000.00_16.0_global_693431a001.tgz",
+    "filesize": "8.8G",
     "codebase": "16.0",
-    "md5": "79893d86e9748c47444f96a911534d4a",
-    "download_url": "https://bigota.d.miui.com/OS3.0.11.0.WBVMIXM/arctic_global-images-OS3.0.11.0.WBVMIXM-user-20260716.0000.00-16.0-global-79893d86e9.tgz"
+    "md5": "693431a0017f1fb2c930d72813bff765",
+    "download_url": "https://bigota.d.miui.com/OS3.0.304.0.WOPMIXM/amethyst_global_images_OS3.0.304.0.WOPMIXM_20260609.0000.00_16.0_global_693431a001.tgz"
   },
   {
-    "device": "beryllium_global",
-    "base_codename": "beryllium",
+    "device": "agate_global",
+    "base_codename": "agate",
     "market_names": [
-      "POCO F1"
+      "Xiaomi 11T"
     ],
-    "name": "POCO F1",
+    "name": "Xiaomi 11T",
     "region": "Global",
-    "version": "V12.0.3.0.QEJMIXM",
-    "filename": "beryllium_global_images_V12.0.3.0.QEJMIXM_20201227.0000.00_10.0_global_f4a9dbd1d3.tgz",
-    "filesize": "2.4G",
-    "codebase": "10.0",
-    "md5": "f4a9dbd1d3907bbd928f7a41bbf5b5d0",
-    "download_url": "https://bigota.d.miui.com/V12.0.3.0.QEJMIXM/beryllium_global_images_V12.0.3.0.QEJMIXM_20201227.0000.00_10.0_global_f4a9dbd1d3.tgz"
+    "version": "V816.0.17.0.UKWMIXM",
+    "filename": "agate_global_images_OS1.0.17.0.UKWMIXM_20250730.0000.00_14.0_global_19866f833e.tgz",
+    "filesize": "6.0G",
+    "codebase": "14.0",
+    "md5": "19866f833e440cf82c7dbc5678cf7c90",
+    "download_url": "https://bigota.d.miui.com/OS1.0.17.0.UKWMIXM/agate_global_images_OS1.0.17.0.UKWMIXM_20250730.0000.00_14.0_global_19866f833e.tgz"
   },
   {
     "device": "beryl_global",
@@ -94,21 +63,6 @@
     "download_url": "https://bigota.d.miui.com/OS3.0.301.0.WOQMIXM/beryl_global_images_OS3.0.301.0.WOQMIXM_20260521.0000.00_16.0_global_c91236826c.tgz"
   },
   {
-    "device": "angelica_global",
-    "base_codename": "angelica",
-    "market_names": [
-      "Redmi 9C"
-    ],
-    "name": "Redmi 9C",
-    "region": "Global",
-    "version": "V12.0.23.0.QCRMIXM",
-    "filename": "angelica_global_images_V12.0.23.0.QCRMIXM_20230323.0000.00_10.0_global_e388f9344e.tgz",
-    "filesize": "3.9G",
-    "codebase": "10.0",
-    "md5": "e388f9344e780a2d0e733bbee08d5129",
-    "download_url": "https://bigota.d.miui.com/V12.0.23.0.QCRMIXM/angelica_global_images_V12.0.23.0.QCRMIXM_20230323.0000.00_10.0_global_e388f9344e.tgz"
-  },
-  {
     "device": "cancro_global",
     "base_codename": "cancro",
     "market_names": [
@@ -125,129 +79,50 @@
     "download_url": "https://bigota.d.miui.com/V9.5.7.0.MXDMIFA/cancro_global_images_V9.5.7.0.MXDMIFA_20180815.0000.00_6.0_global_bbfc0f3951.tgz"
   },
   {
-    "device": "agate_global",
-    "base_codename": "agate",
+    "device": "arctic_global",
+    "base_codename": "arctic",
     "market_names": [
-      "Xiaomi 11T"
+      "Redmi A7 Pro",
+      "POCO C81 Pro"
     ],
-    "name": "Xiaomi 11T",
+    "name": "Redmi A7 Pro",
     "region": "Global",
-    "version": "V816.0.17.0.UKWMIXM",
-    "filename": "agate_global_images_OS1.0.17.0.UKWMIXM_20250730.0000.00_14.0_global_19866f833e.tgz",
-    "filesize": "6.0G",
-    "codebase": "14.0",
-    "md5": "19866f833e440cf82c7dbc5678cf7c90",
-    "download_url": "https://bigota.d.miui.com/OS1.0.17.0.UKWMIXM/agate_global_images_OS1.0.17.0.UKWMIXM_20250730.0000.00_14.0_global_19866f833e.tgz"
-  },
-  {
-    "device": "air_global",
-    "base_codename": "air",
-    "market_names": [
-      "Redmi 13R 5G",
-      "Redmi 13C 5G",
-      "POCO M6 5G"
-    ],
-    "name": "Redmi 13R 5G",
-    "region": "Global",
-    "version": "OS2.0.207.0.VGQMIXM",
-    "filename": "air_global_images_OS2.0.207.0.VGQMIXM_20260520.0000.00_15.0_global_5b3340d7d4.tgz",
-    "filesize": "7.1G",
-    "codebase": "15.0",
-    "md5": "5b3340d7d4f587afb891d29a063929b1",
-    "download_url": "https://bigota.d.miui.com/OS2.0.207.0.VGQMIXM/air_global_images_OS2.0.207.0.VGQMIXM_20260520.0000.00_15.0_global_5b3340d7d4.tgz"
-  },
-  {
-    "device": "apollo_global",
-    "base_codename": "apollo",
-    "market_names": [
-      "Mi 10T",
-      "Mi 10T Pro",
-      "Redmi K30S"
-    ],
-    "name": "Mi 10T",
-    "region": "Global",
-    "version": "V14.0.4.0.SJDMIXM",
-    "filename": "apollo_global_images_V14.0.4.0.SJDMIXM_20230705.0000.00_12.0_global_8bd90035e5.tgz",
-    "filesize": "4.6G",
-    "codebase": "12.0",
-    "md5": "8bd90035e5d27196855b7821413244d4",
-    "download_url": "https://bigota.d.miui.com/V14.0.4.0.SJDMIXM/apollo_global_images_V14.0.4.0.SJDMIXM_20230705.0000.00_12.0_global_8bd90035e5.tgz"
-  },
-  {
-    "device": "aurora_global",
-    "base_codename": "aurora",
-    "market_names": [
-      "Xiaomi 14 Ultra"
-    ],
-    "name": "Xiaomi 14 Ultra",
-    "region": "Global",
-    "version": "OS3.0.303.0.WNAMIXM",
-    "filename": "aurora_global_images_OS3.0.303.0.WNAMIXM_20260630.0000.00_16.0_global_aa900ddb0c.tgz",
-    "filesize": "8.8G",
+    "version": "OS3.0.11.0.WBVMIXM",
+    "filename": "arctic_global-images-OS3.0.11.0.WBVMIXM-user-20260716.0000.00-16.0-global-79893d86e9.tgz",
+    "filesize": "8.0G",
     "codebase": "16.0",
-    "md5": "aa900ddb0c6f383c5cecabdb2fe7b102",
-    "download_url": "https://bigota.d.miui.com/OS3.0.303.0.WNAMIXM/aurora_global_images_OS3.0.303.0.WNAMIXM_20260630.0000.00_16.0_global_aa900ddb0c.tgz"
+    "md5": "79893d86e9748c47444f96a911534d4a",
+    "download_url": "https://bigota.d.miui.com/OS3.0.11.0.WBVMIXM/arctic_global-images-OS3.0.11.0.WBVMIXM-user-20260716.0000.00-16.0-global-79893d86e9.tgz"
   },
   {
-    "device": "cactus_global",
-    "base_codename": "cactus",
+    "device": "andromeda_global",
+    "base_codename": "andromeda",
     "market_names": [
-      "Redmi 6A"
+      "Mi MIX 3 5G"
     ],
-    "name": "Redmi 6A",
+    "name": "Mi MIX 3 5G",
     "region": "Global",
-    "version": "V11.0.9.0.PCBMIXM",
-    "filename": "cactus_global_images_V11.0.9.0.PCBMIXM_20200916.0000.00_9.0_global_c0a9fb7059.tgz",
-    "filesize": "1.7G",
+    "version": "V12.0.4.0.PEMMIXM",
+    "filename": "andromeda_global_images_V12.0.4.0.PEMMIXM_20210324.0000.00_9.0_global_fef9f84dc6.tgz",
+    "filesize": "2.7G",
     "codebase": "9.0",
-    "md5": "c0a9fb70590bc0dfc6639d9301fa7047",
-    "download_url": "https://bigota.d.miui.com/V11.0.9.0.PCBMIXM/cactus_global_images_V11.0.9.0.PCBMIXM_20200916.0000.00_9.0_global_c0a9fb7059.tgz"
+    "md5": "fef9f84dc688ba08497526f5d3dd680f",
+    "download_url": "https://bigota.d.miui.com/V12.0.4.0.PEMMIXM/andromeda_global_images_V12.0.4.0.PEMMIXM_20210324.0000.00_9.0_global_fef9f84dc6.tgz"
   },
   {
-    "device": "angelican_global",
-    "base_codename": "angelican",
+    "device": "aries_global",
+    "base_codename": "aries",
     "market_names": [
-      "Redmi 9C NFC"
+      "Mi 2S"
     ],
-    "name": "Redmi 9C NFC",
+    "name": "Mi 2S",
     "region": "Global",
-    "version": "V12.0.16.0.QCSMIXM",
-    "filename": "angelican_global_images_V12.0.16.0.QCSMIXM_20221008.0000.00_10.0_global_09074d4d99.tgz",
-    "filesize": "3.7G",
-    "codebase": "10.0",
-    "md5": "09074d4d99dc365efae66fc150873030",
-    "download_url": "https://bigota.d.miui.com/V12.0.16.0.QCSMIXM/angelican_global_images_V12.0.16.0.QCSMIXM_20221008.0000.00_10.0_global_09074d4d99.tgz"
-  },
-  {
-    "device": "aristotle_global",
-    "base_codename": "aristotle",
-    "market_names": [
-      "Xiaomi 13T"
-    ],
-    "name": "Xiaomi 13T",
-    "region": "Global",
-    "version": "OS2.0.214.0.VMFMIXM",
-    "filename": "aristotle_global_images_OS2.0.214.0.VMFMIXM_20260202.0000.00_15.0_global_c5b5fe03af.tgz",
-    "filesize": "7.3G",
-    "codebase": "15.0",
-    "md5": "c5b5fe03af5f93b51b7142a42fa7ce4b",
-    "download_url": "https://bigota.d.miui.com/OS2.0.214.0.VMFMIXM/aristotle_global_images_OS2.0.214.0.VMFMIXM_20260202.0000.00_15.0_global_c5b5fe03af.tgz"
-  },
-  {
-    "device": "annibale_global",
-    "base_codename": "annibale",
-    "market_names": [
-      "Redmi K90",
-      "POCO F8 Pro"
-    ],
-    "name": "Redmi K90",
-    "region": "Global",
-    "version": "OS3.0.301.0.WPKMIXM",
-    "filename": "annibale_global_images_OS3.0.301.0.WPKMIXM_20260720.0000.00_16.0_global_b74f6578ba.tgz",
-    "filesize": "11G",
-    "codebase": "16.0",
-    "md5": "b74f6578bad962bae0f50adb47516348",
-    "download_url": "https://bigota.d.miui.com/OS3.0.301.0.WPKMIXM/annibale_global_images_OS3.0.301.0.WPKMIXM_20260720.0000.00_16.0_global_b74f6578ba.tgz"
+    "version": "V9.2.2.0.LXAMIEK",
+    "filename": "aries_global_images_V9.2.2.0.LXAMIEK_20180117.0000.00_5.0_global_2b5d73471b.tgz",
+    "filesize": "829M",
+    "codebase": "5.0",
+    "md5": "2b5d73471b2fc572b9d4e7a3d2ba5d53",
+    "download_url": "https://bigota.d.miui.com/V9.2.2.0.LXAMIEK/aries_global_images_V9.2.2.0.LXAMIEK_20180117.0000.00_5.0_global_2b5d73471b.tgz"
   },
   {
     "device": "camellian_global",
@@ -267,19 +142,35 @@
     "download_url": "https://bigota.d.miui.com/V14.0.6.0.TKSMIXM/camellian_global_images_V14.0.6.0.TKSMIXM_20230919.0000.00_13.0_global_f43e2310b3.tgz"
   },
   {
-    "device": "aries_global",
-    "base_codename": "aries",
+    "device": "begonia_global",
+    "base_codename": "begonia",
     "market_names": [
-      "Mi 2S"
+      "Redmi Note 8 Pro"
     ],
-    "name": "Mi 2S",
+    "name": "Redmi Note 8 Pro",
     "region": "Global",
-    "version": "V9.2.2.0.LXAMIEK",
-    "filename": "aries_global_images_V9.2.2.0.LXAMIEK_20180117.0000.00_5.0_global_2b5d73471b.tgz",
-    "filesize": "829M",
-    "codebase": "5.0",
-    "md5": "2b5d73471b2fc572b9d4e7a3d2ba5d53",
-    "download_url": "https://bigota.d.miui.com/V9.2.2.0.LXAMIEK/aries_global_images_V9.2.2.0.LXAMIEK_20180117.0000.00_5.0_global_2b5d73471b.tgz"
+    "version": "V12.5.1.0.RGGMIXM",
+    "filename": "begonia_global_images_V12.5.1.0.RGGMIXM_20210629.0000.00_11.0_global_73e7592b66.tgz",
+    "filesize": "4.1G",
+    "codebase": "11.0",
+    "md5": "73e7592b66b42f743e6cf9513c5b8d8b",
+    "download_url": "https://bigota.d.miui.com/V12.5.1.0.RGGMIXM/begonia_global_images_V12.5.1.0.RGGMIXM_20210629.0000.00_11.0_global_73e7592b66.tgz"
+  },
+  {
+    "device": "annibale_global",
+    "base_codename": "annibale",
+    "market_names": [
+      "Redmi K90",
+      "POCO F8 Pro"
+    ],
+    "name": "Redmi K90",
+    "region": "Global",
+    "version": "OS3.0.301.0.WPKMIXM",
+    "filename": "annibale_global_images_OS3.0.301.0.WPKMIXM_20260720.0000.00_16.0_global_b74f6578ba.tgz",
+    "filesize": "11G",
+    "codebase": "16.0",
+    "md5": "b74f6578bad962bae0f50adb47516348",
+    "download_url": "https://bigota.d.miui.com/OS3.0.301.0.WPKMIXM/annibale_global_images_OS3.0.301.0.WPKMIXM_20260720.0000.00_16.0_global_b74f6578ba.tgz"
   },
   {
     "device": "armani_global",
@@ -297,34 +188,173 @@
     "download_url": "https://bigota.d.miui.com/V9.2.3.0.KHCMIEK/armani_global_images_V9.2.3.0.KHCMIEK_20180406.0000.00_4.4_global_1757bfb6f6.tgz"
   },
   {
-    "device": "amethyst_global",
-    "base_codename": "amethyst",
+    "device": "aristotle_global",
+    "base_codename": "aristotle",
     "market_names": [
-      "Redmi Note 14 Pro+ 5G"
+      "Xiaomi 13T"
     ],
-    "name": "Redmi Note 14 Pro+ 5G",
+    "name": "Xiaomi 13T",
     "region": "Global",
-    "version": "OS3.0.304.0.WOPMIXM",
-    "filename": "amethyst_global_images_OS3.0.304.0.WOPMIXM_20260609.0000.00_16.0_global_693431a001.tgz",
-    "filesize": "8.8G",
-    "codebase": "16.0",
-    "md5": "693431a0017f1fb2c930d72813bff765",
-    "download_url": "https://bigota.d.miui.com/OS3.0.304.0.WOPMIXM/amethyst_global_images_OS3.0.304.0.WOPMIXM_20260609.0000.00_16.0_global_693431a001.tgz"
+    "version": "OS2.0.214.0.VMFMIXM",
+    "filename": "aristotle_global_images_OS2.0.214.0.VMFMIXM_20260202.0000.00_15.0_global_c5b5fe03af.tgz",
+    "filesize": "7.3G",
+    "codebase": "15.0",
+    "md5": "c5b5fe03af5f93b51b7142a42fa7ce4b",
+    "download_url": "https://bigota.d.miui.com/OS2.0.214.0.VMFMIXM/aristotle_global_images_OS2.0.214.0.VMFMIXM_20260202.0000.00_15.0_global_c5b5fe03af.tgz"
   },
   {
-    "device": "andromeda_global",
-    "base_codename": "andromeda",
+    "device": "biloba_global",
+    "base_codename": "biloba",
     "market_names": [
-      "Mi MIX 3 5G"
+      "Redmi Note 8 (2021)"
     ],
-    "name": "Mi MIX 3 5G",
+    "name": "Redmi Note 8 (2021)",
     "region": "Global",
-    "version": "V12.0.4.0.PEMMIXM",
-    "filename": "andromeda_global_images_V12.0.4.0.PEMMIXM_20210324.0000.00_9.0_global_fef9f84dc6.tgz",
-    "filesize": "2.7G",
+    "version": "V14.0.6.0.TCUMIXM",
+    "filename": "biloba_global_images_V14.0.6.0.TCUMIXM_20230918.0000.00_13.0_global_7a1a32c8fa.tgz",
+    "filesize": "5.0G",
+    "codebase": "13.0",
+    "md5": "7a1a32c8fa28cfc95eb8405496948a19",
+    "download_url": "https://bigota.d.miui.com/V14.0.6.0.TCUMIXM/biloba_global_images_V14.0.6.0.TCUMIXM_20230918.0000.00_13.0_global_7a1a32c8fa.tgz"
+  },
+  {
+    "device": "alioth_global",
+    "base_codename": "alioth",
+    "market_names": [
+      "Redmi K40",
+      "POCO F3",
+      "Mi 11X"
+    ],
+    "name": "Redmi K40",
+    "region": "Global",
+    "version": "V816.0.5.0.TKHMIXM",
+    "filename": "alioth_global_images_OS1.0.5.0.TKHMIXM_20260112.0000.00_13.0_global_476e4b975e.tgz",
+    "filesize": "5.1G",
+    "codebase": "13.0",
+    "md5": "476e4b975ebcaba6c62a5bf8b5cd7265",
+    "download_url": "https://bigota.d.miui.com/OS1.0.5.0.TKHMIXM/alioth_global_images_OS1.0.5.0.TKHMIXM_20260112.0000.00_13.0_global_476e4b975e.tgz"
+  },
+  {
+    "device": "angelican_global",
+    "base_codename": "angelican",
+    "market_names": [
+      "Redmi 9C NFC"
+    ],
+    "name": "Redmi 9C NFC",
+    "region": "Global",
+    "version": "V12.0.16.0.QCSMIXM",
+    "filename": "angelican_global_images_V12.0.16.0.QCSMIXM_20221008.0000.00_10.0_global_09074d4d99.tgz",
+    "filesize": "3.7G",
+    "codebase": "10.0",
+    "md5": "09074d4d99dc365efae66fc150873030",
+    "download_url": "https://bigota.d.miui.com/V12.0.16.0.QCSMIXM/angelican_global_images_V12.0.16.0.QCSMIXM_20221008.0000.00_10.0_global_09074d4d99.tgz"
+  },
+  {
+    "device": "air_global",
+    "base_codename": "air",
+    "market_names": [
+      "Redmi 13R 5G",
+      "Redmi 13C 5G",
+      "POCO M6 5G"
+    ],
+    "name": "Redmi 13R 5G",
+    "region": "Global",
+    "version": "OS2.0.207.0.VGQMIXM",
+    "filename": "air_global_images_OS2.0.207.0.VGQMIXM_20260520.0000.00_15.0_global_5b3340d7d4.tgz",
+    "filesize": "7.1G",
+    "codebase": "15.0",
+    "md5": "5b3340d7d4f587afb891d29a063929b1",
+    "download_url": "https://bigota.d.miui.com/OS2.0.207.0.VGQMIXM/air_global_images_OS2.0.207.0.VGQMIXM_20260520.0000.00_15.0_global_5b3340d7d4.tgz"
+  },
+  {
+    "device": "aurora_global",
+    "base_codename": "aurora",
+    "market_names": [
+      "Xiaomi 14 Ultra"
+    ],
+    "name": "Xiaomi 14 Ultra",
+    "region": "Global",
+    "version": "OS3.0.303.0.WNAMIXM",
+    "filename": "aurora_global_images_OS3.0.303.0.WNAMIXM_20260630.0000.00_16.0_global_aa900ddb0c.tgz",
+    "filesize": "8.8G",
+    "codebase": "16.0",
+    "md5": "aa900ddb0c6f383c5cecabdb2fe7b102",
+    "download_url": "https://bigota.d.miui.com/OS3.0.303.0.WNAMIXM/aurora_global_images_OS3.0.303.0.WNAMIXM_20260630.0000.00_16.0_global_aa900ddb0c.tgz"
+  },
+  {
+    "device": "beryllium_global",
+    "base_codename": "beryllium",
+    "market_names": [
+      "POCO F1"
+    ],
+    "name": "POCO F1",
+    "region": "Global",
+    "version": "V12.0.3.0.QEJMIXM",
+    "filename": "beryllium_global_images_V12.0.3.0.QEJMIXM_20201227.0000.00_10.0_global_f4a9dbd1d3.tgz",
+    "filesize": "2.4G",
+    "codebase": "10.0",
+    "md5": "f4a9dbd1d3907bbd928f7a41bbf5b5d0",
+    "download_url": "https://bigota.d.miui.com/V12.0.3.0.QEJMIXM/beryllium_global_images_V12.0.3.0.QEJMIXM_20201227.0000.00_10.0_global_f4a9dbd1d3.tgz"
+  },
+  {
+    "device": "angelica_global",
+    "base_codename": "angelica",
+    "market_names": [
+      "Redmi 9C"
+    ],
+    "name": "Redmi 9C",
+    "region": "Global",
+    "version": "V12.0.23.0.QCRMIXM",
+    "filename": "angelica_global_images_V12.0.23.0.QCRMIXM_20230323.0000.00_10.0_global_e388f9344e.tgz",
+    "filesize": "3.9G",
+    "codebase": "10.0",
+    "md5": "e388f9344e780a2d0e733bbee08d5129",
+    "download_url": "https://bigota.d.miui.com/V12.0.23.0.QCRMIXM/angelica_global_images_V12.0.23.0.QCRMIXM_20230323.0000.00_10.0_global_e388f9344e.tgz"
+  },
+  {
+    "device": "cactus_global",
+    "base_codename": "cactus",
+    "market_names": [
+      "Redmi 6A"
+    ],
+    "name": "Redmi 6A",
+    "region": "Global",
+    "version": "V11.0.9.0.PCBMIXM",
+    "filename": "cactus_global_images_V11.0.9.0.PCBMIXM_20200916.0000.00_9.0_global_c0a9fb7059.tgz",
+    "filesize": "1.7G",
     "codebase": "9.0",
-    "md5": "fef9f84dc688ba08497526f5d3dd680f",
-    "download_url": "https://bigota.d.miui.com/V12.0.4.0.PEMMIXM/andromeda_global_images_V12.0.4.0.PEMMIXM_20210324.0000.00_9.0_global_fef9f84dc6.tgz"
+    "md5": "c0a9fb70590bc0dfc6639d9301fa7047",
+    "download_url": "https://bigota.d.miui.com/V11.0.9.0.PCBMIXM/cactus_global_images_V11.0.9.0.PCBMIXM_20200916.0000.00_9.0_global_c0a9fb7059.tgz"
+  },
+  {
+    "device": "cereus_global",
+    "base_codename": "cereus",
+    "market_names": [
+      "Redmi 6"
+    ],
+    "name": "Redmi 6",
+    "region": "Global",
+    "version": "V11.0.5.0.PCGMIXM",
+    "filename": "cereus_global_images_V11.0.5.0.PCGMIXM_20200916.0000.00_9.0_global_41e1db1e83.tgz",
+    "filesize": "1.7G",
+    "codebase": "9.0",
+    "md5": "41e1db1e83259c1994a0e51e1e29374d",
+    "download_url": "https://bigota.d.miui.com/V11.0.5.0.PCGMIXM/cereus_global_images_V11.0.5.0.PCGMIXM_20200916.0000.00_9.0_global_41e1db1e83.tgz"
+  },
+  {
+    "device": "capricorn_global",
+    "base_codename": "capricorn",
+    "market_names": [
+      "Mi 5s"
+    ],
+    "name": "Mi 5s",
+    "region": "Global",
+    "version": "V10.2.3.0.OAGMIXM",
+    "filename": "capricorn_global_images_V10.2.3.0.OAGMIXM_20190426.0000.00_8.0_global_1d88b180f1.tgz",
+    "filesize": "1.6G",
+    "codebase": "8.0",
+    "md5": "1d88b180f12259c5d14cfdedfb127650",
+    "download_url": "https://bigota.d.miui.com/V10.2.3.0.OAGMIXM/capricorn_global_images_V10.2.3.0.OAGMIXM_20190426.0000.00_8.0_global_1d88b180f1.tgz"
   },
   {
     "device": "charoite_global",
@@ -358,20 +388,34 @@
     "download_url": "https://bigota.d.miui.com/OS3.0.3.0.WMLMIXM/corot_global_images_OS3.0.3.0.WMLMIXM_20260604.0000.00_16.0_global_b5df884821.tgz"
   },
   {
-    "device": "creek_global",
-    "base_codename": "creek",
+    "device": "cannong_global",
+    "base_codename": "cannong",
     "market_names": [
-      "Redmi 15",
-      "POCO M7"
+      "Redmi Note 9T 5G"
     ],
-    "name": "Redmi 15",
+    "name": "Redmi Note 9T 5G",
     "region": "Global",
-    "version": "OS3.0.304.0.WBOMIXM",
-    "filename": "creek_global_images_OS3.0.304.0.WBOMIXM_20260707.0000.00_16.0_global_f9686eb596.tgz",
-    "filesize": "8.1G",
-    "codebase": "16.0",
-    "md5": "f9686eb596e024642ab4d6ee1c07aea2",
-    "download_url": "https://bigota.d.miui.com/OS3.0.304.0.WBOMIXM/creek_global_images_OS3.0.304.0.WBOMIXM_20260707.0000.00_16.0_global_f9686eb596.tgz"
+    "version": "V14.0.4.0.SJEMIXM",
+    "filename": "cannong_global_images_V14.0.4.0.SJEMIXM_20231020.0000.00_12.0_global_63651f0021.tgz",
+    "filesize": "4.7G",
+    "codebase": "12.0",
+    "md5": "63651f002115d156a28349eacf78eec2",
+    "download_url": "https://bigota.d.miui.com/V14.0.4.0.SJEMIXM/cannong_global_images_V14.0.4.0.SJEMIXM_20231020.0000.00_12.0_global_63651f0021.tgz"
+  },
+  {
+    "device": "chiron_global",
+    "base_codename": "chiron",
+    "market_names": [
+      "Mi MIX 2"
+    ],
+    "name": "Mi MIX 2",
+    "region": "Global",
+    "version": "V12.0.1.0.PDEMIXM",
+    "filename": "chiron_global_images_V12.0.1.0.PDEMIXM_20200925.0000.00_9.0_global_7108ed52f4.tgz",
+    "filesize": "2.3G",
+    "codebase": "9.0",
+    "md5": "7108ed52f44c21a53ee60f77059c4b34",
+    "download_url": "https://bigota.d.miui.com/V12.0.1.0.PDEMIXM/chiron_global_images_V12.0.1.0.PDEMIXM_20200925.0000.00_9.0_global_7108ed52f4.tgz"
   },
   {
     "device": "cepheus_global",
@@ -387,21 +431,6 @@
     "codebase": "11.0",
     "md5": "13a7fa1fb477f37ef41d0435292c442d",
     "download_url": "https://bigota.d.miui.com/V12.5.1.0.RFAMIXM/cepheus_global_images_V12.5.1.0.RFAMIXM_20210611.0000.00_11.0_global_13a7fa1fb4.tgz"
-  },
-  {
-    "device": "cannong_global",
-    "base_codename": "cannong",
-    "market_names": [
-      "Redmi Note 9T 5G"
-    ],
-    "name": "Redmi Note 9T 5G",
-    "region": "Global",
-    "version": "V14.0.4.0.SJEMIXM",
-    "filename": "cannong_global_images_V14.0.4.0.SJEMIXM_20231020.0000.00_12.0_global_63651f0021.tgz",
-    "filesize": "4.7G",
-    "codebase": "12.0",
-    "md5": "63651f002115d156a28349eacf78eec2",
-    "download_url": "https://bigota.d.miui.com/V14.0.4.0.SJEMIXM/cannong_global_images_V14.0.4.0.SJEMIXM_20231020.0000.00_12.0_global_63651f0021.tgz"
   },
   {
     "device": "chopin_global",
@@ -435,49 +464,65 @@
     "download_url": "https://bigota.d.miui.com/OS1.0.3.0.TJAMIXM/cmi_global_images_OS1.0.3.0.TJAMIXM_20251217.0000.00_13.0_global_9cc791c3ad.tgz"
   },
   {
-    "device": "chiron_global",
-    "base_codename": "chiron",
+    "device": "creek_global",
+    "base_codename": "creek",
     "market_names": [
-      "Mi MIX 2"
+      "Redmi 15",
+      "POCO M7"
     ],
-    "name": "Mi MIX 2",
+    "name": "Redmi 15",
     "region": "Global",
-    "version": "V12.0.1.0.PDEMIXM",
-    "filename": "chiron_global_images_V12.0.1.0.PDEMIXM_20200925.0000.00_9.0_global_7108ed52f4.tgz",
-    "filesize": "2.3G",
-    "codebase": "9.0",
-    "md5": "7108ed52f44c21a53ee60f77059c4b34",
-    "download_url": "https://bigota.d.miui.com/V12.0.1.0.PDEMIXM/chiron_global_images_V12.0.1.0.PDEMIXM_20200925.0000.00_9.0_global_7108ed52f4.tgz"
-  },
-  {
-    "device": "cupid_global",
-    "base_codename": "cupid",
-    "market_names": [
-      "Xiaomi 12"
-    ],
-    "name": "Xiaomi 12",
-    "region": "Global",
-    "version": "OS3.0.4.0.VLCMIXM",
-    "filename": "cupid_global_images_OS3.0.4.0.VLCMIXM_20260506.0000.00_15.0_global_d56d6da8ee.tgz",
-    "filesize": "6.4G",
-    "codebase": "15.0",
-    "md5": "d56d6da8ee2969b6a24827d0c2a37f79",
-    "download_url": "https://bigota.d.miui.com/OS3.0.4.0.VLCMIXM/cupid_global_images_OS3.0.4.0.VLCMIXM_20260506.0000.00_15.0_global_d56d6da8ee.tgz"
-  },
-  {
-    "device": "dada_global",
-    "base_codename": "dada",
-    "market_names": [
-      "Xiaomi 15"
-    ],
-    "name": "Xiaomi 15",
-    "region": "Global",
-    "version": "OS3.0.302.0.WOCMIXM",
-    "filename": "dada_global_images_OS3.0.302.0.WOCMIXM_20260615.0000.00_16.0_global_076d3ce703.tgz",
-    "filesize": "10G",
+    "version": "OS3.0.304.0.WBOMIXM",
+    "filename": "creek_global_images_OS3.0.304.0.WBOMIXM_20260707.0000.00_16.0_global_f9686eb596.tgz",
+    "filesize": "8.1G",
     "codebase": "16.0",
-    "md5": "076d3ce70351719ce2d2960bcdec692b",
-    "download_url": "https://bigota.d.miui.com/OS3.0.302.0.WOCMIXM/dada_global_images_OS3.0.302.0.WOCMIXM_20260615.0000.00_16.0_global_076d3ce703.tgz"
+    "md5": "f9686eb596e024642ab4d6ee1c07aea2",
+    "download_url": "https://bigota.d.miui.com/OS3.0.304.0.WBOMIXM/creek_global_images_OS3.0.304.0.WBOMIXM_20260707.0000.00_16.0_global_f9686eb596.tgz"
+  },
+  {
+    "device": "citrus_global",
+    "base_codename": "citrus",
+    "market_names": [
+      "POCO M3"
+    ],
+    "name": "POCO M3",
+    "region": "Global",
+    "version": "V14.0.2.0.SJFMIXM",
+    "filename": "citrus_global_images_V14.0.2.0.SJFMIXM_20230330.0000.00_12.0_global_f12c1c51fe.tgz",
+    "filesize": "4.8G",
+    "codebase": "12.0",
+    "md5": "f12c1c51fe6d01f86518229f9556fab0",
+    "download_url": "https://bigota.d.miui.com/V14.0.2.0.SJFMIXM/citrus_global_images_V14.0.2.0.SJFMIXM_20230330.0000.00_12.0_global_f12c1c51fe.tgz"
+  },
+  {
+    "device": "chagall_global",
+    "base_codename": "chagall",
+    "market_names": [
+      "Xiaomi 17T EEA"
+    ],
+    "name": "Xiaomi 17T EEA",
+    "region": "Global",
+    "version": "OS3.0.306.0.WPTMIXM",
+    "filename": "chagall_global_images_OS3.0.306.0.WPTMIXM_20260703.0000.00_16.0_global_d60a55717a.tgz",
+    "filesize": "9.5G",
+    "codebase": "16.0",
+    "md5": "d60a55717a2091017f831d5e728a4d57",
+    "download_url": "https://bigota.d.miui.com/OS3.0.306.0.WPTMIXM/chagall_global_images_OS3.0.306.0.WPTMIXM_20260703.0000.00_16.0_global_d60a55717a.tgz"
+  },
+  {
+    "device": "courbet_global",
+    "base_codename": "courbet",
+    "market_names": [
+      "Mi 11 Lite"
+    ],
+    "name": "Mi 11 Lite",
+    "region": "Global",
+    "version": "V14.0.4.0.TKQMIXM",
+    "filename": "courbet_global_images_V14.0.4.0.TKQMIXM_20231016.0000.00_13.0_global_f2bf2136b3.tgz",
+    "filesize": "5.1G",
+    "codebase": "13.0",
+    "md5": "f2bf2136b3975f2e15a83d835ea881ea",
+    "download_url": "https://bigota.d.miui.com/V14.0.4.0.TKQMIXM/courbet_global_images_V14.0.4.0.TKQMIXM_20231016.0000.00_13.0_global_f2bf2136b3.tgz"
   },
   {
     "device": "dandelion_global",
@@ -499,100 +544,19 @@
     "download_url": "https://bigota.d.miui.com/V12.0.22.0.QCDMIXM/dandelion_global_images_V12.0.22.0.QCDMIXM_20230315.0000.00_10.0_global_4f38e7c555.tgz"
   },
   {
-    "device": "courbet_global",
-    "base_codename": "courbet",
+    "device": "cupid_global",
+    "base_codename": "cupid",
     "market_names": [
-      "Mi 11 Lite"
+      "Xiaomi 12"
     ],
-    "name": "Mi 11 Lite",
+    "name": "Xiaomi 12",
     "region": "Global",
-    "version": "V14.0.4.0.TKQMIXM",
-    "filename": "courbet_global_images_V14.0.4.0.TKQMIXM_20231016.0000.00_13.0_global_f2bf2136b3.tgz",
-    "filesize": "5.1G",
-    "codebase": "13.0",
-    "md5": "f2bf2136b3975f2e15a83d835ea881ea",
-    "download_url": "https://bigota.d.miui.com/V14.0.4.0.TKQMIXM/courbet_global_images_V14.0.4.0.TKQMIXM_20231016.0000.00_13.0_global_f2bf2136b3.tgz"
-  },
-  {
-    "device": "ares_in_global",
-    "base_codename": "ares",
-    "market_names": [
-      "Redmi K40 Gaming Edition",
-      "POCO F3 GT"
-    ],
-    "name": "Redmi K40 Gaming Edition",
-    "region": "India",
-    "version": "V816.0.2.0.TKJINXM",
-    "filename": "ares_in_global_images_OS1.0.2.0.TKJINXM_20240325.0000.00_13.0_in_a4206a31eb.tgz",
-    "filesize": "4.8G",
-    "codebase": "13.0",
-    "md5": "a4206a31eb7fa9312c32011b1627f211",
-    "download_url": "https://bigota.d.miui.com/OS1.0.2.0.TKJINXM/ares_in_global_images_OS1.0.2.0.TKJINXM_20240325.0000.00_13.0_in_a4206a31eb.tgz"
-  },
-  {
-    "device": "dandelion_c3l2_global",
-    "base_codename": "dandelion_c3l2",
-    "market_names": [
-      "Redmi 10A"
-    ],
-    "name": "Redmi 10A",
-    "region": "Global",
-    "version": "V12.5.16.0.RCZMIXM",
-    "filename": "dandelion_c3l2_global_images_V12.5.16.0.RCZMIXM_20240307.0000.00_11.0_global_f90c3c88a3.tgz",
-    "filesize": "4.3G",
-    "codebase": "11.0",
-    "md5": "f90c3c88a383789e18087d76c082ce52",
-    "download_url": "https://bigota.d.miui.com/V12.5.16.0.RCZMIXM/dandelion_c3l2_global_images_V12.5.16.0.RCZMIXM_20240307.0000.00_11.0_global_f90c3c88a3.tgz"
-  },
-  {
-    "device": "angelicain_in_global",
-    "base_codename": "angelicain",
-    "market_names": [
-      "POCO C3",
-      "POCO C31"
-    ],
-    "name": "POCO C3",
-    "region": "India",
-    "version": "V12.0.19.0.QCRINXM",
-    "filename": "angelicain_in_global_images_V12.0.19.0.QCRINXM_20220826.0000.00_10.0_in_9b2476337d.tgz",
-    "filesize": "2.3G",
-    "codebase": "10.0",
-    "md5": "9b2476337d2ae413875346e27d0a4679",
-    "download_url": "https://bigota.d.miui.com/V12.0.19.0.QCRINXM/angelicain_in_global_images_V12.0.19.0.QCRINXM_20220826.0000.00_10.0_in_9b2476337d.tgz"
-  },
-  {
-    "device": "breeze_in_global",
-    "base_codename": "breeze",
-    "market_names": [
-      "Redmi Note 13R",
-      "Redmi 13 5G",
-      "POCO M6 Plus 5G"
-    ],
-    "name": "Redmi Note 13R",
-    "region": "India",
-    "version": "OS3.0.302.0.WNUINXM",
-    "filename": "breeze_in_global_images_OS3.0.302.0.WNUINXM_20260625.0000.00_16.0_in_85a2ef7d87.tgz",
-    "filesize": "7.0G",
-    "codebase": "16.0",
-    "md5": "85a2ef7d87be8ac2c56c79131f5c81d9",
-    "download_url": "https://bigota.d.miui.com/OS3.0.302.0.WNUINXM/breeze_in_global_images_OS3.0.302.0.WNUINXM_20260625.0000.00_16.0_in_85a2ef7d87.tgz"
-  },
-  {
-    "device": "camellia_in_global",
-    "base_codename": "camellia",
-    "market_names": [
-      "Redmi Note 10 5G (China)",
-      "Redmi Note 10T 5G (India)",
-      "Redmi Note 11SE"
-    ],
-    "name": "Redmi Note 10 5G (China)",
-    "region": "India",
-    "version": "V14.0.6.0.TKSINXM",
-    "filename": "camellia_in_global_images_V14.0.6.0.TKSINXM_20230922.0000.00_13.0_in_940393ef3c.tgz",
-    "filesize": "4.5G",
-    "codebase": "13.0",
-    "md5": "940393ef3cb6e722b8953ad14247dc16",
-    "download_url": "https://bigota.d.miui.com/V14.0.6.0.TKSINXM/camellia_in_global_images_V14.0.6.0.TKSINXM_20230922.0000.00_13.0_in_940393ef3c.tgz"
+    "version": "OS3.0.4.0.VLCMIXM",
+    "filename": "cupid_global_images_OS3.0.4.0.VLCMIXM_20260506.0000.00_15.0_global_d56d6da8ee.tgz",
+    "filesize": "6.4G",
+    "codebase": "15.0",
+    "md5": "d56d6da8ee2969b6a24827d0c2a37f79",
+    "download_url": "https://bigota.d.miui.com/OS3.0.4.0.VLCMIXM/cupid_global_images_OS3.0.4.0.VLCMIXM_20260506.0000.00_15.0_global_d56d6da8ee.tgz"
   },
   {
     "device": "dash_global",
@@ -611,6 +575,21 @@
     "download_url": "https://bigota.d.miui.com/OS3.0.302.0.WPLMIXM/dash_global_images_OS3.0.302.0.WPLMIXM_20260610.0000.00_16.0_global_6a7fe2295f.tgz"
   },
   {
+    "device": "dandelion_c3l2_global",
+    "base_codename": "dandelion_c3l2",
+    "market_names": [
+      "Redmi 10A"
+    ],
+    "name": "Redmi 10A",
+    "region": "Global",
+    "version": "V12.5.16.0.RCZMIXM",
+    "filename": "dandelion_c3l2_global_images_V12.5.16.0.RCZMIXM_20240307.0000.00_11.0_global_f90c3c88a3.tgz",
+    "filesize": "4.3G",
+    "codebase": "11.0",
+    "md5": "f90c3c88a383789e18087d76c082ce52",
+    "download_url": "https://bigota.d.miui.com/V12.5.16.0.RCZMIXM/dandelion_c3l2_global_images_V12.5.16.0.RCZMIXM_20240307.0000.00_11.0_global_f90c3c88a3.tgz"
+  },
+  {
     "device": "davinci_global",
     "base_codename": "davinci",
     "market_names": [
@@ -627,19 +606,19 @@
     "download_url": "https://bigota.d.miui.com/V12.1.4.0.RFJMIXM/davinci_global_images_V12.1.4.0.RFJMIXM_20210727.0000.00_11.0_global_9ce20c36aa.tgz"
   },
   {
-    "device": "capricorn_global",
-    "base_codename": "capricorn",
+    "device": "dada_global",
+    "base_codename": "dada",
     "market_names": [
-      "Mi 5s"
+      "Xiaomi 15"
     ],
-    "name": "Mi 5s",
+    "name": "Xiaomi 15",
     "region": "Global",
-    "version": "V10.2.3.0.OAGMIXM",
-    "filename": "capricorn_global_images_V10.2.3.0.OAGMIXM_20190426.0000.00_8.0_global_1d88b180f1.tgz",
-    "filesize": "1.6G",
-    "codebase": "8.0",
-    "md5": "1d88b180f12259c5d14cfdedfb127650",
-    "download_url": "https://bigota.d.miui.com/V10.2.3.0.OAGMIXM/capricorn_global_images_V10.2.3.0.OAGMIXM_20190426.0000.00_8.0_global_1d88b180f1.tgz"
+    "version": "OS3.0.302.0.WOCMIXM",
+    "filename": "dada_global_images_OS3.0.302.0.WOCMIXM_20260615.0000.00_16.0_global_076d3ce703.tgz",
+    "filesize": "10G",
+    "codebase": "16.0",
+    "md5": "076d3ce70351719ce2d2960bcdec692b",
+    "download_url": "https://bigota.d.miui.com/OS3.0.302.0.WOCMIXM/dada_global_images_OS3.0.302.0.WOCMIXM_20260615.0000.00_16.0_global_076d3ce703.tgz"
   },
   {
     "device": "curtana_global",
@@ -659,37 +638,6 @@
     "download_url": "https://bigota.d.miui.com/V14.0.4.0.SJWMIXM/curtana_global_images_V14.0.4.0.SJWMIXM_20230516.0000.00_12.0_global_72c4e6fac8.tgz"
   },
   {
-    "device": "chagall_global",
-    "base_codename": "chagall",
-    "market_names": [
-      "Xiaomi 17T EEA"
-    ],
-    "name": "Xiaomi 17T EEA",
-    "region": "Global",
-    "version": "OS3.0.306.0.WPTMIXM",
-    "filename": "chagall_global_images_OS3.0.306.0.WPTMIXM_20260703.0000.00_16.0_global_d60a55717a.tgz",
-    "filesize": "9.5G",
-    "codebase": "16.0",
-    "md5": "d60a55717a2091017f831d5e728a4d57",
-    "download_url": "https://bigota.d.miui.com/OS3.0.306.0.WPTMIXM/chagall_global_images_OS3.0.306.0.WPTMIXM_20260703.0000.00_16.0_global_d60a55717a.tgz"
-  },
-  {
-    "device": "diting_global",
-    "base_codename": "diting",
-    "market_names": [
-      "Redmi K50 Ultra",
-      "Xiaomi 12T Pro"
-    ],
-    "name": "Redmi K50 Ultra",
-    "region": "Global",
-    "version": "OS3.0.5.0.VLFMIXM",
-    "filename": "diting_global_images_OS3.0.5.0.VLFMIXM_20260716.0000.00_15.0_global_8d83a37e1a.tgz",
-    "filesize": "6.5G",
-    "codebase": "15.0",
-    "md5": "8d83a37e1a89e7adf963841a2297c69a",
-    "download_url": "https://bigota.d.miui.com/OS3.0.5.0.VLFMIXM/diting_global_images_OS3.0.5.0.VLFMIXM_20260716.0000.00_15.0_global_8d83a37e1a.tgz"
-  },
-  {
     "device": "degas_global",
     "base_codename": "degas",
     "market_names": [
@@ -705,51 +653,36 @@
     "download_url": "https://bigota.d.miui.com/OS3.0.302.0.WNEMIXM/degas_global_images_OS3.0.302.0.WNEMIXM_20260608.0000.00_16.0_global_2c86759df3.tgz"
   },
   {
-    "device": "dipper_global",
-    "base_codename": "dipper",
+    "device": "dew_global",
+    "base_codename": "dew",
     "market_names": [
-      "Mi 8"
+      "Redmi 15C 4G",
+      "POCO C85 4G"
     ],
-    "name": "Mi 8",
+    "name": "Redmi 15C 4G",
     "region": "Global",
-    "version": "V12.0.3.0.QEAMIXM",
-    "filename": "dipper_global_images_V12.0.3.0.QEAMIXM_20211213.0000.00_10.0_global_911d49e79e.tgz",
-    "filesize": "2.4G",
-    "codebase": "10.0",
-    "md5": "911d49e79e38ddf9073eec7381c6b714",
-    "download_url": "https://bigota.d.miui.com/V12.0.3.0.QEAMIXM/dipper_global_images_V12.0.3.0.QEAMIXM_20211213.0000.00_10.0_global_911d49e79e.tgz"
-  },
-  {
-    "device": "chenfeng_in_global",
-    "base_codename": "chenfeng",
-    "market_names": [
-      "Xiaomi Civi 4",
-      "Xiaomi Civi 4 Pro"
-    ],
-    "name": "Xiaomi Civi 4",
-    "region": "India",
-    "version": "OS3.0.302.0.WNJINXM",
-    "filename": "chenfeng_in_global_images_OS3.0.302.0.WNJINXM_20260707.0000.00_16.0_in_2e917c0c4a.tgz",
-    "filesize": "6.8G",
+    "version": "OS3.0.302.0.WBNMIXM",
+    "filename": "dew_global_images_OS3.0.302.0.WBNMIXM_20260518.0000.00_16.0_global_bd3dbbb09e.tgz",
+    "filesize": "7.5G",
     "codebase": "16.0",
-    "md5": "2e917c0c4af11ade445dcfc9c74f98f3",
-    "download_url": "https://bigota.d.miui.com/OS3.0.302.0.WNJINXM/chenfeng_in_global_images_OS3.0.302.0.WNJINXM_20260707.0000.00_16.0_in_2e917c0c4a.tgz"
+    "md5": "bd3dbbb09e37723b36e7ace5b04974eb",
+    "download_url": "https://bigota.d.miui.com/OS3.0.302.0.WBNMIXM/dew_global_images_OS3.0.302.0.WBNMIXM_20260518.0000.00_16.0_global_bd3dbbb09e.tgz"
   },
   {
-    "device": "cattail_in_global",
-    "base_codename": "cattail",
+    "device": "angelicain_in_global",
+    "base_codename": "angelicain",
     "market_names": [
-      "Redmi 9 (India)",
-      "Redmi 9 Activ"
+      "POCO C3",
+      "POCO C31"
     ],
-    "name": "Redmi 9 (India)",
+    "name": "POCO C3",
     "region": "India",
-    "version": "V12.0.18.0.QCTINXM",
-    "filename": "cattail_in_global_images_V12.0.18.0.QCTINXM_20220826.0000.00_10.0_in_b1c7409a05.tgz",
-    "filesize": "2.4G",
+    "version": "V12.0.19.0.QCRINXM",
+    "filename": "angelicain_in_global_images_V12.0.19.0.QCRINXM_20220826.0000.00_10.0_in_9b2476337d.tgz",
+    "filesize": "2.3G",
     "codebase": "10.0",
-    "md5": "b1c7409a052beb47568e95111f81f366",
-    "download_url": "https://bigota.d.miui.com/V12.0.18.0.QCTINXM/cattail_in_global_images_V12.0.18.0.QCTINXM_20220826.0000.00_10.0_in_b1c7409a05.tgz"
+    "md5": "9b2476337d2ae413875346e27d0a4679",
+    "download_url": "https://bigota.d.miui.com/V12.0.19.0.QCRINXM/angelicain_in_global_images_V12.0.19.0.QCRINXM_20220826.0000.00_10.0_in_9b2476337d.tgz"
   },
   {
     "device": "dizi_global",
@@ -765,22 +698,6 @@
     "codebase": "16.0",
     "md5": "f826710eab764cbb3112e9f768b46b2c",
     "download_url": "https://bigota.d.miui.com/OS3.0.302.0.WNSMIXM/dizi_global_images_OS3.0.302.0.WNSMIXM_20260709.0000.00_16.0_global_f826710eab.tgz"
-  },
-  {
-    "device": "duchamp_global",
-    "base_codename": "duchamp",
-    "market_names": [
-      "Redmi K70E",
-      "POCO X6 Pro"
-    ],
-    "name": "Redmi K70E",
-    "region": "Global",
-    "version": "OS3.0.6.0.WNLMIXM",
-    "filename": "duchamp_global_images_OS3.0.6.0.WNLMIXM_20260415.0000.00_16.0_global_f41fae11f3.tgz",
-    "filesize": "8.7G",
-    "codebase": "16.0",
-    "md5": "f41fae11f3d7fd80256daa6a5c3b2dde",
-    "download_url": "https://bigota.d.miui.com/OS3.0.6.0.WNLMIXM/duchamp_global_images_OS3.0.6.0.WNLMIXM_20260415.0000.00_16.0_global_f41fae11f3.tgz"
   },
   {
     "device": "earth_global",
@@ -799,20 +716,116 @@
     "download_url": "https://bigota.d.miui.com/OS1.0.16.0.UCVMIXM/earth_global_images_OS1.0.16.0.UCVMIXM_20260227.0000.00_14.0_global_b2ab987cbf.tgz"
   },
   {
-    "device": "emerald_global",
-    "base_codename": "emerald",
+    "device": "duchamp_global",
+    "base_codename": "duchamp",
     "market_names": [
-      "POCO M6 Pro (4G)",
-      "Redmi Note 13 Pro 4G"
+      "Redmi K70E",
+      "POCO X6 Pro"
     ],
-    "name": "POCO M6 Pro (4G)",
+    "name": "Redmi K70E",
     "region": "Global",
-    "version": "OS3.0.304.0.WNFMIXM",
-    "filename": "emerald_global_images_OS3.0.304.0.WNFMIXM_20260630.0000.00_16.0_global_3e95f810ab.tgz",
-    "filesize": "7.6G",
+    "version": "OS3.0.6.0.WNLMIXM",
+    "filename": "duchamp_global_images_OS3.0.6.0.WNLMIXM_20260415.0000.00_16.0_global_f41fae11f3.tgz",
+    "filesize": "8.7G",
     "codebase": "16.0",
-    "md5": "3e95f810abbe645616347a3e3591b153",
-    "download_url": "https://bigota.d.miui.com/OS3.0.304.0.WNFMIXM/emerald_global_images_OS3.0.304.0.WNFMIXM_20260630.0000.00_16.0_global_3e95f810ab.tgz"
+    "md5": "f41fae11f3d7fd80256daa6a5c3b2dde",
+    "download_url": "https://bigota.d.miui.com/OS3.0.6.0.WNLMIXM/duchamp_global_images_OS3.0.6.0.WNLMIXM_20260415.0000.00_16.0_global_f41fae11f3.tgz"
+  },
+  {
+    "device": "breeze_in_global",
+    "base_codename": "breeze",
+    "market_names": [
+      "Redmi Note 13R",
+      "Redmi 13 5G",
+      "POCO M6 Plus 5G"
+    ],
+    "name": "Redmi Note 13R",
+    "region": "India",
+    "version": "OS3.0.302.0.WNUINXM",
+    "filename": "breeze_in_global_images_OS3.0.302.0.WNUINXM_20260625.0000.00_16.0_in_85a2ef7d87.tgz",
+    "filesize": "7.0G",
+    "codebase": "16.0",
+    "md5": "85a2ef7d87be8ac2c56c79131f5c81d9",
+    "download_url": "https://bigota.d.miui.com/OS3.0.302.0.WNUINXM/breeze_in_global_images_OS3.0.302.0.WNUINXM_20260625.0000.00_16.0_in_85a2ef7d87.tgz"
+  },
+  {
+    "device": "ares_in_global",
+    "base_codename": "ares",
+    "market_names": [
+      "Redmi K40 Gaming Edition",
+      "POCO F3 GT"
+    ],
+    "name": "Redmi K40 Gaming Edition",
+    "region": "India",
+    "version": "V816.0.2.0.TKJINXM",
+    "filename": "ares_in_global_images_OS1.0.2.0.TKJINXM_20240325.0000.00_13.0_in_a4206a31eb.tgz",
+    "filesize": "4.8G",
+    "codebase": "13.0",
+    "md5": "a4206a31eb7fa9312c32011b1627f211",
+    "download_url": "https://bigota.d.miui.com/OS1.0.2.0.TKJINXM/ares_in_global_images_OS1.0.2.0.TKJINXM_20240325.0000.00_13.0_in_a4206a31eb.tgz"
+  },
+  {
+    "device": "dipper_global",
+    "base_codename": "dipper",
+    "market_names": [
+      "Mi 8"
+    ],
+    "name": "Mi 8",
+    "region": "Global",
+    "version": "V12.0.3.0.QEAMIXM",
+    "filename": "dipper_global_images_V12.0.3.0.QEAMIXM_20211213.0000.00_10.0_global_911d49e79e.tgz",
+    "filesize": "2.4G",
+    "codebase": "10.0",
+    "md5": "911d49e79e38ddf9073eec7381c6b714",
+    "download_url": "https://bigota.d.miui.com/V12.0.3.0.QEAMIXM/dipper_global_images_V12.0.3.0.QEAMIXM_20211213.0000.00_10.0_global_911d49e79e.tgz"
+  },
+  {
+    "device": "camellia_in_global",
+    "base_codename": "camellia",
+    "market_names": [
+      "Redmi Note 10 5G (China)",
+      "Redmi Note 10T 5G (India)",
+      "Redmi Note 11SE"
+    ],
+    "name": "Redmi Note 10 5G (China)",
+    "region": "India",
+    "version": "V14.0.6.0.TKSINXM",
+    "filename": "camellia_in_global_images_V14.0.6.0.TKSINXM_20230922.0000.00_13.0_in_940393ef3c.tgz",
+    "filesize": "4.5G",
+    "codebase": "13.0",
+    "md5": "940393ef3cb6e722b8953ad14247dc16",
+    "download_url": "https://bigota.d.miui.com/V14.0.6.0.TKSINXM/camellia_in_global_images_V14.0.6.0.TKSINXM_20230922.0000.00_13.0_in_940393ef3c.tgz"
+  },
+  {
+    "device": "diting_global",
+    "base_codename": "diting",
+    "market_names": [
+      "Redmi K50 Ultra",
+      "Xiaomi 12T Pro"
+    ],
+    "name": "Redmi K50 Ultra",
+    "region": "Global",
+    "version": "OS3.0.5.0.VLFMIXM",
+    "filename": "diting_global_images_OS3.0.5.0.VLFMIXM_20260716.0000.00_15.0_global_8d83a37e1a.tgz",
+    "filesize": "6.5G",
+    "codebase": "15.0",
+    "md5": "8d83a37e1a89e7adf963841a2297c69a",
+    "download_url": "https://bigota.d.miui.com/OS3.0.5.0.VLFMIXM/diting_global_images_OS3.0.5.0.VLFMIXM_20260716.0000.00_15.0_global_8d83a37e1a.tgz"
+  },
+  {
+    "device": "dior_global",
+    "base_codename": "dior",
+    "market_names": [
+      "Redmi Note 4G"
+    ],
+    "name": "Redmi Note 4G",
+    "region": "Global",
+    "version": "V9.2.3.0.KHIMIEK",
+    "filename": "dior_global_images_V9.2.3.0.KHIMIEK_20180406.0000.00_4.4_global_5168e928f9.tgz",
+    "filesize": "888M",
+    "codebase": "4.4",
+    "md5": "5168e928f979d3659afb5a30f8560123",
+    "download_url": "https://bigota.d.miui.com/V9.2.3.0.KHIMIEK/dior_global_images_V9.2.3.0.KHIMIEK_20180406.0000.00_4.4_global_5168e928f9.tgz"
   },
   {
     "device": "emerald_r_global",
@@ -828,6 +841,37 @@
     "codebase": "16.0",
     "md5": "1998e8a04905c7cf46c4ebcb993ca548",
     "download_url": "https://bigota.d.miui.com/OS3.0.304.0.WFOMIXM/emerald_r_global_images_OS3.0.304.0.WFOMIXM_20260630.0000.00_16.0_global_1998e8a049.tgz"
+  },
+  {
+    "device": "chenfeng_in_global",
+    "base_codename": "chenfeng",
+    "market_names": [
+      "Xiaomi Civi 4",
+      "Xiaomi Civi 4 Pro"
+    ],
+    "name": "Xiaomi Civi 4",
+    "region": "India",
+    "version": "OS3.0.302.0.WNJINXM",
+    "filename": "chenfeng_in_global_images_OS3.0.302.0.WNJINXM_20260707.0000.00_16.0_in_2e917c0c4a.tgz",
+    "filesize": "6.8G",
+    "codebase": "16.0",
+    "md5": "2e917c0c4af11ade445dcfc9c74f98f3",
+    "download_url": "https://bigota.d.miui.com/OS3.0.302.0.WNJINXM/chenfeng_in_global_images_OS3.0.302.0.WNJINXM_20260707.0000.00_16.0_in_2e917c0c4a.tgz"
+  },
+  {
+    "device": "fire_global",
+    "base_codename": "fire",
+    "market_names": [
+      "Redmi 12"
+    ],
+    "name": "Redmi 12",
+    "region": "Global",
+    "version": "OS2.0.208.0.VMXMIXM",
+    "filename": "fire_global_images_OS2.0.208.0.VMXMIXM_20260520.0000.00_15.0_global_178fa798ab.tgz",
+    "filesize": "6.4G",
+    "codebase": "15.0",
+    "md5": "178fa798ab5869b6e058a529e37ecbd4",
+    "download_url": "https://bigota.d.miui.com/OS2.0.208.0.VMXMIXM/fire_global_images_OS2.0.208.0.VMXMIXM_20260520.0000.00_15.0_global_178fa798ab.tgz"
   },
   {
     "device": "equuleus_global",
@@ -860,37 +904,6 @@
     "download_url": "https://bigota.d.miui.com/OS3.0.303.0.WDOMIXM/erhu_global_images_OS3.0.303.0.WDOMIXM_20260509.0000.00_16.0_global_757782fd7d.tgz"
   },
   {
-    "device": "dew_global",
-    "base_codename": "dew",
-    "market_names": [
-      "Redmi 15C 4G",
-      "POCO C85 4G"
-    ],
-    "name": "Redmi 15C 4G",
-    "region": "Global",
-    "version": "OS3.0.302.0.WBNMIXM",
-    "filename": "dew_global_images_OS3.0.302.0.WBNMIXM_20260518.0000.00_16.0_global_bd3dbbb09e.tgz",
-    "filesize": "7.5G",
-    "codebase": "16.0",
-    "md5": "bd3dbbb09e37723b36e7ace5b04974eb",
-    "download_url": "https://bigota.d.miui.com/OS3.0.302.0.WBNMIXM/dew_global_images_OS3.0.302.0.WBNMIXM_20260518.0000.00_16.0_global_bd3dbbb09e.tgz"
-  },
-  {
-    "device": "evergreen_global",
-    "base_codename": "evergreen",
-    "market_names": [
-      "POCO M4 Pro 5G"
-    ],
-    "name": "POCO M4 Pro 5G",
-    "region": "Global",
-    "version": "V816.0.1.0.TGBMIXM",
-    "filename": "evergreen_global_images_OS1.0.1.0.TGBMIXM_20240226.0000.00_13.0_global_e1e9e4ff66.tgz",
-    "filesize": "5.7G",
-    "codebase": "13.0",
-    "md5": "e1e9e4ff66a7092fa7c4e14d760a382c",
-    "download_url": "https://bigota.d.miui.com/OS1.0.1.0.TGBMIXM/evergreen_global_images_OS1.0.1.0.TGBMIXM_20240226.0000.00_13.0_global_e1e9e4ff66.tgz"
-  },
-  {
     "device": "ferrari_global",
     "base_codename": "ferrari",
     "market_names": [
@@ -906,35 +919,51 @@
     "download_url": "https://bigota.d.miui.com/V9.2.3.0.LXIMIEK/ferrari_global_images_V9.2.3.0.LXIMIEK_20180414.0000.00_5.0_global_680c582f20.tgz"
   },
   {
-    "device": "fire_global",
-    "base_codename": "fire",
+    "device": "cattail_in_global",
+    "base_codename": "cattail",
     "market_names": [
-      "Redmi 12"
+      "Redmi 9 (India)",
+      "Redmi 9 Activ"
     ],
-    "name": "Redmi 12",
-    "region": "Global",
-    "version": "OS2.0.208.0.VMXMIXM",
-    "filename": "fire_global_images_OS2.0.208.0.VMXMIXM_20260520.0000.00_15.0_global_178fa798ab.tgz",
-    "filesize": "6.4G",
-    "codebase": "15.0",
-    "md5": "178fa798ab5869b6e058a529e37ecbd4",
-    "download_url": "https://bigota.d.miui.com/OS2.0.208.0.VMXMIXM/fire_global_images_OS2.0.208.0.VMXMIXM_20260520.0000.00_15.0_global_178fa798ab.tgz"
+    "name": "Redmi 9 (India)",
+    "region": "India",
+    "version": "V12.0.18.0.QCTINXM",
+    "filename": "cattail_in_global_images_V12.0.18.0.QCTINXM_20220826.0000.00_10.0_in_b1c7409a05.tgz",
+    "filesize": "2.4G",
+    "codebase": "10.0",
+    "md5": "b1c7409a052beb47568e95111f81f366",
+    "download_url": "https://bigota.d.miui.com/V12.0.18.0.QCTINXM/cattail_in_global_images_V12.0.18.0.QCTINXM_20220826.0000.00_10.0_in_b1c7409a05.tgz"
   },
   {
-    "device": "fleur_global",
-    "base_codename": "fleur",
+    "device": "emerald_global",
+    "base_codename": "emerald",
     "market_names": [
-      "Redmi Note 11S",
-      "POCO M4 Pro"
+      "POCO M6 Pro (4G)",
+      "Redmi Note 13 Pro 4G"
     ],
-    "name": "Redmi Note 11S",
+    "name": "POCO M6 Pro (4G)",
     "region": "Global",
-    "version": "V816.0.9.0.TKEMIXM",
-    "filename": "fleur_global_images_OS1.0.9.0.TKEMIXM_20241206.0000.00_13.0_global_3030fec09a.tgz",
-    "filesize": "5.4G",
+    "version": "OS3.0.304.0.WNFMIXM",
+    "filename": "emerald_global_images_OS3.0.304.0.WNFMIXM_20260630.0000.00_16.0_global_3e95f810ab.tgz",
+    "filesize": "7.6G",
+    "codebase": "16.0",
+    "md5": "3e95f810abbe645616347a3e3591b153",
+    "download_url": "https://bigota.d.miui.com/OS3.0.304.0.WNFMIXM/emerald_global_images_OS3.0.304.0.WNFMIXM_20260630.0000.00_16.0_global_3e95f810ab.tgz"
+  },
+  {
+    "device": "evergreen_global",
+    "base_codename": "evergreen",
+    "market_names": [
+      "POCO M4 Pro 5G"
+    ],
+    "name": "POCO M4 Pro 5G",
+    "region": "Global",
+    "version": "V816.0.1.0.TGBMIXM",
+    "filename": "evergreen_global_images_OS1.0.1.0.TGBMIXM_20240226.0000.00_13.0_global_e1e9e4ff66.tgz",
+    "filesize": "5.7G",
     "codebase": "13.0",
-    "md5": "3030fec09a0be746bdb3866b12b4299d",
-    "download_url": "https://bigota.d.miui.com/OS1.0.9.0.TKEMIXM/fleur_global_images_OS1.0.9.0.TKEMIXM_20241206.0000.00_13.0_global_3030fec09a.tgz"
+    "md5": "e1e9e4ff66a7092fa7c4e14d760a382c",
+    "download_url": "https://bigota.d.miui.com/OS1.0.1.0.TGBMIXM/evergreen_global_images_OS1.0.1.0.TGBMIXM_20240226.0000.00_13.0_global_e1e9e4ff66.tgz"
   },
   {
     "device": "flourite_global",
@@ -953,6 +982,68 @@
     "download_url": "https://bigota.d.miui.com/OS3.0.304.0.WPRMIXM/flourite_global_images_OS3.0.304.0.WPRMIXM_20260708.0000.00_16.0_global_1f6617c70d.tgz"
   },
   {
+    "device": "fog_global",
+    "base_codename": "fog",
+    "market_names": [
+      "Redmi 10C"
+    ],
+    "name": "Redmi 10C",
+    "region": "Global",
+    "version": "V14.0.9.0.TGEMIXM",
+    "filename": "fog_global_images_V14.0.9.0.TGEMIXM_20250206.0000.00_13.0_global_56c1669749.tgz",
+    "filesize": "5.3G",
+    "codebase": "13.0",
+    "md5": "56c1669749f839e1c73edee36032fe90",
+    "download_url": "https://bigota.d.miui.com/V14.0.9.0.TGEMIXM/fog_global_images_V14.0.9.0.TGEMIXM_20250206.0000.00_13.0_global_56c1669749.tgz"
+  },
+  {
+    "device": "gale_global",
+    "base_codename": "gale",
+    "market_names": [
+      "Redmi 13C",
+      "POCO C65"
+    ],
+    "name": "Redmi 13C",
+    "region": "Global",
+    "version": "OS2.0.208.0.VGPMIXM",
+    "filename": "gale_global_images_OS2.0.208.0.VGPMIXM_20260713.0000.00_15.0_global_de08624a11.tgz",
+    "filesize": "6.8G",
+    "codebase": "15.0",
+    "md5": "de08624a11b1aeb38afbaa6e053cc7fc",
+    "download_url": "https://bigota.d.miui.com/OS2.0.208.0.VGPMIXM/gale_global_images_OS2.0.208.0.VGPMIXM_20260713.0000.00_15.0_global_de08624a11.tgz"
+  },
+  {
+    "device": "fleur_global",
+    "base_codename": "fleur",
+    "market_names": [
+      "Redmi Note 11S",
+      "POCO M4 Pro"
+    ],
+    "name": "Redmi Note 11S",
+    "region": "Global",
+    "version": "V816.0.9.0.TKEMIXM",
+    "filename": "fleur_global_images_OS1.0.9.0.TKEMIXM_20241206.0000.00_13.0_global_3030fec09a.tgz",
+    "filesize": "5.4G",
+    "codebase": "13.0",
+    "md5": "3030fec09a0be746bdb3866b12b4299d",
+    "download_url": "https://bigota.d.miui.com/OS1.0.9.0.TKEMIXM/fleur_global_images_OS1.0.9.0.TKEMIXM_20241206.0000.00_13.0_global_3030fec09a.tgz"
+  },
+  {
+    "device": "flare_global",
+    "base_codename": "flare",
+    "market_names": [
+      "Redmi Pad SE 8.7"
+    ],
+    "name": "Redmi Pad SE 8.7",
+    "region": "Global",
+    "version": "OS3.0.301.0.WHXMIXM",
+    "filename": "flare_global_images_OS3.0.301.0.WHXMIXM_20260514.0000.00_16.0_global_4f095a610e.tgz",
+    "filesize": "5.6G",
+    "codebase": "16.0",
+    "md5": "4f095a610e0cf6c1cf046a4ae88dadb2",
+    "download_url": "https://bigota.d.miui.com/OS3.0.301.0.WHXMIXM/flare_global_images_OS3.0.301.0.WHXMIXM_20260514.0000.00_16.0_global_4f095a610e.tgz"
+  },
+  {
     "device": "flute_global",
     "base_codename": "flute",
     "market_names": [
@@ -967,21 +1058,6 @@
     "codebase": "16.0",
     "md5": "45c3165dcd17d9970ed54b285cc9d2f7",
     "download_url": "https://bigota.d.miui.com/OS3.0.301.0.WPWMIXM/flute_global_images_OS3.0.301.0.WPWMIXM_20260616.0000.00_16.0_global_45c3165dcd.tgz"
-  },
-  {
-    "device": "fog_global",
-    "base_codename": "fog",
-    "market_names": [
-      "Redmi 10C"
-    ],
-    "name": "Redmi 10C",
-    "region": "Global",
-    "version": "V14.0.9.0.TGEMIXM",
-    "filename": "fog_global_images_V14.0.9.0.TGEMIXM_20250206.0000.00_13.0_global_56c1669749.tgz",
-    "filesize": "5.3G",
-    "codebase": "13.0",
-    "md5": "56c1669749f839e1c73edee36032fe90",
-    "download_url": "https://bigota.d.miui.com/V14.0.9.0.TGEMIXM/fog_global_images_V14.0.9.0.TGEMIXM_20250206.0000.00_13.0_global_56c1669749.tgz"
   },
   {
     "device": "frost_global",
@@ -1014,37 +1090,6 @@
     "download_url": "https://bigota.d.miui.com/OS3.0.304.0.WMCMIXM/fuxi_global_images_OS3.0.304.0.WMCMIXM_20260624.0000.00_16.0_global_93431d10d7.tgz"
   },
   {
-    "device": "flare_global",
-    "base_codename": "flare",
-    "market_names": [
-      "Redmi Pad SE 8.7"
-    ],
-    "name": "Redmi Pad SE 8.7",
-    "region": "Global",
-    "version": "OS3.0.301.0.WHXMIXM",
-    "filename": "flare_global_images_OS3.0.301.0.WHXMIXM_20260514.0000.00_16.0_global_4f095a610e.tgz",
-    "filesize": "5.6G",
-    "codebase": "16.0",
-    "md5": "4f095a610e0cf6c1cf046a4ae88dadb2",
-    "download_url": "https://bigota.d.miui.com/OS3.0.301.0.WHXMIXM/flare_global_images_OS3.0.301.0.WHXMIXM_20260514.0000.00_16.0_global_4f095a610e.tgz"
-  },
-  {
-    "device": "gale_global",
-    "base_codename": "gale",
-    "market_names": [
-      "Redmi 13C",
-      "POCO C65"
-    ],
-    "name": "Redmi 13C",
-    "region": "Global",
-    "version": "OS2.0.208.0.VGPMIXM",
-    "filename": "gale_global_images_OS2.0.208.0.VGPMIXM_20260713.0000.00_15.0_global_de08624a11.tgz",
-    "filesize": "6.8G",
-    "codebase": "15.0",
-    "md5": "de08624a11b1aeb38afbaa6e053cc7fc",
-    "download_url": "https://bigota.d.miui.com/OS2.0.208.0.VGPMIXM/gale_global_images_OS2.0.208.0.VGPMIXM_20260713.0000.00_15.0_global_de08624a11.tgz"
-  },
-  {
     "device": "garnet_global",
     "base_codename": "garnet",
     "market_names": [
@@ -1061,20 +1106,21 @@
     "download_url": "https://bigota.d.miui.com/OS3.0.301.0.WNRMIXM/garnet_global_images_OS3.0.301.0.WNRMIXM_20260507.0000.00_16.0_global_591c63df16.tgz"
   },
   {
-    "device": "evergo_in_global",
-    "base_codename": "evergo",
+    "device": "gauguin_global",
+    "base_codename": "gauguin",
     "market_names": [
-      "Redmi Note 11 5G (China)",
-      "Redmi Note 11T 5G (India)"
+      "Mi 10T Lite",
+      "Redmi Note 9 Pro 5G  (China)",
+      "Mi 10i 5G"
     ],
-    "name": "Redmi Note 11 5G (China)",
-    "region": "India",
-    "version": "V816.0.1.0.TGBINXM",
-    "filename": "evergo_in_global_images_OS1.0.1.0.TGBINXM_20240307.0000.00_13.0_in_bab47e0b8a.tgz",
-    "filesize": "4.8G",
-    "codebase": "13.0",
-    "md5": "bab47e0b8a93e61de27f129fa7f3480f",
-    "download_url": "https://bigota.d.miui.com/OS1.0.1.0.TGBINXM/evergo_in_global_images_OS1.0.1.0.TGBINXM_20240307.0000.00_13.0_in_bab47e0b8a.tgz"
+    "name": "Mi 10T Lite",
+    "region": "Global",
+    "version": "V14.0.2.0.SJSMIXM",
+    "filename": "gauguin_global_images_V14.0.2.0.SJSMIXM_20230421.0000.00_12.0_global_2bcdb88abf.tgz",
+    "filesize": "4.6G",
+    "codebase": "12.0",
+    "md5": "2bcdb88abf1c344b5d2d355788d25529",
+    "download_url": "https://bigota.d.miui.com/V14.0.2.0.SJSMIXM/gauguin_global_images_V14.0.2.0.SJSMIXM_20230421.0000.00_12.0_global_2bcdb88abf.tgz"
   },
   {
     "device": "gemini_global",
@@ -1090,21 +1136,6 @@
     "codebase": "8.0",
     "md5": "d05f4a2bfd2d26057998d23c86e97b72",
     "download_url": "https://bigota.d.miui.com/V10.2.2.0.OAAMIXM/gemini_global_images_V10.2.2.0.OAAMIXM_20190115.0000.00_8.0_global_d05f4a2bfd.tgz"
-  },
-  {
-    "device": "ginkgo_global",
-    "base_codename": "ginkgo",
-    "market_names": [
-      "Redmi Note 8"
-    ],
-    "name": "Redmi Note 8",
-    "region": "Global",
-    "version": "V12.5.2.0.RCOMIXM",
-    "filename": "ginkgo_global_images_V12.5.2.0.RCOMIXM_20220216.0000.00_11.0_global_da0a599e0c.tgz",
-    "filesize": "4.4G",
-    "codebase": "11.0",
-    "md5": "da0a599e0c674874b38f648c979fb808",
-    "download_url": "https://bigota.d.miui.com/V12.5.2.0.RCOMIXM/ginkgo_global_images_V12.5.2.0.RCOMIXM_20220216.0000.00_11.0_global_da0a599e0c.tgz"
   },
   {
     "device": "gold_global",
@@ -1124,6 +1155,21 @@
     "download_url": "https://bigota.d.miui.com/OS3.0.4.0.VNQMIXM/gold_global_images_OS3.0.4.0.VNQMIXM_20260629.0000.00_15.0_global_a0949cd520.tgz"
   },
   {
+    "device": "ginkgo_global",
+    "base_codename": "ginkgo",
+    "market_names": [
+      "Redmi Note 8"
+    ],
+    "name": "Redmi Note 8",
+    "region": "Global",
+    "version": "V12.5.2.0.RCOMIXM",
+    "filename": "ginkgo_global_images_V12.5.2.0.RCOMIXM_20220216.0000.00_11.0_global_da0a599e0c.tgz",
+    "filesize": "4.4G",
+    "codebase": "11.0",
+    "md5": "da0a599e0c674874b38f648c979fb808",
+    "download_url": "https://bigota.d.miui.com/V12.5.2.0.RCOMIXM/ginkgo_global_images_V12.5.2.0.RCOMIXM_20220216.0000.00_11.0_global_da0a599e0c.tgz"
+  },
+  {
     "device": "goya_global",
     "base_codename": "goya",
     "market_names": [
@@ -1139,6 +1185,22 @@
     "download_url": "https://bigota.d.miui.com/OS3.0.301.0.WOEMIXM/goya_global_images_OS3.0.301.0.WOEMIXM_20260623.0000.00_16.0_global_d795e0a52a.tgz"
   },
   {
+    "device": "evergo_in_global",
+    "base_codename": "evergo",
+    "market_names": [
+      "Redmi Note 11 5G (China)",
+      "Redmi Note 11T 5G (India)"
+    ],
+    "name": "Redmi Note 11 5G (China)",
+    "region": "India",
+    "version": "V816.0.1.0.TGBINXM",
+    "filename": "evergo_in_global_images_OS1.0.1.0.TGBINXM_20240307.0000.00_13.0_in_bab47e0b8a.tgz",
+    "filesize": "4.8G",
+    "codebase": "13.0",
+    "md5": "bab47e0b8a93e61de27f129fa7f3480f",
+    "download_url": "https://bigota.d.miui.com/OS1.0.1.0.TGBINXM/evergo_in_global_images_OS1.0.1.0.TGBINXM_20240307.0000.00_13.0_in_bab47e0b8a.tgz"
+  },
+  {
     "device": "grus_global",
     "base_codename": "grus",
     "market_names": [
@@ -1152,6 +1214,21 @@
     "codebase": "11.0",
     "md5": "a86a2a426e75f413cf1e1e7182159af3",
     "download_url": "https://bigota.d.miui.com/V12.5.1.0.RFBMIXM/grus_global_images_V12.5.1.0.RFBMIXM_20210516.0000.00_11.0_global_a86a2a426e.tgz"
+  },
+  {
+    "device": "excalibur_in_global",
+    "base_codename": "excalibur",
+    "market_names": [
+      "Redmi Note 9 Pro Max"
+    ],
+    "name": "Redmi Note 9 Pro Max",
+    "region": "India",
+    "version": "V14.0.2.0.SJXINXM",
+    "filename": "excalibur_in_global_images_V14.0.2.0.SJXINXM_20230410.0000.00_12.0_in_b0c86ab0b5.tgz",
+    "filesize": "3.4G",
+    "codebase": "12.0",
+    "md5": "b0c86ab0b581f32adcf491043d8f311c",
+    "download_url": "https://bigota.d.miui.com/V14.0.2.0.SJXINXM/excalibur_in_global_images_V14.0.2.0.SJXINXM_20230410.0000.00_12.0_in_b0c86ab0b5.tgz"
   },
   {
     "device": "guitar_global",
@@ -1171,19 +1248,22 @@
     "download_url": "https://bigota.d.miui.com/OS3.0.305.0.WDNMIXM/guitar_global_images_OS3.0.305.0.WDNMIXM_20260615.0000.00_16.0_global_bdedff715d.tgz"
   },
   {
-    "device": "helium_global",
-    "base_codename": "helium",
+    "device": "haydn_global",
+    "base_codename": "haydn",
     "market_names": [
-      "Mi Max Prime"
+      "Redmi K40 Pro",
+      "Redmi K40 Pro+",
+      "Mi 11i",
+      "Mi 11X Pro"
     ],
-    "name": "Mi Max Prime",
+    "name": "Redmi K40 Pro",
     "region": "Global",
-    "version": "V10.2.2.0.NBDMIXM",
-    "filename": "helium_global_images_V10.2.2.0.NBDMIXM_20190424.0000.00_7.0_global_13b27e64bc.tgz",
-    "filesize": "1.6G",
-    "codebase": "7.0",
-    "md5": "13b27e64bc2f6f4fefad0eb5ef50cf6a",
-    "download_url": "https://bigota.d.miui.com/V10.2.2.0.NBDMIXM/helium_global_images_V10.2.2.0.NBDMIXM_20190424.0000.00_7.0_global_13b27e64bc.tgz"
+    "version": "V816.0.19.0.UKKMIXM",
+    "filename": "haydn_global_images_OS1.0.19.0.UKKMIXM_20251124.0000.00_14.0_global_6ac441e984.tgz",
+    "filesize": "6.0G",
+    "codebase": "14.0",
+    "md5": "6ac441e984ade935574fc55922b43b10",
+    "download_url": "https://bigota.d.miui.com/OS1.0.19.0.UKKMIXM/haydn_global_images_OS1.0.19.0.UKKMIXM_20251124.0000.00_14.0_global_6ac441e984.tgz"
   },
   {
     "device": "hermes_global",
@@ -1201,21 +1281,6 @@
     "download_url": "https://bigota.d.miui.com/V9.6.3.0.LHMMIFD/hermes_global_images_V9.6.3.0.LHMMIFD_20180801.0000.00_5.0_global_0dc0ffff2c.tgz"
   },
   {
-    "device": "hydrogen_global",
-    "base_codename": "hydrogen",
-    "market_names": [
-      "Mi Max"
-    ],
-    "name": "Mi Max",
-    "region": "Global",
-    "version": "V10.2.2.0.NBCMIXM",
-    "filename": "hydrogen_global_images_V10.2.2.0.NBCMIXM_20190426.0000.00_7.0_global_3dab3a213d.tgz",
-    "filesize": "1.6G",
-    "codebase": "7.0",
-    "md5": "3dab3a213d79db43b5144cf255346500",
-    "download_url": "https://bigota.d.miui.com/V10.2.2.0.NBCMIXM/hydrogen_global_images_V10.2.2.0.NBCMIXM_20190426.0000.00_7.0_global_3dab3a213d.tgz"
-  },
-  {
     "device": "houji_global",
     "base_codename": "houji",
     "market_names": [
@@ -1229,21 +1294,6 @@
     "codebase": "16.0",
     "md5": "94f8b0ed668d373884e386c9eccf13d2",
     "download_url": "https://bigota.d.miui.com/OS3.0.302.0.WNCMIXM/houji_global_images_OS3.0.302.0.WNCMIXM_20260525.0000.00_16.0_global_94f8b0ed66.tgz"
-  },
-  {
-    "device": "excalibur_in_global",
-    "base_codename": "excalibur",
-    "market_names": [
-      "Redmi Note 9 Pro Max"
-    ],
-    "name": "Redmi Note 9 Pro Max",
-    "region": "India",
-    "version": "V14.0.2.0.SJXINXM",
-    "filename": "excalibur_in_global_images_V14.0.2.0.SJXINXM_20230410.0000.00_12.0_in_b0c86ab0b5.tgz",
-    "filesize": "3.4G",
-    "codebase": "12.0",
-    "md5": "b0c86ab0b581f32adcf491043d8f311c",
-    "download_url": "https://bigota.d.miui.com/V14.0.2.0.SJXINXM/excalibur_in_global_images_V14.0.2.0.SJXINXM_20230410.0000.00_12.0_in_b0c86ab0b5.tgz"
   },
   {
     "device": "ingres_global",
@@ -1277,6 +1327,53 @@
     "download_url": "https://bigota.d.miui.com/OS3.0.302.0.WMAMIXM/ishtar_global_images_OS3.0.302.0.WMAMIXM_20260615.0000.00_16.0_global_6e7e715460.tgz"
   },
   {
+    "device": "flame_in_global",
+    "base_codename": "flame",
+    "market_names": [
+      "Redmi 14R 5G",
+      "Redmi 14C 5G",
+      "POCO M7 5G"
+    ],
+    "name": "Redmi 14R 5G",
+    "region": "India",
+    "version": "OS3.0.302.0.WGUINXM",
+    "filename": "flame_in_global_images_OS3.0.302.0.WGUINXM_20260715.0000.00_16.0_in_53b7be13b2.tgz",
+    "filesize": "6.1G",
+    "codebase": "16.0",
+    "md5": "53b7be13b22bfa991cb65f3de4ea8bc1",
+    "download_url": "https://bigota.d.miui.com/OS3.0.302.0.WGUINXM/flame_in_global_images_OS3.0.302.0.WGUINXM_20260715.0000.00_16.0_in_53b7be13b2.tgz"
+  },
+  {
+    "device": "hydrogen_global",
+    "base_codename": "hydrogen",
+    "market_names": [
+      "Mi Max"
+    ],
+    "name": "Mi Max",
+    "region": "Global",
+    "version": "V10.2.2.0.NBCMIXM",
+    "filename": "hydrogen_global_images_V10.2.2.0.NBCMIXM_20190426.0000.00_7.0_global_3dab3a213d.tgz",
+    "filesize": "1.6G",
+    "codebase": "7.0",
+    "md5": "3dab3a213d79db43b5144cf255346500",
+    "download_url": "https://bigota.d.miui.com/V10.2.2.0.NBCMIXM/hydrogen_global_images_V10.2.2.0.NBCMIXM_20190426.0000.00_7.0_global_3dab3a213d.tgz"
+  },
+  {
+    "device": "helium_global",
+    "base_codename": "helium",
+    "market_names": [
+      "Mi Max Prime"
+    ],
+    "name": "Mi Max Prime",
+    "region": "Global",
+    "version": "V10.2.2.0.NBDMIXM",
+    "filename": "helium_global_images_V10.2.2.0.NBDMIXM_20190424.0000.00_7.0_global_13b27e64bc.tgz",
+    "filesize": "1.6G",
+    "codebase": "7.0",
+    "md5": "13b27e64bc2f6f4fefad0eb5ef50cf6a",
+    "download_url": "https://bigota.d.miui.com/V10.2.2.0.NBDMIXM/helium_global_images_V10.2.2.0.NBDMIXM_20190424.0000.00_7.0_global_13b27e64bc.tgz"
+  },
+  {
     "device": "jason_global",
     "base_codename": "jason",
     "market_names": [
@@ -1290,24 +1387,6 @@
     "codebase": "9.0",
     "md5": "b7800ab3ce54e06f929d36eb98a38dec",
     "download_url": "https://bigota.d.miui.com/V12.0.1.0.PCHMIXM/jason_global_images_V12.0.1.0.PCHMIXM_20200913.0000.00_9.0_global_b7800ab3ce.tgz"
-  },
-  {
-    "device": "haydn_global",
-    "base_codename": "haydn",
-    "market_names": [
-      "Redmi K40 Pro",
-      "Redmi K40 Pro+",
-      "Mi 11i",
-      "Mi 11X Pro"
-    ],
-    "name": "Redmi K40 Pro",
-    "region": "Global",
-    "version": "V816.0.19.0.UKKMIXM",
-    "filename": "haydn_global_images_OS1.0.19.0.UKKMIXM_20251124.0000.00_14.0_global_6ac441e984.tgz",
-    "filesize": "6.0G",
-    "codebase": "14.0",
-    "md5": "6ac441e984ade935574fc55922b43b10",
-    "download_url": "https://bigota.d.miui.com/OS1.0.19.0.UKKMIXM/haydn_global_images_OS1.0.19.0.UKKMIXM_20251124.0000.00_14.0_global_6ac441e984.tgz"
   },
   {
     "device": "kate_global",
@@ -1325,23 +1404,6 @@
     "download_url": "https://bigota.d.miui.com/V10.2.1.0.MHRMIXM/kate_global_images_V10.2.1.0.MHRMIXM_20190114.0000.00_6.0_global_52f71e4360.tgz"
   },
   {
-    "device": "gauguin_global",
-    "base_codename": "gauguin",
-    "market_names": [
-      "Mi 10T Lite",
-      "Redmi Note 9 Pro 5G  (China)",
-      "Mi 10i 5G"
-    ],
-    "name": "Mi 10T Lite",
-    "region": "Global",
-    "version": "V14.0.2.0.SJSMIXM",
-    "filename": "gauguin_global_images_V14.0.2.0.SJSMIXM_20230421.0000.00_12.0_global_2bcdb88abf.tgz",
-    "filesize": "4.6G",
-    "codebase": "12.0",
-    "md5": "2bcdb88abf1c344b5d2d355788d25529",
-    "download_url": "https://bigota.d.miui.com/V14.0.2.0.SJSMIXM/gauguin_global_images_V14.0.2.0.SJSMIXM_20230421.0000.00_12.0_global_2bcdb88abf.tgz"
-  },
-  {
     "device": "kenzo_global",
     "base_codename": "kenzo",
     "market_names": [
@@ -1355,6 +1417,36 @@
     "codebase": "6.0",
     "md5": "8a48e54fe35e29f9e66b13f9d3543e67",
     "download_url": "https://bigota.d.miui.com/V10.2.1.0.MHOMIXM/kenzo_global_images_V10.2.1.0.MHOMIXM_20190114.0000.00_6.0_global_8a48e54fe3.tgz"
+  },
+  {
+    "device": "joyeuse_global",
+    "base_codename": "joyeuse",
+    "market_names": [
+      "Redmi Note 9 Pro"
+    ],
+    "name": "Redmi Note 9 Pro",
+    "region": "Global",
+    "version": "V14.0.3.0.SJZMIXM",
+    "filename": "joyeuse_global_images_V14.0.3.0.SJZMIXM_20230307.0000.00_12.0_global_4ee0ad4d2d.tgz",
+    "filesize": "4.6G",
+    "codebase": "12.0",
+    "md5": "4ee0ad4d2d680eef5522c27f17ef767b",
+    "download_url": "https://bigota.d.miui.com/V14.0.3.0.SJZMIXM/joyeuse_global_images_V14.0.3.0.SJZMIXM_20230307.0000.00_12.0_global_4ee0ad4d2d.tgz"
+  },
+  {
+    "device": "gram_in_global",
+    "base_codename": "gram",
+    "market_names": [
+      "POCO M2 Pro"
+    ],
+    "name": "POCO M2 Pro",
+    "region": "India",
+    "version": "V14.0.5.0.SJPINXM",
+    "filename": "gram_in_global_images_V14.0.5.0.SJPINXM_20230619.0000.00_12.0_in_186c9fa257.tgz",
+    "filesize": "3.3G",
+    "codebase": "12.0",
+    "md5": "186c9fa257dcb06d53efb8c2da62fad2",
+    "download_url": "https://bigota.d.miui.com/V14.0.5.0.SJPINXM/gram_in_global_images_V14.0.5.0.SJPINXM_20230619.0000.00_12.0_in_186c9fa257.tgz"
   },
   {
     "device": "klee_global",
@@ -1387,19 +1479,19 @@
     "download_url": "https://bigota.d.miui.com/V816.0.4.0.WGSMIXM/klein_global_images_V816.0.4.0.WGSMIXM_20260714.0000.00_16.0_global_e172de0ec6.tgz"
   },
   {
-    "device": "klimt_global",
-    "base_codename": "klimt",
+    "device": "koto_global",
+    "base_codename": "koto",
     "market_names": [
-      "Xiaomi 15T Pro"
+      "Redmi Pad 2 4G"
     ],
-    "name": "Xiaomi 15T Pro",
+    "name": "Redmi Pad 2 4G",
     "region": "Global",
-    "version": "OS3.0.302.0.WOSMIXM",
-    "filename": "klimt_global_images_OS3.0.302.0.WOSMIXM_20260612.0000.00_16.0_global_390f94ab0a.tgz",
-    "filesize": "9.4G",
+    "version": "OS3.0.302.0.WOWMIXM",
+    "filename": "koto_global_images_OS3.0.302.0.WOWMIXM_20260706.0000.00_16.0_global_5c5b6e37ed.tgz",
+    "filesize": "7.2G",
     "codebase": "16.0",
-    "md5": "390f94ab0adec7dbfaf4d5be483d0c06",
-    "download_url": "https://bigota.d.miui.com/OS3.0.302.0.WOSMIXM/klimt_global_images_OS3.0.302.0.WOSMIXM_20260612.0000.00_16.0_global_390f94ab0a.tgz"
+    "md5": "5c5b6e37ed3e3e97b02a54a3f113c0db",
+    "download_url": "https://bigota.d.miui.com/OS3.0.302.0.WOWMIXM/koto_global_images_OS3.0.302.0.WOWMIXM_20260706.0000.00_16.0_global_5c5b6e37ed.tgz"
   },
   {
     "device": "kunzite_global",
@@ -1416,6 +1508,21 @@
     "codebase": "16.0",
     "md5": "4a3b3c152e32848f0c2d5ae32051b4e1",
     "download_url": "https://bigota.d.miui.com/OS3.0.302.0.WPQMIXM/kunzite_global_images_OS3.0.302.0.WPQMIXM_20260612.0000.00_16.0_global_4a3b3c152e.tgz"
+  },
+  {
+    "device": "klimt_global",
+    "base_codename": "klimt",
+    "market_names": [
+      "Xiaomi 15T Pro"
+    ],
+    "name": "Xiaomi 15T Pro",
+    "region": "Global",
+    "version": "OS3.0.302.0.WOSMIXM",
+    "filename": "klimt_global_images_OS3.0.302.0.WOSMIXM_20260612.0000.00_16.0_global_390f94ab0a.tgz",
+    "filesize": "9.4G",
+    "codebase": "16.0",
+    "md5": "390f94ab0adec7dbfaf4d5be483d0c06",
+    "download_url": "https://bigota.d.miui.com/OS3.0.302.0.WOSMIXM/klimt_global_images_OS3.0.302.0.WOSMIXM_20260612.0000.00_16.0_global_390f94ab0a.tgz"
   },
   {
     "device": "lake_global",
@@ -1435,36 +1542,6 @@
     "download_url": "https://bigota.d.miui.com/OS3.0.306.0.WGTMIXM/lake_global_images_OS3.0.306.0.WGTMIXM_20260713.0000.00_16.0_global_ddabac3587.tgz"
   },
   {
-    "device": "lancelot_global",
-    "base_codename": "lancelot",
-    "market_names": [
-      "Redmi 9 (9 Prime India)"
-    ],
-    "name": "Redmi 9 (9 Prime India)",
-    "region": "Global",
-    "version": "V13.0.4.0.SJCMIXM",
-    "filename": "lancelot_global_images_V13.0.4.0.SJCMIXM_20230111.0000.00_12.0_global_06d1b1156a.tgz",
-    "filesize": "4.3G",
-    "codebase": "12.0",
-    "md5": "06d1b1156a6f66742f5d34b85a28459c",
-    "download_url": "https://bigota.d.miui.com/V13.0.4.0.SJCMIXM/lancelot_global_images_V13.0.4.0.SJCMIXM_20230111.0000.00_12.0_global_06d1b1156a.tgz"
-  },
-  {
-    "device": "gram_in_global",
-    "base_codename": "gram",
-    "market_names": [
-      "POCO M2 Pro"
-    ],
-    "name": "POCO M2 Pro",
-    "region": "India",
-    "version": "V14.0.5.0.SJPINXM",
-    "filename": "gram_in_global_images_V14.0.5.0.SJPINXM_20230619.0000.00_12.0_in_186c9fa257.tgz",
-    "filesize": "3.3G",
-    "codebase": "12.0",
-    "md5": "186c9fa257dcb06d53efb8c2da62fad2",
-    "download_url": "https://bigota.d.miui.com/V14.0.5.0.SJPINXM/gram_in_global_images_V14.0.5.0.SJPINXM_20230619.0000.00_12.0_in_186c9fa257.tgz"
-  },
-  {
     "device": "land_global",
     "base_codename": "land",
     "market_names": [
@@ -1480,6 +1557,21 @@
     "download_url": "https://bigota.d.miui.com/V10.2.2.0.MALMIXM/land_global_images_V10.2.2.0.MALMIXM_20190423.0000.00_6.0_global_68faa236bb.tgz"
   },
   {
+    "device": "lancelot_global",
+    "base_codename": "lancelot",
+    "market_names": [
+      "Redmi 9 (9 Prime India)"
+    ],
+    "name": "Redmi 9 (9 Prime India)",
+    "region": "Global",
+    "version": "V13.0.4.0.SJCMIXM",
+    "filename": "lancelot_global_images_V13.0.4.0.SJCMIXM_20230111.0000.00_12.0_global_06d1b1156a.tgz",
+    "filesize": "4.3G",
+    "codebase": "12.0",
+    "md5": "06d1b1156a6f66742f5d34b85a28459c",
+    "download_url": "https://bigota.d.miui.com/V13.0.4.0.SJCMIXM/lancelot_global_images_V13.0.4.0.SJCMIXM_20230111.0000.00_12.0_global_06d1b1156a.tgz"
+  },
+  {
     "device": "lapis_global",
     "base_codename": "lapis",
     "market_names": [
@@ -1493,36 +1585,6 @@
     "codebase": "16.0",
     "md5": "03d72813f061849645281b70060432f8",
     "download_url": "https://bigota.d.miui.com/OS3.0.307.0.WPPMIXM/lapis_global_images_OS3.0.307.0.WPPMIXM_20260624.0000.00_16.0_global_03d72813f0.tgz"
-  },
-  {
-    "device": "joyeuse_global",
-    "base_codename": "joyeuse",
-    "market_names": [
-      "Redmi Note 9 Pro"
-    ],
-    "name": "Redmi Note 9 Pro",
-    "region": "Global",
-    "version": "V14.0.3.0.SJZMIXM",
-    "filename": "joyeuse_global_images_V14.0.3.0.SJZMIXM_20230307.0000.00_12.0_global_4ee0ad4d2d.tgz",
-    "filesize": "4.6G",
-    "codebase": "12.0",
-    "md5": "4ee0ad4d2d680eef5522c27f17ef767b",
-    "download_url": "https://bigota.d.miui.com/V14.0.3.0.SJZMIXM/joyeuse_global_images_V14.0.3.0.SJZMIXM_20230307.0000.00_12.0_global_4ee0ad4d2d.tgz"
-  },
-  {
-    "device": "lavender_global",
-    "base_codename": "lavender",
-    "market_names": [
-      "Redmi Note 7"
-    ],
-    "name": "Redmi Note 7",
-    "region": "Global",
-    "version": "V12.5.3.0.QFGMIXM",
-    "filename": "lavender_global_images_V12.5.3.0.QFGMIXM_20211210.0000.00_10.0_global_8dd551a637.tgz",
-    "filesize": "2.8G",
-    "codebase": "10.0",
-    "md5": "8dd551a637c3fb058b2b433269df3032",
-    "download_url": "https://bigota.d.miui.com/V12.5.3.0.QFGMIXM/lavender_global_images_V12.5.3.0.QFGMIXM_20211210.0000.00_10.0_global_8dd551a637.tgz"
   },
   {
     "device": "light_global",
@@ -1541,19 +1603,19 @@
     "download_url": "https://bigota.d.miui.com/OS1.0.7.0.ULSMIXM/light_global_images_OS1.0.7.0.ULSMIXM_20241024.0000.00_14.0_global_ef04002385.tgz"
   },
   {
-    "device": "lisa_global",
-    "base_codename": "lisa",
+    "device": "lavender_global",
+    "base_codename": "lavender",
     "market_names": [
-      "Xiaomi 11 Lite 5G NE"
+      "Redmi Note 7"
     ],
-    "name": "Xiaomi 11 Lite 5G NE",
+    "name": "Redmi Note 7",
     "region": "Global",
-    "version": "OS2.0.8.0.UKOMIXM",
-    "filename": "lisa_global_images_OS2.0.8.0.UKOMIXM_20250819.0000.00_14.0_global_4b5ed299cf.tgz",
-    "filesize": "6.1G",
-    "codebase": "14.0",
-    "md5": "4b5ed299cf17b00d892e5f3a836ebfb8",
-    "download_url": "https://bigota.d.miui.com/OS2.0.8.0.UKOMIXM/lisa_global_images_OS2.0.8.0.UKOMIXM_20250819.0000.00_14.0_global_4b5ed299cf.tgz"
+    "version": "V12.5.3.0.QFGMIXM",
+    "filename": "lavender_global_images_V12.5.3.0.QFGMIXM_20211210.0000.00_10.0_global_8dd551a637.tgz",
+    "filesize": "2.8G",
+    "codebase": "10.0",
+    "md5": "8dd551a637c3fb058b2b433269df3032",
+    "download_url": "https://bigota.d.miui.com/V12.5.3.0.QFGMIXM/lavender_global_images_V12.5.3.0.QFGMIXM_20211210.0000.00_10.0_global_8dd551a637.tgz"
   },
   {
     "device": "lithium_global",
@@ -1588,21 +1650,6 @@
     "download_url": "https://bigota.d.miui.com/V13.0.6.0.SJQMIXM/lime_global_images_V13.0.6.0.SJQMIXM_20230712.0000.00_12.0_global_586b8928bc.tgz"
   },
   {
-    "device": "koto_global",
-    "base_codename": "koto",
-    "market_names": [
-      "Redmi Pad 2 4G"
-    ],
-    "name": "Redmi Pad 2 4G",
-    "region": "Global",
-    "version": "OS3.0.302.0.WOWMIXM",
-    "filename": "koto_global_images_OS3.0.302.0.WOWMIXM_20260706.0000.00_16.0_global_5c5b6e37ed.tgz",
-    "filesize": "7.2G",
-    "codebase": "16.0",
-    "md5": "5c5b6e37ed3e3e97b02a54a3f113c0db",
-    "download_url": "https://bigota.d.miui.com/OS3.0.302.0.WOWMIXM/koto_global_images_OS3.0.302.0.WOWMIXM_20260706.0000.00_16.0_global_5c5b6e37ed.tgz"
-  },
-  {
     "device": "lmi_global",
     "base_codename": "lmi",
     "market_names": [
@@ -1618,6 +1665,21 @@
     "codebase": "12.0",
     "md5": "15e376c371d9a192e85a7073c7b92853",
     "download_url": "https://bigota.d.miui.com/V14.0.1.0.SJKMIXM/lmi_global_images_V14.0.1.0.SJKMIXM_20230317.0000.00_12.0_global_15e376c371.tgz"
+  },
+  {
+    "device": "lisa_global",
+    "base_codename": "lisa",
+    "market_names": [
+      "Xiaomi 11 Lite 5G NE"
+    ],
+    "name": "Xiaomi 11 Lite 5G NE",
+    "region": "Global",
+    "version": "OS2.0.8.0.UKOMIXM",
+    "filename": "lisa_global_images_OS2.0.8.0.UKOMIXM_20250819.0000.00_14.0_global_4b5ed299cf.tgz",
+    "filesize": "6.1G",
+    "codebase": "14.0",
+    "md5": "4b5ed299cf17b00d892e5f3a836ebfb8",
+    "download_url": "https://bigota.d.miui.com/OS2.0.8.0.UKOMIXM/lisa_global_images_OS2.0.8.0.UKOMIXM_20250819.0000.00_14.0_global_4b5ed299cf.tgz"
   },
   {
     "device": "lotus_global",
@@ -1911,6 +1973,36 @@
     "download_url": "https://bigota.d.miui.com/V12.0.1.0.QEDMIXM/nitrogen_global_images_V12.0.1.0.QEDMIXM_20201013.0000.00_10.0_global_7165e85aee.tgz"
   },
   {
+    "device": "nuwa_global",
+    "base_codename": "nuwa",
+    "market_names": [
+      "Xiaomi 13 Pro"
+    ],
+    "name": "Xiaomi 13 Pro",
+    "region": "Global",
+    "version": "OS3.0.302.0.WMBMIXM",
+    "filename": "nuwa_global_images_OS3.0.302.0.WMBMIXM_20260713.0000.00_16.0_global_1fa507369b.tgz",
+    "filesize": "7.6G",
+    "codebase": "16.0",
+    "md5": "1fa507369b163fdabf26bdf828bccbc6",
+    "download_url": "https://bigota.d.miui.com/OS3.0.302.0.WMBMIXM/nuwa_global_images_OS3.0.302.0.WMBMIXM_20260713.0000.00_16.0_global_1fa507369b.tgz"
+  },
+  {
+    "device": "nikel_global",
+    "base_codename": "nikel",
+    "market_names": [
+      "Redmi Note 4"
+    ],
+    "name": "Redmi Note 4",
+    "region": "Global",
+    "version": "V10.2.1.0.MBFMIXM",
+    "filename": "nikel_global_images_V10.2.1.0.MBFMIXM_20190123.0000.00_6.0_global_d9955053f2.tgz",
+    "filesize": "1.6G",
+    "codebase": "6.0",
+    "md5": "d9955053f260ec92709407a6f6f099b8",
+    "download_url": "https://bigota.d.miui.com/V10.2.1.0.MBFMIXM/nikel_global_images_V10.2.1.0.MBFMIXM_20190123.0000.00_6.0_global_d9955053f2.tgz"
+  },
+  {
     "device": "obsidian_global",
     "base_codename": "obsidian",
     "market_names": [
@@ -1956,21 +2048,6 @@
     "download_url": "https://bigota.d.miui.com/V12.5.2.0.QCPMIXM/olivelite_global_images_V12.5.2.0.QCPMIXM_20211025.0000.00_10.0_global_213ef1784d.tgz"
   },
   {
-    "device": "citrus_eea_global",
-    "base_codename": "citrus",
-    "market_names": [
-      "POCO M3"
-    ],
-    "name": "POCO M3",
-    "region": "EEA",
-    "version": "V14.0.2.0.SJFEUXM",
-    "filename": "citrus_eea_global_images_V14.0.2.0.SJFEUXM_20230509.0000.00_12.0_eea_170ad598a5.tgz",
-    "filesize": "4.6G",
-    "codebase": "12.0",
-    "md5": "170ad598a5e6ca8856c91f13604ad882",
-    "download_url": "https://bigota.d.miui.com/V14.0.2.0.SJFEUXM/citrus_eea_global_images_V14.0.2.0.SJFEUXM_20230509.0000.00_12.0_eea_170ad598a5.tgz"
-  },
-  {
     "device": "onclite_global",
     "base_codename": "onclite",
     "market_names": [
@@ -2001,21 +2078,6 @@
     "download_url": "https://bigota.d.miui.com/OS3.0.302.0.WOLMIXM/onyx_global_images_OS3.0.302.0.WOLMIXM_20260526.0000.00_16.0_global_fc8056a10e.tgz"
   },
   {
-    "device": "nikel_global",
-    "base_codename": "nikel",
-    "market_names": [
-      "Redmi Note 4"
-    ],
-    "name": "Redmi Note 4",
-    "region": "Global",
-    "version": "V10.2.1.0.MBFMIXM",
-    "filename": "nikel_global_images_V10.2.1.0.MBFMIXM_20190123.0000.00_6.0_global_d9955053f2.tgz",
-    "filesize": "1.6G",
-    "codebase": "6.0",
-    "md5": "d9955053f260ec92709407a6f6f099b8",
-    "download_url": "https://bigota.d.miui.com/V10.2.1.0.MBFMIXM/nikel_global_images_V10.2.1.0.MBFMIXM_20190123.0000.00_6.0_global_d9955053f2.tgz"
-  },
-  {
     "device": "opal_global",
     "base_codename": "opal",
     "market_names": [
@@ -2029,6 +2091,21 @@
     "codebase": "13.0",
     "md5": "1d9ff9372971935e18bf090787ea250a",
     "download_url": "https://bigota.d.miui.com/OS1.0.1.0.TGLMIXM/opal_global_images_OS1.0.1.0.TGLMIXM_20240226.0000.00_13.0_global_1d9ff93729.tgz"
+  },
+  {
+    "device": "organ_global",
+    "base_codename": "organ",
+    "market_names": [
+      "Redmi Pad 2 Pro 5G"
+    ],
+    "name": "Redmi Pad 2 Pro 5G",
+    "region": "Global",
+    "version": "OS3.0.301.0.WPXMIXM",
+    "filename": "organ_global_images_OS3.0.301.0.WPXMIXM_20260616.0000.00_16.0_global_230bd8dd70.tgz",
+    "filesize": "6.6G",
+    "codebase": "16.0",
+    "md5": "230bd8dd709542779eb2b56d7b215973",
+    "download_url": "https://bigota.d.miui.com/OS3.0.301.0.WPXMIXM/organ_global_images_OS3.0.301.0.WPXMIXM_20260616.0000.00_16.0_global_230bd8dd70.tgz"
   },
   {
     "device": "oxygen_global",
@@ -2092,36 +2169,6 @@
     "download_url": "https://bigota.d.miui.com/OS3.0.303.0.WPYMIXM/piano_global_images_OS3.0.303.0.WPYMIXM_20260626.0000.00_16.0_global_12f8990337.tgz"
   },
   {
-    "device": "lilac_jp_global",
-    "base_codename": "lilac",
-    "market_names": [
-      "Redmi Note 10T (Japan)"
-    ],
-    "name": "Redmi Note 10T (Japan)",
-    "region": "Japan",
-    "version": "V14.0.34.0.TKNJPXM",
-    "filename": "lilac_jp_global_images_V14.0.34.0.TKNJPXM_20250225.0000.00_13.0_jp_3c554078c9.tgz",
-    "filesize": "4.8G",
-    "codebase": "13.0",
-    "md5": "3c554078c9e44893db15dbcc6f236c78",
-    "download_url": "https://bigota.d.miui.com/V14.0.34.0.TKNJPXM/lilac_jp_global_images_V14.0.34.0.TKNJPXM_20250225.0000.00_13.0_jp_3c554078c9.tgz"
-  },
-  {
-    "device": "organ_global",
-    "base_codename": "organ",
-    "market_names": [
-      "Redmi Pad 2 Pro 5G"
-    ],
-    "name": "Redmi Pad 2 Pro 5G",
-    "region": "Global",
-    "version": "OS3.0.301.0.WPXMIXM",
-    "filename": "organ_global_images_OS3.0.301.0.WPXMIXM_20260616.0000.00_16.0_global_230bd8dd70.tgz",
-    "filesize": "6.6G",
-    "codebase": "16.0",
-    "md5": "230bd8dd709542779eb2b56d7b215973",
-    "download_url": "https://bigota.d.miui.com/OS3.0.301.0.WPXMIXM/organ_global_images_OS3.0.301.0.WPXMIXM_20260616.0000.00_16.0_global_230bd8dd70.tgz"
-  },
-  {
     "device": "pine_global",
     "base_codename": "pine",
     "market_names": [
@@ -2137,22 +2184,6 @@
     "download_url": "https://bigota.d.miui.com/V12.5.2.0.QCMMIXM/pine_global_images_V12.5.2.0.QCMMIXM_20211220.0000.00_10.0_global_f96ebd6110.tgz"
   },
   {
-    "device": "olivewood_in_global",
-    "base_codename": "olivewood",
-    "market_names": [
-      "Redmi 8A Pro",
-      "Redmi 8A Dual"
-    ],
-    "name": "Redmi 8A Pro",
-    "region": "India",
-    "version": "V12.5.6.0.QCQINXM",
-    "filename": "olivewood_in_global_images_V12.5.6.0.QCQINXM_20211228.0000.00_10.0_in_b895f6bfc1.tgz",
-    "filesize": "2.4G",
-    "codebase": "10.0",
-    "md5": "b895f6bfc1cbb9ff9f72b64670545719",
-    "download_url": "https://bigota.d.miui.com/V12.5.6.0.QCQINXM/olivewood_in_global_images_V12.5.6.0.QCQINXM_20211228.0000.00_10.0_in_b895f6bfc1.tgz"
-  },
-  {
     "device": "pipa_global",
     "base_codename": "pipa",
     "market_names": [
@@ -2166,21 +2197,6 @@
     "codebase": "14.0",
     "md5": "5f1e2b108adf19c246ae386213e01e62",
     "download_url": "https://bigota.d.miui.com/OS2.0.16.0.UMZMIXM/pipa_global_images_OS2.0.16.0.UMZMIXM_20260414.0000.00_14.0_global_5f1e2b108a.tgz"
-  },
-  {
-    "device": "onc_in_global",
-    "base_codename": "onc",
-    "market_names": [
-      "Redmi Y3"
-    ],
-    "name": "Redmi Y3",
-    "region": "India",
-    "version": "V11.0.6.0.QFFINXM",
-    "filename": "onc_in_global_images_V11.0.6.0.QFFINXM_20210408.0000.00_10.0_in_f97b051544.tgz",
-    "filesize": "2.3G",
-    "codebase": "10.0",
-    "md5": "f97b0515444ee33b60cc722477781ebc",
-    "download_url": "https://bigota.d.miui.com/V11.0.6.0.QFFINXM/onc_in_global_images_V11.0.6.0.QFFINXM_20210408.0000.00_10.0_in_f97b051544.tgz"
   },
   {
     "device": "pissarro_global",
@@ -2200,21 +2216,6 @@
     "codebase": "13.0",
     "md5": "15179eb125f9bdd8cbc83a405715949f",
     "download_url": "https://bigota.d.miui.com/OS1.0.18.0.TKTMIXM/pissarro_global_images_OS1.0.18.0.TKTMIXM_20260409.0000.00_13.0_global_15179eb125.tgz"
-  },
-  {
-    "device": "nuwa_eea_global",
-    "base_codename": "nuwa",
-    "market_names": [
-      "Xiaomi 13 Pro"
-    ],
-    "name": "Xiaomi 13 Pro",
-    "region": "EEA",
-    "version": "OS3.0.302.0.WMBEUXM",
-    "filename": "nuwa_eea_global_images_OS3.0.302.0.WMBEUXM_20260701.0000.00_16.0_eea_bb359c3861.tgz",
-    "filesize": "6.8G",
-    "codebase": "16.0",
-    "md5": "bb359c3861fb79c1ece01a21477bd018",
-    "download_url": "https://bigota.d.miui.com/OS3.0.302.0.WMBEUXM/nuwa_eea_global_images_OS3.0.302.0.WMBEUXM_20260701.0000.00_16.0_eea_bb359c3861.tgz"
   },
   {
     "device": "platina_global",
@@ -2290,6 +2291,37 @@
     "codebase": "13.0",
     "md5": "f029ab1839d39e6406980b50cc3097f4",
     "download_url": "https://bigota.d.miui.com/OS1.0.9.0.TLDMIXM/psyche_global_images_OS1.0.9.0.TLDMIXM_20260407.0000.00_13.0_global_f029ab1839.tgz"
+  },
+  {
+    "device": "olivewood_in_global",
+    "base_codename": "olivewood",
+    "market_names": [
+      "Redmi 8A Pro",
+      "Redmi 8A Dual"
+    ],
+    "name": "Redmi 8A Pro",
+    "region": "India",
+    "version": "V12.5.6.0.QCQINXM",
+    "filename": "olivewood_in_global_images_V12.5.6.0.QCQINXM_20211228.0000.00_10.0_in_b895f6bfc1.tgz",
+    "filesize": "2.4G",
+    "codebase": "10.0",
+    "md5": "b895f6bfc1cbb9ff9f72b64670545719",
+    "download_url": "https://bigota.d.miui.com/V12.5.6.0.QCQINXM/olivewood_in_global_images_V12.5.6.0.QCQINXM_20211228.0000.00_10.0_in_b895f6bfc1.tgz"
+  },
+  {
+    "device": "onc_in_global",
+    "base_codename": "onc",
+    "market_names": [
+      "Redmi Y3"
+    ],
+    "name": "Redmi Y3",
+    "region": "India",
+    "version": "V11.0.6.0.QFFINXM",
+    "filename": "onc_in_global_images_V11.0.6.0.QFFINXM_20210408.0000.00_10.0_in_f97b051544.tgz",
+    "filesize": "2.3G",
+    "codebase": "10.0",
+    "md5": "f97b0515444ee33b60cc722477781ebc",
+    "download_url": "https://bigota.d.miui.com/V11.0.6.0.QFFINXM/onc_in_global_images_V11.0.6.0.QFFINXM_20210408.0000.00_10.0_in_f97b051544.tgz"
   },
   {
     "device": "pudding_global",
@@ -2400,6 +2432,21 @@
     "download_url": "https://bigota.d.miui.com/OS1.0.12.0.ULUMIXM/rock_global_images_OS1.0.12.0.ULUMIXM_20241012.0000.00_14.0_global_b5a4c2b376.tgz"
   },
   {
+    "device": "lilac_jp_global",
+    "base_codename": "lilac",
+    "market_names": [
+      "Redmi Note 10T (Japan)"
+    ],
+    "name": "Redmi Note 10T (Japan)",
+    "region": "Japan",
+    "version": "V14.0.34.0.TKNJPXM",
+    "filename": "lilac_jp_global_images_V14.0.34.0.TKNJPXM_20250225.0000.00_13.0_jp_3c554078c9.tgz",
+    "filesize": "4.8G",
+    "codebase": "13.0",
+    "md5": "3c554078c9e44893db15dbcc6f236c78",
+    "download_url": "https://bigota.d.miui.com/V14.0.34.0.TKNJPXM/lilac_jp_global_images_V14.0.34.0.TKNJPXM_20250225.0000.00_13.0_jp_3c554078c9.tgz"
+  },
+  {
     "device": "rodin_global",
     "base_codename": "rodin",
     "market_names": [
@@ -2508,6 +2555,23 @@
     "download_url": "https://bigota.d.miui.com/OS3.0.302.0.WFSMIXM/ruan_global_images_OS3.0.302.0.WFSMIXM_20260709.0000.00_16.0_global_772b74fd81.tgz"
   },
   {
+    "device": "ruby_global",
+    "base_codename": "ruby",
+    "market_names": [
+      "Redmi Note 12 Pro",
+      "Redmi Note 12 Pro+",
+      "Redmi Note 12 Explorer"
+    ],
+    "name": "Redmi Note 12 Pro",
+    "region": "Global",
+    "version": "OS2.0.14.0.UMOMIXM",
+    "filename": "ruby_global_images_OS2.0.14.0.UMOMIXM_20260616.0000.00_14.0_global_d7f22c84d9.tgz",
+    "filesize": "6.6G",
+    "codebase": "14.0",
+    "md5": "d7f22c84d90eb8109c6479aa94bba70a",
+    "download_url": "https://bigota.d.miui.com/OS2.0.14.0.UMOMIXM/ruby_global_images_OS2.0.14.0.UMOMIXM_20260616.0000.00_14.0_global_d7f22c84d9.tgz"
+  },
+  {
     "device": "ruyi_global",
     "base_codename": "ruyi",
     "market_names": [
@@ -2553,23 +2617,6 @@
     "download_url": "https://bigota.d.miui.com/V11.0.2.0.NAMMIXM/santoni_global_images_V11.0.2.0.NAMMIXM_20191107.0000.00_7.1_global_99c087db02.tgz"
   },
   {
-    "device": "ruby_global",
-    "base_codename": "ruby",
-    "market_names": [
-      "Redmi Note 12 Pro",
-      "Redmi Note 12 Pro+",
-      "Redmi Note 12 Explorer"
-    ],
-    "name": "Redmi Note 12 Pro",
-    "region": "Global",
-    "version": "OS2.0.14.0.UMOMIXM",
-    "filename": "ruby_global_images_OS2.0.14.0.UMOMIXM_20260616.0000.00_14.0_global_d7f22c84d9.tgz",
-    "filesize": "6.6G",
-    "codebase": "14.0",
-    "md5": "d7f22c84d90eb8109c6479aa94bba70a",
-    "download_url": "https://bigota.d.miui.com/OS2.0.14.0.UMOMIXM/ruby_global_images_OS2.0.14.0.UMOMIXM_20260616.0000.00_14.0_global_d7f22c84d9.tgz"
-  },
-  {
     "device": "sapphire_global",
     "base_codename": "sapphire",
     "market_names": [
@@ -2583,21 +2630,6 @@
     "codebase": "15.0",
     "md5": "c1fc37f37091548d6185e1619bc0f06d",
     "download_url": "https://bigota.d.miui.com/OS2.0.211.0.VNGMIXM/sapphire_global_images_OS2.0.211.0.VNGMIXM_20260527.0000.00_15.0_global_c1fc37f370.tgz"
-  },
-  {
-    "device": "scorpio_global",
-    "base_codename": "scorpio",
-    "market_names": [
-      "Mi Note 2"
-    ],
-    "name": "Mi Note 2",
-    "region": "Global",
-    "version": "V11.0.2.0.OADMIXM",
-    "filename": "scorpio_global_images_V11.0.2.0.OADMIXM_20191023.0000.00_8.0_global_c8b7caa59d.tgz",
-    "filesize": "1.7G",
-    "codebase": "8.0",
-    "md5": "c8b7caa59d429cc5c5219e6795f17585",
-    "download_url": "https://bigota.d.miui.com/V11.0.2.0.OADMIXM/scorpio_global_images_V11.0.2.0.OADMIXM_20191023.0000.00_8.0_global_c8b7caa59d.tgz"
   },
   {
     "device": "sapphiren_global",
@@ -2628,6 +2660,21 @@
     "codebase": "15.0",
     "md5": "c9cd4baea4e0f6528c2bc99b2bd80436",
     "download_url": "https://bigota.d.miui.com/OS2.0.212.0.VHZMIXM/sea_global_images_OS2.0.212.0.VHZMIXM_20260331.0000.00_15.0_global_c9cd4baea4.tgz"
+  },
+  {
+    "device": "scorpio_global",
+    "base_codename": "scorpio",
+    "market_names": [
+      "Mi Note 2"
+    ],
+    "name": "Mi Note 2",
+    "region": "Global",
+    "version": "V11.0.2.0.OADMIXM",
+    "filename": "scorpio_global_images_V11.0.2.0.OADMIXM_20191023.0000.00_8.0_global_c8b7caa59d.tgz",
+    "filesize": "1.7G",
+    "codebase": "8.0",
+    "md5": "c8b7caa59d429cc5c5219e6795f17585",
+    "download_url": "https://bigota.d.miui.com/V11.0.2.0.OADMIXM/scorpio_global_images_V11.0.2.0.OADMIXM_20191023.0000.00_8.0_global_c8b7caa59d.tgz"
   },
   {
     "device": "selene_global",
@@ -2710,21 +2757,6 @@
     "download_url": "https://bigota.d.miui.com/OS3.0.302.0.WHYMIXM/spark_global_images_OS3.0.302.0.WHYMIXM_20260514.0000.00_16.0_global_cd3fb5bfcc.tgz"
   },
   {
-    "device": "spes_global",
-    "base_codename": "spes",
-    "market_names": [
-      "Redmi Note 11"
-    ],
-    "name": "Redmi Note 11",
-    "region": "Global",
-    "version": "V816.0.8.0.TGCMIXM",
-    "filename": "spes_global_images_OS1.0.8.0.TGCMIXM_20240929.0000.00_13.0_global_2ba81a8074.tgz",
-    "filesize": "5.8G",
-    "codebase": "13.0",
-    "md5": "2ba81a8074bbe8a9999c8aff5ade62c4",
-    "download_url": "https://bigota.d.miui.com/OS1.0.8.0.TGCMIXM/spes_global_images_OS1.0.8.0.TGCMIXM_20240929.0000.00_13.0_global_2ba81a8074.tgz"
-  },
-  {
     "device": "spesn_global",
     "base_codename": "spesn",
     "market_names": [
@@ -2740,21 +2772,51 @@
     "download_url": "https://bigota.d.miui.com/OS1.0.11.0.TGKMIXM/spesn_global_images_OS1.0.11.0.TGKMIXM_20250417.0000.00_13.0_global_3a948ed413.tgz"
   },
   {
-    "device": "flame_in_global",
-    "base_codename": "flame",
+    "device": "spes_global",
+    "base_codename": "spes",
     "market_names": [
-      "Redmi 14R 5G",
-      "Redmi 14C 5G",
-      "POCO M7 5G"
+      "Redmi Note 11"
     ],
-    "name": "Redmi 14R 5G",
-    "region": "India",
-    "version": "OS3.0.302.0.WGUINXM",
-    "filename": "flame_in_global_images_OS3.0.302.0.WGUINXM_20260715.0000.00_16.0_in_53b7be13b2.tgz",
-    "filesize": "6.1G",
+    "name": "Redmi Note 11",
+    "region": "Global",
+    "version": "V816.0.8.0.TGCMIXM",
+    "filename": "spes_global_images_OS1.0.8.0.TGCMIXM_20240929.0000.00_13.0_global_2ba81a8074.tgz",
+    "filesize": "5.8G",
+    "codebase": "13.0",
+    "md5": "2ba81a8074bbe8a9999c8aff5ade62c4",
+    "download_url": "https://bigota.d.miui.com/OS1.0.8.0.TGCMIXM/spes_global_images_OS1.0.8.0.TGCMIXM_20240929.0000.00_13.0_global_2ba81a8074.tgz"
+  },
+  {
+    "device": "spinel_global",
+    "base_codename": "spinel",
+    "market_names": [
+      "Redmi Note 15 4G"
+    ],
+    "name": "Redmi Note 15 4G",
+    "region": "Global",
+    "version": "OS3.0.301.0.WPGMIXM",
+    "filename": "spinel_global_images_OS3.0.301.0.WPGMIXM_20260509.0000.00_16.0_global_77d160a6fe.tgz",
+    "filesize": "9.2G",
     "codebase": "16.0",
-    "md5": "53b7be13b22bfa991cb65f3de4ea8bc1",
-    "download_url": "https://bigota.d.miui.com/OS3.0.302.0.WGUINXM/flame_in_global_images_OS3.0.302.0.WGUINXM_20260715.0000.00_16.0_in_53b7be13b2.tgz"
+    "md5": "77d160a6fef10e727210a876c6d685b5",
+    "download_url": "https://bigota.d.miui.com/OS3.0.301.0.WPGMIXM/spinel_global_images_OS3.0.301.0.WPGMIXM_20260509.0000.00_16.0_global_77d160a6fe.tgz"
+  },
+  {
+    "device": "spring_global",
+    "base_codename": "spring",
+    "market_names": [
+      "Redmi 15 5G",
+      "Redmi Note 15R",
+      "POCO M7 Plus 5G"
+    ],
+    "name": "Redmi 15 5G",
+    "region": "Global",
+    "version": "OS3.0.302.0.WOUMIXM",
+    "filename": "spring_global_images_OS3.0.302.0.WOUMIXM_20260523.0000.00_16.0_global_9ced7f9186.tgz",
+    "filesize": "7.8G",
+    "codebase": "16.0",
+    "md5": "9ced7f9186c15fd2c33fee4e223b5e1a",
+    "download_url": "https://bigota.d.miui.com/OS3.0.302.0.WOUMIXM/spring_global_images_OS3.0.302.0.WOUMIXM_20260523.0000.00_16.0_global_9ced7f9186.tgz"
   },
   {
     "device": "star_global",
@@ -2833,6 +2895,21 @@
     "download_url": "https://bigota.d.miui.com/OS1.0.34.0.THGMIXM/sweet_k6a_global_images_OS1.0.34.0.THGMIXM_20260513.0000.00_13.0_global_db576dd8ef.tgz"
   },
   {
+    "device": "taiko_global",
+    "base_codename": "taiko",
+    "market_names": [
+      "Redmi Pad 2"
+    ],
+    "name": "Redmi Pad 2",
+    "region": "Global",
+    "version": "OS3.0.302.0.WOVMIXM",
+    "filename": "taiko_global_images_OS3.0.302.0.WOVMIXM_20260706.0000.00_16.0_global_c403413d9a.tgz",
+    "filesize": "7.1G",
+    "codebase": "16.0",
+    "md5": "c403413d9a2578408e7473d4d608d9e1",
+    "download_url": "https://bigota.d.miui.com/OS3.0.302.0.WOVMIXM/taiko_global_images_OS3.0.302.0.WOVMIXM_20260706.0000.00_16.0_global_c403413d9a.tgz"
+  },
+  {
     "device": "tanzanite_global",
     "base_codename": "tanzanite",
     "market_names": [
@@ -2878,38 +2955,6 @@
     "download_url": "https://bigota.d.miui.com/OS2.0.207.0.VMTMIXM/tapas_global_images_OS2.0.207.0.VMTMIXM_20260412.0000.00_15.0_global_09488c21cc.tgz"
   },
   {
-    "device": "spinel_global",
-    "base_codename": "spinel",
-    "market_names": [
-      "Redmi Note 15 4G"
-    ],
-    "name": "Redmi Note 15 4G",
-    "region": "Global",
-    "version": "OS3.0.301.0.WPGMIXM",
-    "filename": "spinel_global_images_OS3.0.301.0.WPGMIXM_20260509.0000.00_16.0_global_77d160a6fe.tgz",
-    "filesize": "9.2G",
-    "codebase": "16.0",
-    "md5": "77d160a6fef10e727210a876c6d685b5",
-    "download_url": "https://bigota.d.miui.com/OS3.0.301.0.WPGMIXM/spinel_global_images_OS3.0.301.0.WPGMIXM_20260509.0000.00_16.0_global_77d160a6fe.tgz"
-  },
-  {
-    "device": "spring_global",
-    "base_codename": "spring",
-    "market_names": [
-      "Redmi 15 5G",
-      "Redmi Note 15R",
-      "POCO M7 Plus 5G"
-    ],
-    "name": "Redmi 15 5G",
-    "region": "Global",
-    "version": "OS3.0.302.0.WOUMIXM",
-    "filename": "spring_global_images_OS3.0.302.0.WOUMIXM_20260523.0000.00_16.0_global_9ced7f9186.tgz",
-    "filesize": "7.8G",
-    "codebase": "16.0",
-    "md5": "9ced7f9186c15fd2c33fee4e223b5e1a",
-    "download_url": "https://bigota.d.miui.com/OS3.0.302.0.WOUMIXM/spring_global_images_OS3.0.302.0.WOUMIXM_20260523.0000.00_16.0_global_9ced7f9186.tgz"
-  },
-  {
     "device": "toco_global",
     "base_codename": "toco",
     "market_names": [
@@ -2925,19 +2970,19 @@
     "download_url": "https://bigota.d.miui.com/V13.0.4.0.SFNMIXM/toco_global_images_V13.0.4.0.SFNMIXM_20221026.0000.00_12.0_global_3da65774e7.tgz"
   },
   {
-    "device": "shiva_in_global",
-    "base_codename": "shiva",
+    "device": "topaz_global",
+    "base_codename": "topaz",
     "market_names": [
-      "Poco M2"
+      "Redmi Note 12 4G NFC"
     ],
-    "name": "Poco M2",
-    "region": "India",
-    "version": "V12.5.7.0.RJRINXM",
-    "filename": "shiva_in_global_images_V12.5.7.0.RJRINXM_20220727.0000.00_11.0_in_ea3f195178.tgz",
-    "filesize": "2.7G",
-    "codebase": "11.0",
-    "md5": "ea3f19517889beebf9a0b312b616d853",
-    "download_url": "https://bigota.d.miui.com/V12.5.7.0.RJRINXM/shiva_in_global_images_V12.5.7.0.RJRINXM_20220727.0000.00_11.0_in_ea3f195178.tgz"
+    "name": "Redmi Note 12 4G NFC",
+    "region": "Global",
+    "version": "OS2.0.205.0.VMGMIXM",
+    "filename": "topaz_global_images_OS2.0.205.0.VMGMIXM_20260509.0000.00_15.0_global_e0171fd44e.tgz",
+    "filesize": "7.1G",
+    "codebase": "15.0",
+    "md5": "e0171fd44eb843fbe606a5bc7f9afcdf",
+    "download_url": "https://bigota.d.miui.com/OS2.0.205.0.VMGMIXM/topaz_global_images_OS2.0.205.0.VMGMIXM_20260509.0000.00_15.0_global_e0171fd44e.tgz"
   },
   {
     "device": "tornado_global",
@@ -2973,36 +3018,6 @@
     "download_url": "https://bigota.d.miui.com/V13.0.2.0.RFDMIXM/tucana_global_images_V13.0.2.0.RFDMIXM_20220908.0000.00_11.0_global_feef0e8faf.tgz"
   },
   {
-    "device": "taiko_global",
-    "base_codename": "taiko",
-    "market_names": [
-      "Redmi Pad 2"
-    ],
-    "name": "Redmi Pad 2",
-    "region": "Global",
-    "version": "OS3.0.302.0.WOVMIXM",
-    "filename": "taiko_global_images_OS3.0.302.0.WOVMIXM_20260706.0000.00_16.0_global_c403413d9a.tgz",
-    "filesize": "7.1G",
-    "codebase": "16.0",
-    "md5": "c403413d9a2578408e7473d4d608d9e1",
-    "download_url": "https://bigota.d.miui.com/OS3.0.302.0.WOVMIXM/taiko_global_images_OS3.0.302.0.WOVMIXM_20260706.0000.00_16.0_global_c403413d9a.tgz"
-  },
-  {
-    "device": "tulip_global",
-    "base_codename": "tulip",
-    "market_names": [
-      "Redmi Note 6 Pro"
-    ],
-    "name": "Redmi Note 6 Pro",
-    "region": "Global",
-    "version": "V12.0.1.0.PEKMIXM",
-    "filename": "tulip_global_images_V12.0.1.0.PEKMIXM_20201229.0000.00_9.0_global_ac26982758.tgz",
-    "filesize": "2.4G",
-    "codebase": "9.0",
-    "md5": "ac2698275889d996a038311917b789c0",
-    "download_url": "https://bigota.d.miui.com/V12.0.1.0.PEKMIXM/tulip_global_images_V12.0.1.0.PEKMIXM_20201229.0000.00_9.0_global_ac26982758.tgz"
-  },
-  {
     "device": "turner_global",
     "base_codename": "turner",
     "market_names": [
@@ -3018,19 +3033,19 @@
     "download_url": "https://bigota.d.miui.com/OS3.0.303.0.WAOMIXM/turner_global_images_OS3.0.303.0.WAOMIXM_20260623.0000.00_16.0_global_6ca4403e0c.tgz"
   },
   {
-    "device": "somalia_in_global",
-    "base_codename": "somalia",
+    "device": "tulip_global",
+    "base_codename": "tulip",
     "market_names": [
-      "POCO C85x 5G"
+      "Redmi Note 6 Pro"
     ],
-    "name": "POCO C85x 5G",
-    "region": "India",
-    "version": "OS3.0.11.0.WBWINXM",
-    "filename": "somalia_in_global-images-OS3.0.11.0.WBWINXM-user-20260616.0000.00-16.0-in-6eb66f6f6f.tgz",
-    "filesize": "6.2G",
-    "codebase": "16.0",
-    "md5": "6eb66f6f6f493953ab1c4399d8ff1d83",
-    "download_url": "https://bigota.d.miui.com/OS3.0.11.0.WBWINXM/somalia_in_global-images-OS3.0.11.0.WBWINXM-user-20260616.0000.00-16.0-in-6eb66f6f6f.tgz"
+    "name": "Redmi Note 6 Pro",
+    "region": "Global",
+    "version": "V12.0.1.0.PEKMIXM",
+    "filename": "tulip_global_images_V12.0.1.0.PEKMIXM_20201229.0000.00_9.0_global_ac26982758.tgz",
+    "filesize": "2.4G",
+    "codebase": "9.0",
+    "md5": "ac2698275889d996a038311917b789c0",
+    "download_url": "https://bigota.d.miui.com/V12.0.1.0.PEKMIXM/tulip_global_images_V12.0.1.0.PEKMIXM_20201229.0000.00_9.0_global_ac26982758.tgz"
   },
   {
     "device": "ugg_global",
@@ -3063,6 +3078,21 @@
     "download_url": "https://bigota.d.miui.com/V11.0.3.0.NDFMIXM/ugglite_global_images_V11.0.3.0.NDFMIXM_20191022.0000.00_7.1_global_9e48e63f94.tgz"
   },
   {
+    "device": "shiva_in_global",
+    "base_codename": "shiva",
+    "market_names": [
+      "Poco M2"
+    ],
+    "name": "Poco M2",
+    "region": "India",
+    "version": "V12.5.7.0.RJRINXM",
+    "filename": "shiva_in_global_images_V12.5.7.0.RJRINXM_20220727.0000.00_11.0_in_ea3f195178.tgz",
+    "filesize": "2.7G",
+    "codebase": "11.0",
+    "md5": "ea3f19517889beebf9a0b312b616d853",
+    "download_url": "https://bigota.d.miui.com/V12.5.7.0.RJRINXM/shiva_in_global_images_V12.5.7.0.RJRINXM_20220727.0000.00_11.0_in_ea3f195178.tgz"
+  },
+  {
     "device": "uke_global",
     "base_codename": "uke",
     "market_names": [
@@ -3093,6 +3123,21 @@
     "download_url": "https://bigota.d.miui.com/OS1.0.4.0.TJBMIXM/umi_global_images_OS1.0.4.0.TJBMIXM_20251228.0000.00_13.0_global_58579d06ce.tgz"
   },
   {
+    "device": "somalia_in_global",
+    "base_codename": "somalia",
+    "market_names": [
+      "POCO C85x 5G"
+    ],
+    "name": "POCO C85x 5G",
+    "region": "India",
+    "version": "OS3.0.11.0.WBWINXM",
+    "filename": "somalia_in_global-images-OS3.0.11.0.WBWINXM-user-20260616.0000.00-16.0-in-6eb66f6f6f.tgz",
+    "filesize": "6.2G",
+    "codebase": "16.0",
+    "md5": "6eb66f6f6f493953ab1c4399d8ff1d83",
+    "download_url": "https://bigota.d.miui.com/OS3.0.11.0.WBWINXM/somalia_in_global-images-OS3.0.11.0.WBWINXM-user-20260616.0000.00-16.0-in-6eb66f6f6f.tgz"
+  },
+  {
     "device": "vayu_global",
     "base_codename": "vayu",
     "market_names": [
@@ -3106,21 +3151,6 @@
     "codebase": "12.0",
     "md5": "04cf9ad2254d1457897b6ebb98b22dbd",
     "download_url": "https://bigota.d.miui.com/V13.0.3.0.SJUMIXM/vayu_global_images_V13.0.3.0.SJUMIXM_20220226.0000.00_12.0_global_04cf9ad225.tgz"
-  },
-  {
-    "device": "venus_global",
-    "base_codename": "venus",
-    "market_names": [
-      "Mi 11"
-    ],
-    "name": "Mi 11",
-    "region": "Global",
-    "version": "OS2.0.3.0.UKBMIXM",
-    "filename": "venus_global_images_OS2.0.3.0.UKBMIXM_20251227.0000.00_14.0_global_32d5e16e93.tgz",
-    "filesize": "6.2G",
-    "codebase": "14.0",
-    "md5": "32d5e16e931b0dfbb712f4851f664e34",
-    "download_url": "https://bigota.d.miui.com/OS2.0.3.0.UKBMIXM/venus_global_images_OS2.0.3.0.UKBMIXM_20251227.0000.00_14.0_global_32d5e16e93.tgz"
   },
   {
     "device": "vermeer_global",
@@ -3139,6 +3169,21 @@
     "download_url": "https://bigota.d.miui.com/OS3.0.303.0.WNKMIXM/vermeer_global_images_OS3.0.303.0.WNKMIXM_20260622.0000.00_16.0_global_de856600c0.tgz"
   },
   {
+    "device": "venus_global",
+    "base_codename": "venus",
+    "market_names": [
+      "Mi 11"
+    ],
+    "name": "Mi 11",
+    "region": "Global",
+    "version": "OS2.0.3.0.UKBMIXM",
+    "filename": "venus_global_images_OS2.0.3.0.UKBMIXM_20251227.0000.00_14.0_global_32d5e16e93.tgz",
+    "filesize": "6.2G",
+    "codebase": "14.0",
+    "md5": "32d5e16e931b0dfbb712f4851f664e34",
+    "download_url": "https://bigota.d.miui.com/OS2.0.3.0.UKBMIXM/venus_global_images_OS2.0.3.0.UKBMIXM_20251227.0000.00_14.0_global_32d5e16e93.tgz"
+  },
+  {
     "device": "veux_global",
     "base_codename": "veux",
     "market_names": [
@@ -3155,21 +3200,6 @@
     "codebase": "13.0",
     "md5": "cda1240a451dd4f75776878b52f0cea3",
     "download_url": "https://bigota.d.miui.com/OS1.0.12.0.TKCMIXM/veux_global_images_OS1.0.12.0.TKCMIXM_20241205.0000.00_13.0_global_cda1240a45.tgz"
-  },
-  {
-    "device": "topaz_global",
-    "base_codename": "topaz",
-    "market_names": [
-      "Redmi Note 12 4G NFC"
-    ],
-    "name": "Redmi Note 12 4G NFC",
-    "region": "Global",
-    "version": "OS2.0.205.0.VMGMIXM",
-    "filename": "topaz_global_images_OS2.0.205.0.VMGMIXM_20260509.0000.00_15.0_global_e0171fd44e.tgz",
-    "filesize": "7.1G",
-    "codebase": "15.0",
-    "md5": "e0171fd44eb843fbe606a5bc7f9afcdf",
-    "download_url": "https://bigota.d.miui.com/OS2.0.205.0.VMGMIXM/topaz_global_images_OS2.0.205.0.VMGMIXM_20260509.0000.00_15.0_global_e0171fd44e.tgz"
   },
   {
     "device": "vili_global",
@@ -3202,6 +3232,22 @@
     "download_url": "https://bigota.d.miui.com/V11.0.2.0.OEGMIXM/vince_global_images_V11.0.2.0.OEGMIXM_20191108.0000.00_8.1_global_90dd70aa99.tgz"
   },
   {
+    "device": "sweetin_in_global",
+    "base_codename": "sweetin",
+    "market_names": [
+      "Redmi Note 10 Pro",
+      "Redmi Note 10 Pro Max (India)"
+    ],
+    "name": "Redmi Note 10 Pro",
+    "region": "India",
+    "version": "V13.0.10.0.SKFINXM",
+    "filename": "sweetin_in_global_images_V13.0.10.0.SKFINXM_20230220.0000.00_12.0_in_d1e14fab7e.tgz",
+    "filesize": "3.7G",
+    "codebase": "12.0",
+    "md5": "d1e14fab7e37ea660f043689587d44b3",
+    "download_url": "https://bigota.d.miui.com/V13.0.10.0.SKFINXM/sweetin_in_global_images_V13.0.10.0.SKFINXM_20230220.0000.00_12.0_in_d1e14fab7e.tgz"
+  },
+  {
     "device": "virgo_global",
     "base_codename": "virgo",
     "market_names": [
@@ -3215,21 +3261,6 @@
     "codebase": "6.0",
     "md5": "4d653339a5c5e534e838a1b69654de15",
     "download_url": "https://bigota.d.miui.com/V9.5.1.0.MXEMIFA/virgo_global_images_V9.5.1.0.MXEMIFA_20180406.0000.00_6.0_global_4d653339a5.tgz"
-  },
-  {
-    "device": "viva_global",
-    "base_codename": "viva",
-    "market_names": [
-      "Redmi Note 11 Pro 4G"
-    ],
-    "name": "Redmi Note 11 Pro 4G",
-    "region": "Global",
-    "version": "V816.0.4.0.TGDMIXM",
-    "filename": "viva_global_images_OS1.0.4.0.TGDMIXM_20240805.0000.00_13.0_global_edef5baf9d.tgz",
-    "filesize": "5.7G",
-    "codebase": "13.0",
-    "md5": "edef5baf9d43e4d326894ba94b829cc8",
-    "download_url": "https://bigota.d.miui.com/OS1.0.4.0.TGDMIXM/viva_global_images_OS1.0.4.0.TGDMIXM_20240805.0000.00_13.0_global_edef5baf9d.tgz"
   },
   {
     "device": "warhol_global",
@@ -3247,6 +3278,21 @@
     "download_url": "https://bigota.d.miui.com/OS3.0.309.0.WPSMIXM/warhol_global_images_OS3.0.309.0.WPSMIXM_20260708.0000.00_16.0_global_b05ed82735.tgz"
   },
   {
+    "device": "viva_global",
+    "base_codename": "viva",
+    "market_names": [
+      "Redmi Note 11 Pro 4G"
+    ],
+    "name": "Redmi Note 11 Pro 4G",
+    "region": "Global",
+    "version": "V816.0.4.0.TGDMIXM",
+    "filename": "viva_global_images_OS1.0.4.0.TGDMIXM_20240805.0000.00_13.0_global_edef5baf9d.tgz",
+    "filesize": "5.7G",
+    "codebase": "13.0",
+    "md5": "edef5baf9d43e4d326894ba94b829cc8",
+    "download_url": "https://bigota.d.miui.com/OS1.0.4.0.TGDMIXM/viva_global_images_OS1.0.4.0.TGDMIXM_20240805.0000.00_13.0_global_edef5baf9d.tgz"
+  },
+  {
     "device": "whyred_global",
     "base_codename": "whyred",
     "market_names": [
@@ -3262,6 +3308,21 @@
     "download_url": "https://bigota.d.miui.com/V11.0.5.0.PEIMIXM/whyred_global_images_V11.0.5.0.PEIMIXM_20200917.0000.00_9.0_global_46113830ee.tgz"
   },
   {
+    "device": "willow_global",
+    "base_codename": "willow",
+    "market_names": [
+      "Redmi Note 8T"
+    ],
+    "name": "Redmi Note 8T",
+    "region": "Global",
+    "version": "V12.5.6.0.RCXMIXM",
+    "filename": "willow_global_images_V12.5.6.0.RCXMIXM_20220623.0000.00_11.0_global_f58e9a4cc8.tgz",
+    "filesize": "3.7G",
+    "codebase": "11.0",
+    "md5": "f58e9a4cc82d8800d091d3ca1cdeafdf",
+    "download_url": "https://bigota.d.miui.com/V12.5.6.0.RCXMIXM/willow_global_images_V12.5.6.0.RCXMIXM_20220623.0000.00_11.0_global_f58e9a4cc8.tgz"
+  },
+  {
     "device": "wt88047_global",
     "base_codename": "wt88047",
     "market_names": [
@@ -3275,6 +3336,21 @@
     "codebase": "4.4",
     "md5": "c5fecbbd3a7a0e030b854eb8c20e1bec",
     "download_url": "https://bigota.d.miui.com/V8.2.1.0.KHJMIDL/wt88047_global_images_V8.2.1.0.KHJMIDL_20170214.0000.00_4.4_global_c5fecbbd3a.tgz"
+  },
+  {
+    "device": "xuanyuan_global",
+    "base_codename": "xuanyuan",
+    "market_names": [
+      "Xiaomi 15 Ultra"
+    ],
+    "name": "Xiaomi 15 Ultra",
+    "region": "Global",
+    "version": "OS3.0.301.0.WOAMIXM",
+    "filename": "xuanyuan_global_images_OS3.0.301.0.WOAMIXM_20260428.0000.00_16.0_global_d98a2e098d.tgz",
+    "filesize": "11G",
+    "codebase": "16.0",
+    "md5": "d98a2e098d554fc03ac4ce4bcee3b155",
+    "download_url": "https://bigota.d.miui.com/OS3.0.301.0.WOAMIXM/xuanyuan_global_images_OS3.0.301.0.WOAMIXM_20260428.0000.00_16.0_global_d98a2e098d.tgz"
   },
   {
     "device": "xaga_global",
@@ -3295,21 +3371,6 @@
     "download_url": "https://bigota.d.miui.com/OS2.0.3.0.ULOMIXM/xaga_global_images_OS2.0.3.0.ULOMIXM_20250618.0000.00_14.0_global_8140a7f767.tgz"
   },
   {
-    "device": "xuanyuan_global",
-    "base_codename": "xuanyuan",
-    "market_names": [
-      "Xiaomi 15 Ultra"
-    ],
-    "name": "Xiaomi 15 Ultra",
-    "region": "Global",
-    "version": "OS3.0.301.0.WOAMIXM",
-    "filename": "xuanyuan_global_images_OS3.0.301.0.WOAMIXM_20260428.0000.00_16.0_global_d98a2e098d.tgz",
-    "filesize": "11G",
-    "codebase": "16.0",
-    "md5": "d98a2e098d554fc03ac4ce4bcee3b155",
-    "download_url": "https://bigota.d.miui.com/OS3.0.301.0.WOAMIXM/xuanyuan_global_images_OS3.0.301.0.WOAMIXM_20260428.0000.00_16.0_global_d98a2e098d.tgz"
-  },
-  {
     "device": "xun_global",
     "base_codename": "xun",
     "market_names": [
@@ -3323,37 +3384,6 @@
     "codebase": "15.0",
     "md5": "0dee6f46cfdb2b0f3553ee2857cc83dc",
     "download_url": "https://bigota.d.miui.com/OS2.0.209.0.VMUMIXM/xun_global_images_OS2.0.209.0.VMUMIXM_20260622.0000.00_15.0_global_0dee6f46cf.tgz"
-  },
-  {
-    "device": "willow_global",
-    "base_codename": "willow",
-    "market_names": [
-      "Redmi Note 8T"
-    ],
-    "name": "Redmi Note 8T",
-    "region": "Global",
-    "version": "V12.5.6.0.RCXMIXM",
-    "filename": "willow_global_images_V12.5.6.0.RCXMIXM_20220623.0000.00_11.0_global_f58e9a4cc8.tgz",
-    "filesize": "3.7G",
-    "codebase": "11.0",
-    "md5": "f58e9a4cc82d8800d091d3ca1cdeafdf",
-    "download_url": "https://bigota.d.miui.com/V12.5.6.0.RCXMIXM/willow_global_images_V12.5.6.0.RCXMIXM_20220623.0000.00_11.0_global_f58e9a4cc8.tgz"
-  },
-  {
-    "device": "sweetin_in_global",
-    "base_codename": "sweetin",
-    "market_names": [
-      "Redmi Note 10 Pro",
-      "Redmi Note 10 Pro Max (India)"
-    ],
-    "name": "Redmi Note 10 Pro",
-    "region": "India",
-    "version": "V13.0.10.0.SKFINXM",
-    "filename": "sweetin_in_global_images_V13.0.10.0.SKFINXM_20230220.0000.00_12.0_in_d1e14fab7e.tgz",
-    "filesize": "3.7G",
-    "codebase": "12.0",
-    "md5": "d1e14fab7e37ea660f043689587d44b3",
-    "download_url": "https://bigota.d.miui.com/V13.0.10.0.SKFINXM/sweetin_in_global_images_V13.0.10.0.SKFINXM_20230220.0000.00_12.0_in_d1e14fab7e.tgz"
   },
   {
     "device": "ysl_global",
@@ -3371,37 +3401,6 @@
     "download_url": "https://bigota.d.miui.com/V12.0.2.0.PEFMIXM/ysl_global_images_V12.0.2.0.PEFMIXM_20200924.0000.00_9.0_global_e800582a81.tgz"
   },
   {
-    "device": "violet_in_global",
-    "base_codename": "violet",
-    "market_names": [
-      "Redmi Note 7 Pro"
-    ],
-    "name": "Redmi Note 7 Pro",
-    "region": "India",
-    "version": "V12.5.1.0.QFHINXM",
-    "filename": "violet_in_global_images_V12.5.1.0.QFHINXM_20210908.0000.00_10.0_in_107a215f5e.tgz",
-    "filesize": "2.7G",
-    "codebase": "10.0",
-    "md5": "107a215f5eddc0c3903a2e3a7da8d215",
-    "download_url": "https://bigota.d.miui.com/V12.5.1.0.QFHINXM/violet_in_global_images_V12.5.1.0.QFHINXM_20210908.0000.00_10.0_in_107a215f5e.tgz"
-  },
-  {
-    "device": "warm_in_global",
-    "base_codename": "warm",
-    "market_names": [
-      "Redmi A4 5G",
-      "POCO C75 5G"
-    ],
-    "name": "Redmi A4 5G",
-    "region": "India",
-    "version": "OS3.0.302.0.WGVINXM",
-    "filename": "warm_in_global_images_OS3.0.302.0.WGVINXM_20260424.0000.00_16.0_in_7d4d130e40.tgz",
-    "filesize": "5.7G",
-    "codebase": "16.0",
-    "md5": "7d4d130e40f2706918d960f463c5b906",
-    "download_url": "https://bigota.d.miui.com/OS3.0.302.0.WGVINXM/warm_in_global_images_OS3.0.302.0.WGVINXM_20260424.0000.00_16.0_in_7d4d130e40.tgz"
-  },
-  {
     "device": "yunluo_global",
     "base_codename": "yunluo",
     "market_names": [
@@ -3415,6 +3414,36 @@
     "codebase": "14.0",
     "md5": "f8dbb84a10dc96a9d3ce9e78883e87f3",
     "download_url": "https://bigota.d.miui.com/OS1.0.9.0.ULYMIXM/yunluo_global_images_OS1.0.9.0.ULYMIXM_20250416.0000.00_14.0_global_f8dbb84a10.tgz"
+  },
+  {
+    "device": "yupei_global",
+    "base_codename": "yupei",
+    "market_names": [
+      "Xiaomi Pad 8"
+    ],
+    "name": "Xiaomi Pad 8",
+    "region": "Global",
+    "version": "OS3.0.303.0.WPZMIXM",
+    "filename": "yupei_global_images_OS3.0.303.0.WPZMIXM_20260702.0000.00_16.0_global_01a14dd01a.tgz",
+    "filesize": "9.5G",
+    "codebase": "16.0",
+    "md5": "01a14dd01aa5e5b1c2b15674dc0a898e",
+    "download_url": "https://bigota.d.miui.com/OS3.0.303.0.WPZMIXM/yupei_global_images_OS3.0.303.0.WPZMIXM_20260702.0000.00_16.0_global_01a14dd01a.tgz"
+  },
+  {
+    "device": "vida_in_global",
+    "base_codename": "vida",
+    "market_names": [
+      "Redmi Note 11 Pro 4G (India)"
+    ],
+    "name": "Redmi Note 11 Pro 4G (India)",
+    "region": "India",
+    "version": "V816.0.4.0.TGDINXM",
+    "filename": "vida_in_global_images_OS1.0.4.0.TGDINXM_20240822.0000.00_13.0_in_f85ede6682.tgz",
+    "filesize": "4.5G",
+    "codebase": "13.0",
+    "md5": "f85ede6682e1d7d58df02cc9840140cc",
+    "download_url": "https://bigota.d.miui.com/OS1.0.4.0.TGDINXM/vida_in_global_images_OS1.0.4.0.TGDINXM_20240822.0000.00_13.0_in_f85ede6682.tgz"
   },
   {
     "device": "zeus_global",
@@ -3432,19 +3461,34 @@
     "download_url": "https://bigota.d.miui.com/OS3.0.4.0.VLBMIXM/zeus_global_images_OS3.0.4.0.VLBMIXM_20260601.0000.00_15.0_global_70c95a776f.tgz"
   },
   {
-    "device": "yupei_global",
-    "base_codename": "yupei",
+    "device": "violet_in_global",
+    "base_codename": "violet",
     "market_names": [
-      "Xiaomi Pad 8"
+      "Redmi Note 7 Pro"
     ],
-    "name": "Xiaomi Pad 8",
+    "name": "Redmi Note 7 Pro",
+    "region": "India",
+    "version": "V12.5.1.0.QFHINXM",
+    "filename": "violet_in_global_images_V12.5.1.0.QFHINXM_20210908.0000.00_10.0_in_107a215f5e.tgz",
+    "filesize": "2.7G",
+    "codebase": "10.0",
+    "md5": "107a215f5eddc0c3903a2e3a7da8d215",
+    "download_url": "https://bigota.d.miui.com/V12.5.1.0.QFHINXM/violet_in_global_images_V12.5.1.0.QFHINXM_20210908.0000.00_10.0_in_107a215f5e.tgz"
+  },
+  {
+    "device": "zircon_global",
+    "base_codename": "zircon",
+    "market_names": [
+      "Redmi Note 13 Pro+"
+    ],
+    "name": "Redmi Note 13 Pro+",
     "region": "Global",
-    "version": "OS3.0.303.0.WPZMIXM",
-    "filename": "yupei_global_images_OS3.0.303.0.WPZMIXM_20260702.0000.00_16.0_global_01a14dd01a.tgz",
-    "filesize": "9.5G",
+    "version": "OS3.0.301.0.WNOMIXM",
+    "filename": "zircon_global_images_OS3.0.301.0.WNOMIXM_20260506.0000.00_16.0_global_2e726c6870.tgz",
+    "filesize": "8.8G",
     "codebase": "16.0",
-    "md5": "01a14dd01aa5e5b1c2b15674dc0a898e",
-    "download_url": "https://bigota.d.miui.com/OS3.0.303.0.WPZMIXM/yupei_global_images_OS3.0.303.0.WPZMIXM_20260702.0000.00_16.0_global_01a14dd01a.tgz"
+    "md5": "2e726c6870de9cd7c9496a2a752e59e8",
+    "download_url": "https://bigota.d.miui.com/OS3.0.301.0.WNOMIXM/zircon_global_images_OS3.0.301.0.WNOMIXM_20260506.0000.00_16.0_global_2e726c6870.tgz"
   },
   {
     "device": "ziyi_global",
@@ -3463,33 +3507,19 @@
     "download_url": "https://bigota.d.miui.com/OS3.0.4.0.VLLMIXM/ziyi_global_images_OS3.0.4.0.VLLMIXM_20260708.0000.00_15.0_global_1e963d26e6.tgz"
   },
   {
-    "device": "zircon_global",
-    "base_codename": "zircon",
+    "device": "warm_in_global",
+    "base_codename": "warm",
     "market_names": [
-      "Redmi Note 13 Pro+"
+      "Redmi A4 5G",
+      "POCO C75 5G"
     ],
-    "name": "Redmi Note 13 Pro+",
-    "region": "Global",
-    "version": "OS3.0.301.0.WNOMIXM",
-    "filename": "zircon_global_images_OS3.0.301.0.WNOMIXM_20260506.0000.00_16.0_global_2e726c6870.tgz",
-    "filesize": "8.8G",
-    "codebase": "16.0",
-    "md5": "2e726c6870de9cd7c9496a2a752e59e8",
-    "download_url": "https://bigota.d.miui.com/OS3.0.301.0.WNOMIXM/zircon_global_images_OS3.0.301.0.WNOMIXM_20260506.0000.00_16.0_global_2e726c6870.tgz"
-  },
-  {
-    "device": "vida_in_global",
-    "base_codename": "vida",
-    "market_names": [
-      "Redmi Note 11 Pro 4G (India)"
-    ],
-    "name": "Redmi Note 11 Pro 4G (India)",
+    "name": "Redmi A4 5G",
     "region": "India",
-    "version": "V816.0.4.0.TGDINXM",
-    "filename": "vida_in_global_images_OS1.0.4.0.TGDINXM_20240822.0000.00_13.0_in_f85ede6682.tgz",
-    "filesize": "4.5G",
-    "codebase": "13.0",
-    "md5": "f85ede6682e1d7d58df02cc9840140cc",
-    "download_url": "https://bigota.d.miui.com/OS1.0.4.0.TGDINXM/vida_in_global_images_OS1.0.4.0.TGDINXM_20240822.0000.00_13.0_in_f85ede6682.tgz"
+    "version": "OS3.0.302.0.WGVINXM",
+    "filename": "warm_in_global_images_OS3.0.302.0.WGVINXM_20260424.0000.00_16.0_in_7d4d130e40.tgz",
+    "filesize": "5.7G",
+    "codebase": "16.0",
+    "md5": "7d4d130e40f2706918d960f463c5b906",
+    "download_url": "https://bigota.d.miui.com/OS3.0.302.0.WGVINXM/warm_in_global_images_OS3.0.302.0.WGVINXM_20260424.0000.00_16.0_in_7d4d130e40.tgz"
   }
 ]
